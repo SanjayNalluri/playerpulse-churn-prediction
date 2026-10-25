@@ -1,0 +1,7 @@
+model,imbalance,valid_pr_auc,test_pr_auc,valid_rank,test_rank
+xgboost,none,0.683,0.599,1,5
+xgboost,class weights,0.676,0.601,2,4
+xgboost,undersampling,0.664,0.572,3,6
+logistic,none,0.64,0.617,4,3
+logistic,class weights,0.64,0.62,5,1
+logistic,undersampling,0.639,0.62,6,1

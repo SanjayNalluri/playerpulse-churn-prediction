@@ -1,0 +1,5 @@
+strategy,players_contacted,share_of_players,churners_caught,share_of_churners_caught,precision,false_alarms,lift_vs_random
+top 5% each month,440,0.05,328,0.259,0.745,112,5.18
+top 10% each month,880,0.1,569,0.449,0.647,311,4.49
+top 20% each month,1762,0.2,896,0.707,0.509,866,3.53
+threshold 0.20 (F1-tuned),1931,0.219,927,0.731,0.48,1004,3.34

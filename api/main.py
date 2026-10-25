@@ -18,6 +18,7 @@ import numpy as np
 import xgboost as xgb
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import RedirectResponse
 from pydantic import BaseModel, Field
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -102,9 +103,10 @@ def score(rows: List[PlayerMonth]) -> List[Prediction]:
     return out
 
 
-@app.get("/")
+@app.get("/", include_in_schema=False)
 def root():
-    return {"service": "PlayerPulse churn API", "docs": "/docs"}
+    # Visitors to the main link land on the interactive docs
+    return RedirectResponse(url="/docs")
 
 
 @app.get("/health")
