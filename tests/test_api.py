@@ -83,3 +83,39 @@ def test_api_matches_trained_pipeline():
     got = [p["churn_probability"] for p in client.post("/predict/batch", json=payload).json()]
     worst = max(abs(a - b) for a, b in zip(got, expected))
     assert worst < 1e-3, worst
+
+
+def test_root_opens_dashboard():
+    r = client.get("/", follow_redirects=False)
+    assert r.status_code in (302, 307) and r.headers["location"] == "/app"
+    page = client.get("/app")
+    assert page.status_code == 200 and "PlayerPulse" in page.text
+
+
+def _parity_rows():
+    with open(ROOT / "models" / "parity_sample.csv") as f:
+        rows = list(csv.DictReader(f))
+    ints = ["level_end", "levels_gained", "active_days", "n_zones", "n_guilds", "days_since_last_seen", "tenure_days"]
+    out = []
+    for r in rows:
+        r.pop("p_pipeline")
+        d = {k: (r[k] if k == "charclass" else float(r[k])) for k in r}
+        for k in ints:
+            d[k] = int(round(d[k]))
+        out.append(d)
+    return out
+
+
+def test_drift_report():
+    body = client.post("/drift", json=_parity_rows()).json()
+    assert body["status"] in {"stable", "watch", "retrain"}
+    assert set(body["psi"]) == set(S["numeric"])
+
+
+def test_drift_detects_shift():
+    shifted = [{**r, "days_since_last_seen": 25, "hours_played": 6} for r in _parity_rows()]
+    assert client.post("/drift", json=shifted).json()["status"] == "retrain"
+
+
+def test_drift_needs_enough_rows():
+    assert client.post("/drift", json=[GOOD] * 10).status_code == 400

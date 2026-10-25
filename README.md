@@ -1,8 +1,8 @@
 # PlayerPulse: Predicting Which Players Will Quit Next Month
 
-**A churn model for an online game, built end to end: raw activity logs → features → imbalanced classification → subgroup performance audit → tested API on the web.**
+**A churn model for an online game, built end to end: raw activity logs → features → imbalanced classification → subgroup performance audit → tested API and dashboard on the web → drift monitoring and retraining check.**
 
-**Live API:** https://playerpulse-api.vercel.app (opens the interactive docs: try `POST /predict` in the browser)
+**Live dashboard:** https://playerpulse-api.vercel.app (score a player in the browser) · **API docs:** https://playerpulse-api.vercel.app/docs
 
 The data is the **World of Warcraft Avatar History** dataset: real activity logs from one WoW server in 2008. Every 10 minutes the server recorded which characters were online, their level, class, race, guild and zone. That gives **10.8 million snapshots for 37,354 characters**.
 
@@ -19,7 +19,8 @@ The data is the **World of Warcraft Avatar History** dataset: real activity logs
 | **Retention budget** | Contacting the riskiest **10%** of players each month catches **45% of churners**, with 65% of contacts being real churners (**4.5× better than random**) |
 | **Imbalance** | At the default 0.5 threshold recall was only 34–38%; class weights, undersampling or a tuned threshold raised it to 65–81% |
 | **Load test (live API)** | **3,380 players scored per second** with batch requests, 0 errors in 3,400 requests |
-| **Tests** | 14 pytest tests, including one that checks the API matches the trained model to 0.001; run by GitHub Actions on every push |
+| **Monitoring** | Drift check flagged the November 2008 expansion from inputs alone (16% unseen class, PSI 0.45) before churn labels arrived; PR-AUC that month fell from 0.68 to 0.50 |
+| **Tests** | 18 pytest tests, including one that checks the API matches the trained model to 0.001 and three for the drift check; run by GitHub Actions on every push |
 
 ---
 
@@ -96,6 +97,8 @@ The big gaps are **level 71–80** and **Death Knights**. Both only exist after 
 | `POST /predict/batch` | up to 500 players at once |
 | `GET /model` | model, threshold, test metrics |
 | `GET /fairness` | subgroup audit: recall / false-positive rate by race, class, level band |
+| `POST /drift` | 100–5,000 recent players → PSI per feature against training, status stable / watch / retrain |
+| `GET /app` | dashboard: preset players, risk meter, warnings, model metrics, subgroup table |
 | `GET /health` | status |
 
 **5. Load test** (`src/step5_load_test.py`, run from India against the live Vercel API)
@@ -108,6 +111,30 @@ The big gaps are **level 71–80** and **Death Knights**. Both only exist after 
 | `/predict/batch` (100 players each) | 20 | 200 | 34 | **3,380** | 497 ms | 733 ms | 0 |
 
 Most of the ~290 ms is the network round trip from India to the server; scoring itself takes a few milliseconds. Single requests top out around 150 per second on the free Vercel plan and slow down at 100 in flight, so **batching is how to reach thousands of predictions per second**. No request failed.
+
+**6. Monitoring and retraining** (`src/step7_monitor.py`)
+Replays August–November as if the model had been live. Each month a monitoring job checks **input drift** right away (PSI against the training months: < 0.10 stable, 0.10–0.25 watch, > 0.25 major) and **performance** one month later, once churn labels exist. Rule: retrain if a feature has PSI > 0.25, more than 5% of players have an unseen class, or PR-AUC drops more than 0.05 below August.
+
+| Month | Largest drift (PSI) | Unseen class | PR-AUC | Recall | Retrain? |
+|---|---|---|---|---|---|
+| Aug (validation) | prev_hours 0.095 | 0% | 0.683 | 0.80 | no |
+| Sep | prev_hours 0.08 | 0% | 0.620 | 0.76 | yes (PR-AUC 0.06 below Aug) |
+| Oct | prev_hours 0.09 | 0% | 0.675 | 0.77 | no |
+| **Nov** | **share_arena 0.45**, levels_gained 0.35 (6 features > 0.10) | **16%** | **0.495** | 0.67 | **yes (all three rules)** |
+
+*tenure_days is left out of the rule: it grows every month by design (PSI 1.4–1.7), so it would fire every time.*
+
+November is the *Wrath of the Lich King* launch: a new class, a new level cap and changed arena play. The input check flags it **on the day the data comes in**, a month before the drop in PR-AUC can be measured. September's alert came from performance alone, with no input drift, so it is likely noise from a 0.05 rule that is a bit tight.
+
+**Does retraining help?** Each test month was also scored by a model retrained on every month whose labels were known by then:
+
+| Month | Retrained on | PR-AUC original | PR-AUC retrained | Change |
+|---|---|---|---|---|
+| Sep | Jan–Aug | 0.620 | 0.623 | +0.003 |
+| Oct | Jan–Sep | 0.675 | 0.670 | −0.005 |
+| Nov | Jan–Oct | 0.495 | 0.510 | +0.015 |
+
+Retraining on more of the **old** game barely changes anything, even in November, because none of the training months contain the expansion. The fix for a content launch is to **retrain once a few weeks of post-launch data are labelled**, and until then lean on the API's warnings for new classes and out-of-range players. Live, the same check runs through `POST /drift`.
 
 The API loads the exported XGBoost trees (`models/booster.json`) with plain NumPy scaling, so it does not need scikit-learn or pandas. `tests/test_api.py` checks input validation, warnings, batch limits, and that its probabilities match the full training pipeline.
 
@@ -123,6 +150,7 @@ python src/step2_train.py
 python src/step3_fairness.py
 python src/step4_export.py
 python src/step6_selection_budget.py   # model choice + budget table
+python src/step7_monitor.py            # drift, monthly performance, retraining replay
 
 pip install -r requirements-dev.txt
 python -m pytest -q
@@ -135,7 +163,8 @@ python src/step5_load_test.py https://playerpulse-api.vercel.app
 - **One server, one year (2008).** Behaviour on a modern game would differ.
 - **"Not seen next month" is a proxy for churn.** Some players come back later.
 - **New content breaks the model** (see subgroup audit): it needs retraining after big updates.
-- **Free-tier hosting:** Vercel's free plan limits single-request throughput; drift monitoring and an Azure deployment are planned next.
+- **Monitoring is a replay**, not a scheduled job on live traffic, and the API does not store requests, so `POST /drift` needs the batch sent to it.
+- **Free-tier hosting:** Vercel's free plan limits single-request throughput; batching is the way around it.
 
 ---
 

@@ -1,4 +1,4 @@
 {
-  "functions": { "api/main.py": { "includeFiles": "models/**" } },
+  "functions": { "api/main.py": { "includeFiles": "{models/**,api/dashboard.py}" } },
   "rewrites": [{ "source": "/(.*)", "destination": "/api/main" }]
 }

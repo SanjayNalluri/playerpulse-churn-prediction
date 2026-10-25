@@ -1,0 +1,4 @@
+month,retrained_on,pr_auc_original,pr_auc_retrained,change
+9,months 1-8,0.62,0.623,0.003
+10,months 1-9,0.675,0.67,-0.005
+11,months 1-10,0.495,0.51,0.015

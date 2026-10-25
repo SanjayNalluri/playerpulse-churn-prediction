@@ -4,9 +4,12 @@ PlayerPulse API - churn risk for engaged World of Warcraft players.
 POST /predict         one player-month  -> churn probability, risk level, warnings
 POST /predict/batch   up to 500 player-months
 GET  /model           model type, threshold and test metrics
-GET  /fairness        recall / false-positive rate by race, class and level band
+GET  /fairness        subgroup audit: recall / false-positive rate by race, class and level band
+POST /drift           a batch of recent player-months -> feature drift (PSI) against the training data
+GET  /app             dashboard: try a player, see model metrics and the subgroup audit
 GET  /health
 """
+import importlib.util
 import json
 import logging
 import sys
@@ -18,7 +21,7 @@ import numpy as np
 import xgboost as xgb
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import RedirectResponse
+from fastapi.responses import HTMLResponse, RedirectResponse
 from pydantic import BaseModel, Field
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -29,6 +32,12 @@ if S["model"] == "xgboost":
     BOOSTER.load_model(str(ROOT / "models" / "booster.json"))
 MEAN, SCALE = np.array(S["mean"]), np.array(S["scale"])
 CLASSES = S["categories"][0]
+DRIFT_FILE = ROOT / "models" / "drift_reference.json"
+DRIFT = json.loads(DRIFT_FILE.read_text()) if DRIFT_FILE.exists() else None
+# dashboard page lives in api/dashboard.py; loaded by path so it works the same locally and on Vercel
+_spec = importlib.util.spec_from_file_location("pp_dashboard", Path(__file__).with_name("dashboard.py"))
+_mod = importlib.util.module_from_spec(_spec); _spec.loader.exec_module(_mod)
+DASHBOARD = _mod.PAGE
 
 log = logging.getLogger("playerpulse")
 if not log.handlers:
@@ -105,8 +114,13 @@ def score(rows: List[PlayerMonth]) -> List[Prediction]:
 
 @app.get("/", include_in_schema=False)
 def root():
-    # Visitors to the main link land on the interactive docs
-    return RedirectResponse(url="/docs")
+    # Visitors to the main link land on the dashboard
+    return RedirectResponse(url="/app")
+
+
+@app.get("/app", include_in_schema=False, response_class=HTMLResponse)
+def dashboard():
+    return DASHBOARD
 
 
 @app.get("/health")
@@ -116,8 +130,10 @@ def health():
 
 @app.get("/model")
 def model_info():
-    return {k: S[k] for k in ["model", "imbalance", "threshold", "train_months", "min_hours",
+    info = {k: S[k] for k in ["model", "imbalance", "threshold", "train_months", "min_hours",
                               "test_metrics", "train_churn_rate"]}
+    info["classes"] = CLASSES
+    return info
 
 
 @app.get("/fairness")
@@ -142,3 +158,43 @@ def predict_batch(rows: List[PlayerMonth]):
     res = score(rows)
     log.info(json.dumps({"event": "batch", "rows": len(rows), "ms": round(1000 * (time.perf_counter() - t0), 2)}))
     return res
+
+
+class DriftReport(BaseModel):
+    rows: int
+    status: Literal["stable", "watch", "retrain"]
+    psi: dict
+    drifting_features: List[str]
+    unseen_class_share: float
+    note: str
+
+
+def _shares(x, cuts):
+    return np.bincount(np.searchsorted(cuts, x, side="right"), minlength=len(cuts) + 1) / len(x)
+
+
+@app.post("/drift", response_model=DriftReport)
+def drift(rows: List[PlayerMonth]):
+    """Send a recent batch (e.g. last month's players) and get each feature's PSI against training."""
+    if DRIFT is None:
+        raise HTTPException(503, "drift reference not available")
+    if not 100 <= len(rows) <= 5000:
+        raise HTTPException(400, "send between 100 and 5000 rows (PSI needs a reasonable sample)")
+    th = DRIFT["thresholds"]
+    out = {}
+    for c, r in DRIFT["features"].items():
+        ref = np.clip(np.array(r["ref_shares"]), 1e-4, None)
+        cur = np.clip(_shares(np.array([getattr(p, c) for p in rows], dtype=float), r["cuts"]), 1e-4, None)
+        out[c] = round(float(np.sum((cur - ref) * np.log(cur / ref))), 3)
+    unseen = sum(p.charclass not in DRIFT["classes"] for p in rows) / len(rows)
+    skip = set(DRIFT.get("not_in_trigger", []))  # e.g. tenure grows every month by design
+    worst = max(v for c, v in out.items() if c not in skip)
+    status = ("retrain" if worst > th["psi_major"] or unseen > th.get("unseen_class_max", 0.05)
+              else "watch" if worst > th["psi_watch"] else "stable")
+    log.info(json.dumps({"event": "drift", "rows": len(rows), "status": status, "max_psi": worst}))
+    return DriftReport(rows=len(rows), status=status, psi=out,
+                       drifting_features=sorted([c for c, v in out.items() if v > th["psi_watch"] and c not in skip],
+                                                key=lambda c: -out[c]),
+                       unseen_class_share=round(unseen, 3),
+                       note="PSI < 0.10 stable, 0.10-0.25 watch, > 0.25 or > 5% unseen classes: retrain "
+                            "(tenure_days is reported but not used, it grows every month)")

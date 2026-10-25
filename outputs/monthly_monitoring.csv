@@ -1,0 +1,5 @@
+month,players,churn_rate,max_psi_feature,max_psi,features_psi_over_0.10,tenure_psi,unseen_class_share,pr_auc,recall,retrain
+8,2991,0.152,prev_hours,0.095,0,1.361,0.0,0.683,0.8,no
+9,2929,0.13,prev_hours,0.079,0,1.464,0.0,0.62,0.761,YES: PR-AUC 0.62 vs 0.68 in Aug
+10,2865,0.154,prev_hours,0.085,0,1.59,0.0,0.675,0.766,no
+11,3020,0.148,share_arena,0.452,6,1.712,0.157,0.495,0.672,YES: share_arena PSI 0.45; 16% unseen class; PR-AUC 0.50 vs 0.68 in Aug
