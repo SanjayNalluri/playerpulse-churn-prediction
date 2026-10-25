@@ -1,0 +1,20 @@
+attribute,group,rows,churn_rate,recall,fpr,precision
+race,Blood Elf,3249.0,0.164,0.767,0.144,0.511
+race,Orc,808.0,0.131,0.689,0.134,0.437
+race,Tauren,1855.0,0.131,0.733,0.128,0.464
+race,Troll,940.0,0.149,0.714,0.124,0.503
+race,Undead,1962.0,0.125,0.679,0.125,0.438
+charclass,Death Knight,475.0,0.105,0.44,0.08,0.393
+charclass,Druid,745.0,0.141,0.8,0.145,0.475
+charclass,Hunter,1323.0,0.145,0.75,0.136,0.483
+charclass,Mage,1178.0,0.157,0.735,0.113,0.548
+charclass,Paladin,880.0,0.151,0.767,0.142,0.49
+charclass,Priest,815.0,0.119,0.66,0.114,0.438
+charclass,Rogue,847.0,0.169,0.776,0.178,0.47
+charclass,Shaman,605.0,0.152,0.674,0.121,0.5
+charclass,Warlock,1041.0,0.139,0.731,0.147,0.445
+charclass,Warrior,905.0,0.139,0.762,0.134,0.48
+level_band,1-59,2431.0,0.292,0.817,0.28,0.546
+level_band,60-69,1063.0,0.13,0.717,0.116,0.481
+level_band,70 (max pre-WotLK),4261.0,0.092,0.612,0.102,0.379
+level_band,71-80,1059.0,0.025,0.269,0.019,0.259

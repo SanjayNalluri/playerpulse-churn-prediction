@@ -1,0 +1,50 @@
+{
+  "model": "xgboost",
+  "imbalance": "none",
+  "threshold": 0.2005,
+  "min_hours": 5,
+  "features": [
+    "level_end",
+    "levels_gained",
+    "hours_played",
+    "active_days",
+    "n_zones",
+    "n_guilds",
+    "share_city",
+    "share_dungeon",
+    "share_battleground",
+    "share_arena",
+    "share_in_guild",
+    "days_since_last_seen",
+    "tenure_days",
+    "prev_hours",
+    "hours_change",
+    "charclass"
+  ],
+  "train_months": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "valid_months": [
+    8
+  ],
+  "test_months": [
+    9,
+    10,
+    11
+  ],
+  "test": {
+    "pr_auc": 0.5992,
+    "roc_auc": 0.886,
+    "precision": 0.4801,
+    "recall": 0.7311,
+    "f1": 0.5796,
+    "top10pct_capture": 0.4527
+  },
+  "train_churn_rate": 0.1306
+}

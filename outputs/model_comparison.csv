@@ -1,0 +1,13 @@
+model,imbalance,threshold,threshold_value,pr_auc,roc_auc,precision,recall,f1,top10pct_capture
+logistic,none,0.5,0.5,0.617,0.877,0.75,0.338,0.465,0.476
+logistic,none,tuned on Aug,0.241,0.617,0.877,0.58,0.588,0.584,0.476
+logistic,class weights,0.5,0.5,0.62,0.883,0.453,0.752,0.565,0.459
+logistic,class weights,tuned on Aug,0.644,0.62,0.883,0.557,0.647,0.599,0.459
+logistic,undersampling,0.5,0.5,0.62,0.882,0.457,0.746,0.567,0.465
+logistic,undersampling,tuned on Aug,0.631,0.62,0.882,0.555,0.647,0.597,0.465
+xgboost,none,0.5,0.5,0.599,0.886,0.683,0.38,0.488,0.453
+xgboost,none,tuned on Aug,0.2,0.599,0.886,0.48,0.731,0.58,0.453
+xgboost,class weights,0.5,0.5,0.601,0.883,0.46,0.755,0.572,0.451
+xgboost,class weights,tuned on Aug,0.559,0.601,0.883,0.484,0.711,0.576,0.451
+xgboost,undersampling,0.5,0.5,0.572,0.882,0.412,0.808,0.546,0.425
+xgboost,undersampling,tuned on Aug,0.711,0.572,0.882,0.502,0.683,0.578,0.425

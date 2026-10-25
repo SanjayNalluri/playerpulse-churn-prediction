@@ -1,0 +1,7 @@
+data/
+models/model.joblib
+__pycache__/
+.venv/
+.env
+.vercel
+*.pyc

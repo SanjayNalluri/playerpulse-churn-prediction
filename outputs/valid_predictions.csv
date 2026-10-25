@@ -1,0 +1,2992 @@
+char,month,race,charclass,level_band,churned,p_churn
+21,8,Orc,Hunter,70 (max pre-WotLK),0,0.011458265
+23,8,Orc,Hunter,70 (max pre-WotLK),0,0.029922672
+28,8,Orc,Hunter,70 (max pre-WotLK),0,0.0022724539
+31,8,Orc,Shaman,70 (max pre-WotLK),0,0.01638019
+36,8,Orc,Shaman,70 (max pre-WotLK),0,0.001185985
+37,8,Orc,Warrior,70 (max pre-WotLK),0,0.028669244
+38,8,Orc,Hunter,70 (max pre-WotLK),0,0.056242812
+44,8,Orc,Rogue,70 (max pre-WotLK),0,0.0234008
+53,8,Orc,Hunter,70 (max pre-WotLK),0,0.0053887474
+57,8,Orc,Warrior,70 (max pre-WotLK),0,0.005805809
+68,8,Tauren,Warrior,70 (max pre-WotLK),0,0.33514675
+84,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0031744386
+87,8,Tauren,Shaman,70 (max pre-WotLK),0,0.058518004
+94,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0013424954
+96,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0029713502
+108,8,Tauren,Warrior,70 (max pre-WotLK),1,0.017006215
+112,8,Tauren,Druid,70 (max pre-WotLK),1,0.05813221
+122,8,Tauren,Hunter,70 (max pre-WotLK),0,0.36091813
+132,8,Tauren,Warrior,70 (max pre-WotLK),0,0.064094216
+140,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0006685188
+148,8,Tauren,Shaman,70 (max pre-WotLK),0,0.00278168
+152,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0025164569
+155,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0068454924
+159,8,Tauren,Warrior,70 (max pre-WotLK),0,0.021588026
+162,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0031047536
+166,8,Tauren,Shaman,70 (max pre-WotLK),0,0.025103327
+182,8,Troll,Hunter,1-59,0,0.0067742895
+201,8,Troll,Hunter,60-69,0,0.010280191
+203,8,Troll,Mage,70 (max pre-WotLK),0,0.0040359995
+212,8,Troll,Mage,70 (max pre-WotLK),0,0.11768604
+246,8,Troll,Priest,70 (max pre-WotLK),0,0.024509756
+271,8,Undead,Mage,70 (max pre-WotLK),0,0.01730381
+278,8,Undead,Mage,70 (max pre-WotLK),0,0.20799516
+291,8,Undead,Mage,70 (max pre-WotLK),0,0.021139234
+297,8,Undead,Warlock,70 (max pre-WotLK),0,0.020334318
+301,8,Undead,Priest,70 (max pre-WotLK),0,0.0099694505
+303,8,Undead,Priest,70 (max pre-WotLK),0,0.004165532
+308,8,Undead,Mage,70 (max pre-WotLK),0,0.004126276
+323,8,Undead,Rogue,70 (max pre-WotLK),0,0.008130148
+331,8,Undead,Warrior,70 (max pre-WotLK),0,0.018277463
+343,8,Undead,Priest,70 (max pre-WotLK),0,0.334173
+345,8,Undead,Mage,70 (max pre-WotLK),0,0.08893302
+347,8,Undead,Rogue,70 (max pre-WotLK),0,0.007993472
+352,8,Undead,Mage,70 (max pre-WotLK),0,0.019857345
+363,8,Undead,Mage,70 (max pre-WotLK),0,0.017974027
+379,8,Undead,Mage,70 (max pre-WotLK),0,0.029209442
+383,8,Undead,Priest,70 (max pre-WotLK),1,0.3423608
+388,8,Undead,Rogue,70 (max pre-WotLK),0,0.0060057673
+391,8,Undead,Rogue,70 (max pre-WotLK),0,0.058054727
+393,8,Undead,Warlock,70 (max pre-WotLK),0,0.14193815
+401,8,Undead,Warlock,70 (max pre-WotLK),0,0.03273339
+405,8,Undead,Warrior,70 (max pre-WotLK),0,0.00517008
+410,8,Orc,Hunter,70 (max pre-WotLK),0,0.070598245
+414,8,Tauren,Shaman,70 (max pre-WotLK),1,0.5577184
+417,8,Troll,Warrior,70 (max pre-WotLK),0,0.05175832
+419,8,Undead,Priest,60-69,0,0.4191959
+420,8,Undead,Rogue,70 (max pre-WotLK),0,0.0040494483
+426,8,Tauren,Shaman,70 (max pre-WotLK),0,0.003150879
+427,8,Tauren,Druid,70 (max pre-WotLK),0,0.0027168246
+428,8,Tauren,Druid,70 (max pre-WotLK),0,0.01491519
+429,8,Tauren,Warrior,70 (max pre-WotLK),0,0.004867078
+437,8,Troll,Shaman,70 (max pre-WotLK),0,0.03710551
+443,8,Undead,Warlock,70 (max pre-WotLK),0,0.0061699073
+460,8,Undead,Mage,70 (max pre-WotLK),0,0.0010967014
+476,8,Tauren,Warrior,70 (max pre-WotLK),0,0.037321027
+489,8,Undead,Warlock,70 (max pre-WotLK),0,0.02619574
+492,8,Undead,Mage,70 (max pre-WotLK),0,0.01338958
+507,8,Tauren,Druid,70 (max pre-WotLK),0,0.033793475
+508,8,Tauren,Druid,70 (max pre-WotLK),0,0.0016539658
+513,8,Troll,Rogue,70 (max pre-WotLK),0,0.046428807
+531,8,Troll,Hunter,70 (max pre-WotLK),0,0.0057595144
+540,8,Undead,Mage,70 (max pre-WotLK),0,0.012569469
+554,8,Undead,Mage,70 (max pre-WotLK),0,0.029857872
+555,8,Undead,Mage,60-69,0,0.00903218
+556,8,Undead,Mage,70 (max pre-WotLK),1,0.25752127
+565,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0045325994
+567,8,Tauren,Shaman,70 (max pre-WotLK),0,0.035303626
+582,8,Orc,Warrior,70 (max pre-WotLK),0,0.0037321937
+593,8,Undead,Mage,70 (max pre-WotLK),0,0.0040132925
+601,8,Tauren,Druid,70 (max pre-WotLK),0,0.0026856968
+612,8,Undead,Warrior,70 (max pre-WotLK),0,0.012452081
+616,8,Orc,Hunter,70 (max pre-WotLK),0,0.3899712
+636,8,Troll,Rogue,70 (max pre-WotLK),0,0.019064413
+640,8,Undead,Warlock,70 (max pre-WotLK),0,0.016062869
+663,8,Troll,Shaman,70 (max pre-WotLK),0,0.5032929
+673,8,Undead,Warlock,70 (max pre-WotLK),0,0.029065609
+695,8,Undead,Rogue,70 (max pre-WotLK),0,0.02101826
+697,8,Troll,Hunter,70 (max pre-WotLK),0,0.031919483
+701,8,Undead,Warlock,70 (max pre-WotLK),0,0.0031139043
+722,8,Undead,Warlock,70 (max pre-WotLK),0,0.039603394
+754,8,Tauren,Warrior,70 (max pre-WotLK),0,0.30561733
+759,8,Tauren,Warrior,70 (max pre-WotLK),0,0.025639024
+764,8,Orc,Warrior,70 (max pre-WotLK),0,0.004809883
+765,8,Tauren,Druid,1-59,0,0.0065992177
+767,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0072357194
+770,8,Undead,Rogue,70 (max pre-WotLK),0,0.010135888
+782,8,Undead,Warlock,70 (max pre-WotLK),0,0.0023936545
+798,8,Troll,Hunter,1-59,0,0.009093214
+804,8,Troll,Shaman,70 (max pre-WotLK),1,0.21706192
+806,8,Tauren,Druid,70 (max pre-WotLK),0,0.004903625
+819,8,Tauren,Warrior,70 (max pre-WotLK),0,0.107425906
+820,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0010527711
+842,8,Troll,Mage,70 (max pre-WotLK),0,0.29429728
+850,8,Tauren,Druid,1-59,0,0.3641747
+855,8,Tauren,Druid,1-59,1,0.03444178
+862,8,Tauren,Hunter,70 (max pre-WotLK),0,0.0075101336
+869,8,Tauren,Shaman,1-59,1,0.5833222
+881,8,Troll,Rogue,70 (max pre-WotLK),0,0.01470767
+889,8,Troll,Shaman,70 (max pre-WotLK),1,0.18531731
+939,8,Tauren,Warrior,70 (max pre-WotLK),0,0.001268974
+943,8,Undead,Mage,70 (max pre-WotLK),1,0.18369047
+944,8,Undead,Warlock,70 (max pre-WotLK),0,0.021178074
+971,8,Undead,Mage,70 (max pre-WotLK),0,0.019812606
+978,8,Orc,Rogue,1-59,1,0.6177971
+1003,8,Orc,Warrior,70 (max pre-WotLK),0,0.006900403
+1020,8,Troll,Mage,70 (max pre-WotLK),0,0.0029650002
+1022,8,Undead,Priest,70 (max pre-WotLK),0,0.00695642
+1024,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.006625224
+1027,8,Undead,Rogue,70 (max pre-WotLK),0,0.0675417
+1028,8,Orc,Shaman,70 (max pre-WotLK),0,0.016789857
+1029,8,Orc,Hunter,70 (max pre-WotLK),0,0.3537041
+1043,8,Orc,Warlock,70 (max pre-WotLK),0,0.00291294
+1055,8,Undead,Warlock,70 (max pre-WotLK),0,0.009170117
+1058,8,Orc,Rogue,70 (max pre-WotLK),0,0.014048884
+1070,8,Undead,Warlock,70 (max pre-WotLK),0,0.0029981034
+1075,8,Undead,Warlock,70 (max pre-WotLK),0,0.0013119371
+1094,8,Undead,Rogue,70 (max pre-WotLK),0,0.0016180013
+1102,8,Undead,Priest,70 (max pre-WotLK),0,0.0023013789
+1108,8,Undead,Warlock,1-59,0,0.009172976
+1123,8,Troll,Rogue,70 (max pre-WotLK),0,0.057711694
+1131,8,Troll,Hunter,70 (max pre-WotLK),0,0.044827767
+1148,8,Troll,Rogue,70 (max pre-WotLK),0,0.0011645189
+1161,8,Tauren,Shaman,70 (max pre-WotLK),0,0.008191214
+1162,8,Troll,Priest,70 (max pre-WotLK),0,0.022283718
+1169,8,Tauren,Warrior,70 (max pre-WotLK),0,0.34447277
+1170,8,Tauren,Druid,70 (max pre-WotLK),0,0.0024297556
+1177,8,Undead,Mage,70 (max pre-WotLK),0,0.0008345044
+1217,8,Orc,Warrior,70 (max pre-WotLK),0,0.0010622091
+1222,8,Undead,Warrior,70 (max pre-WotLK),0,0.01553415
+1229,8,Undead,Mage,70 (max pre-WotLK),0,0.0037456378
+1231,8,Undead,Priest,70 (max pre-WotLK),0,0.009127807
+1243,8,Troll,Mage,70 (max pre-WotLK),0,0.021804577
+1244,8,Troll,Hunter,70 (max pre-WotLK),0,0.055360243
+1245,8,Undead,Warlock,60-69,0,0.021902377
+1246,8,Undead,Mage,70 (max pre-WotLK),0,0.045727964
+1261,8,Undead,Mage,70 (max pre-WotLK),0,0.00091878074
+1277,8,Troll,Hunter,70 (max pre-WotLK),0,0.015777273
+1286,8,Undead,Warrior,70 (max pre-WotLK),0,0.019681003
+1293,8,Troll,Priest,1-59,0,0.0032173742
+1300,8,Troll,Mage,70 (max pre-WotLK),0,0.0019667924
+1311,8,Undead,Warlock,70 (max pre-WotLK),1,0.38421804
+1321,8,Tauren,Druid,70 (max pre-WotLK),0,0.010070355
+1353,8,Blood Elf,Hunter,60-69,0,0.025927793
+1365,8,Undead,Mage,1-59,0,0.0127766365
+1368,8,Orc,Hunter,70 (max pre-WotLK),0,0.020206455
+1379,8,Orc,Hunter,70 (max pre-WotLK),0,0.004727797
+1384,8,Undead,Warlock,70 (max pre-WotLK),0,0.0008116822
+1386,8,Troll,Shaman,70 (max pre-WotLK),0,0.00090958754
+1390,8,Tauren,Druid,70 (max pre-WotLK),0,0.002721547
+1395,8,Tauren,Druid,70 (max pre-WotLK),0,0.027683249
+1405,8,Undead,Warlock,1-59,1,0.603207
+1409,8,Orc,Warrior,70 (max pre-WotLK),0,0.1241146
+1410,8,Tauren,Druid,70 (max pre-WotLK),0,0.04448848
+1415,8,Tauren,Shaman,70 (max pre-WotLK),0,0.032357015
+1443,8,Troll,Priest,70 (max pre-WotLK),0,0.0029730303
+1449,8,Undead,Warrior,70 (max pre-WotLK),0,0.006533057
+1459,8,Tauren,Druid,70 (max pre-WotLK),0,0.001905545
+1481,8,Undead,Priest,70 (max pre-WotLK),0,0.0024439588
+1489,8,Tauren,Druid,70 (max pre-WotLK),0,0.00886861
+1491,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0029160606
+1501,8,Orc,Warrior,60-69,0,0.03140018
+1513,8,Undead,Priest,70 (max pre-WotLK),0,0.012421428
+1530,8,Tauren,Shaman,60-69,0,0.15874222
+1540,8,Tauren,Druid,70 (max pre-WotLK),1,0.011178316
+1551,8,Troll,Mage,70 (max pre-WotLK),0,0.22600293
+1554,8,Undead,Priest,70 (max pre-WotLK),0,0.010525147
+1563,8,Undead,Mage,70 (max pre-WotLK),0,0.3709782
+1564,8,Orc,Warrior,70 (max pre-WotLK),0,0.02019278
+1567,8,Tauren,Druid,70 (max pre-WotLK),1,0.25362748
+1581,8,Tauren,Warrior,70 (max pre-WotLK),0,0.009049319
+1617,8,Tauren,Warrior,70 (max pre-WotLK),0,0.025360696
+1642,8,Orc,Hunter,70 (max pre-WotLK),0,0.00963161
+1645,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0027478063
+1647,8,Undead,Warlock,60-69,0,0.1619264
+1669,8,Tauren,Shaman,60-69,0,0.04076152
+1690,8,Troll,Hunter,70 (max pre-WotLK),0,0.10458654
+1705,8,Undead,Warlock,70 (max pre-WotLK),0,0.018642113
+1717,8,Tauren,Warrior,70 (max pre-WotLK),1,0.024691977
+1774,8,Undead,Rogue,70 (max pre-WotLK),0,0.35924777
+1784,8,Undead,Priest,70 (max pre-WotLK),0,0.003388348
+1798,8,Undead,Rogue,70 (max pre-WotLK),0,0.017421877
+1801,8,Orc,Hunter,70 (max pre-WotLK),0,0.0039504697
+1805,8,Orc,Hunter,60-69,1,0.62765193
+1834,8,Tauren,Druid,70 (max pre-WotLK),0,0.005797558
+1872,8,Orc,Warrior,70 (max pre-WotLK),0,0.0031730118
+1915,8,Undead,Mage,70 (max pre-WotLK),0,0.14312351
+1936,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0781968
+1959,8,Undead,Warlock,70 (max pre-WotLK),0,0.039743237
+1974,8,Orc,Warlock,70 (max pre-WotLK),0,0.0014873417
+2001,8,Undead,Warlock,70 (max pre-WotLK),0,0.0131631885
+2029,8,Tauren,Hunter,60-69,0,0.042946488
+2035,8,Undead,Priest,70 (max pre-WotLK),0,0.0050447797
+2058,8,Undead,Warlock,70 (max pre-WotLK),0,0.0020461446
+2079,8,Tauren,Warrior,70 (max pre-WotLK),0,0.03690111
+2088,8,Troll,Warrior,70 (max pre-WotLK),0,0.07080322
+2111,8,Tauren,Hunter,70 (max pre-WotLK),1,0.30601323
+2145,8,Troll,Rogue,70 (max pre-WotLK),0,0.0063493885
+2158,8,Tauren,Hunter,70 (max pre-WotLK),0,0.026853949
+2166,8,Undead,Priest,70 (max pre-WotLK),0,0.009328375
+2202,8,Troll,Mage,70 (max pre-WotLK),0,0.011250463
+2211,8,Undead,Mage,70 (max pre-WotLK),0,0.038086813
+2240,8,Undead,Mage,60-69,0,0.022382773
+2254,8,Troll,Rogue,70 (max pre-WotLK),0,0.0017859243
+2288,8,Orc,Hunter,60-69,0,0.038219135
+2289,8,Orc,Hunter,60-69,0,0.038219135
+2309,8,Troll,Hunter,70 (max pre-WotLK),0,0.007915806
+2317,8,Undead,Warrior,70 (max pre-WotLK),0,0.008154335
+2377,8,Troll,Hunter,1-59,0,0.07845072
+2381,8,Tauren,Hunter,70 (max pre-WotLK),0,0.011710982
+2383,8,Tauren,Warrior,70 (max pre-WotLK),0,0.023213336
+2401,8,Undead,Priest,70 (max pre-WotLK),0,0.0090368325
+2424,8,Orc,Hunter,70 (max pre-WotLK),0,0.10843366
+2450,8,Troll,Shaman,1-59,0,0.47151816
+2511,8,Undead,Mage,1-59,0,0.049686287
+2515,8,Tauren,Druid,1-59,0,0.39337417
+2534,8,Undead,Rogue,60-69,0,0.013661512
+2579,8,Undead,Rogue,70 (max pre-WotLK),1,0.016787497
+2584,8,Troll,Shaman,70 (max pre-WotLK),0,0.010252385
+2603,8,Orc,Warlock,70 (max pre-WotLK),0,0.003526023
+2633,8,Undead,Warrior,70 (max pre-WotLK),0,0.0072740084
+2658,8,Undead,Rogue,70 (max pre-WotLK),1,0.024187744
+2663,8,Orc,Warrior,70 (max pre-WotLK),0,0.06250866
+2692,8,Troll,Hunter,70 (max pre-WotLK),0,0.0026979733
+2695,8,Orc,Warlock,70 (max pre-WotLK),1,0.4695187
+2715,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.004572922
+2763,8,Undead,Mage,70 (max pre-WotLK),0,0.019143932
+2808,8,Orc,Hunter,70 (max pre-WotLK),0,0.0029806315
+2854,8,Troll,Rogue,70 (max pre-WotLK),0,0.0042940634
+2866,8,Undead,Priest,70 (max pre-WotLK),0,0.0006480387
+2874,8,Tauren,Warrior,1-59,0,0.027682427
+2916,8,Troll,Hunter,70 (max pre-WotLK),0,0.005560768
+2968,8,Undead,Rogue,70 (max pre-WotLK),0,0.0016275669
+2993,8,Undead,Mage,70 (max pre-WotLK),0,0.00029496555
+2998,8,Undead,Priest,70 (max pre-WotLK),0,0.005089218
+3017,8,Orc,Hunter,60-69,1,0.5295286
+3029,8,Orc,Warrior,70 (max pre-WotLK),0,0.0019737892
+3100,8,Undead,Mage,70 (max pre-WotLK),0,0.002560531
+3160,8,Troll,Mage,70 (max pre-WotLK),0,0.050698664
+3176,8,Troll,Rogue,70 (max pre-WotLK),0,0.01815375
+3187,8,Tauren,Druid,70 (max pre-WotLK),1,0.31940195
+3218,8,Tauren,Druid,70 (max pre-WotLK),1,0.39563555
+3236,8,Undead,Mage,70 (max pre-WotLK),0,0.15547912
+3249,8,Tauren,Hunter,70 (max pre-WotLK),0,0.030384587
+3275,8,Tauren,Shaman,70 (max pre-WotLK),0,0.10291658
+3322,8,Undead,Warlock,70 (max pre-WotLK),0,0.017502217
+3344,8,Orc,Hunter,70 (max pre-WotLK),0,0.024073401
+3380,8,Tauren,Warrior,60-69,0,0.24674194
+3472,8,Tauren,Druid,70 (max pre-WotLK),0,0.006992363
+3491,8,Troll,Shaman,70 (max pre-WotLK),1,0.5769699
+3571,8,Tauren,Druid,70 (max pre-WotLK),0,0.00073820795
+3588,8,Undead,Warlock,70 (max pre-WotLK),0,0.009459745
+3634,8,Orc,Warrior,70 (max pre-WotLK),0,0.0019871756
+3713,8,Undead,Priest,70 (max pre-WotLK),0,0.00076337013
+3735,8,Orc,Hunter,60-69,0,0.029629057
+3760,8,Tauren,Druid,70 (max pre-WotLK),0,0.29079166
+3923,8,Tauren,Warrior,70 (max pre-WotLK),0,0.003441291
+3965,8,Tauren,Warrior,70 (max pre-WotLK),0,0.010777957
+3992,8,Tauren,Hunter,1-59,0,0.09376247
+3994,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0048466213
+4006,8,Tauren,Hunter,70 (max pre-WotLK),1,0.044217326
+4197,8,Tauren,Druid,70 (max pre-WotLK),0,0.028504623
+4198,8,Undead,Priest,70 (max pre-WotLK),0,0.021757774
+4235,8,Undead,Priest,70 (max pre-WotLK),1,0.40855834
+4302,8,Troll,Priest,70 (max pre-WotLK),0,0.0075341337
+4317,8,Troll,Rogue,70 (max pre-WotLK),0,0.002916672
+4318,8,Undead,Warrior,70 (max pre-WotLK),0,0.0033130792
+4395,8,Tauren,Hunter,70 (max pre-WotLK),0,0.019409249
+4399,8,Tauren,Warrior,70 (max pre-WotLK),0,0.022506757
+4410,8,Undead,Mage,70 (max pre-WotLK),0,0.17326693
+4426,8,Troll,Hunter,70 (max pre-WotLK),0,0.04373324
+4507,8,Undead,Mage,1-59,0,0.008490922
+4514,8,Undead,Warlock,70 (max pre-WotLK),0,0.008706189
+4629,8,Tauren,Shaman,60-69,0,0.0039275126
+4650,8,Tauren,Warrior,70 (max pre-WotLK),0,0.016108405
+4700,8,Troll,Hunter,1-59,0,0.007625575
+4734,8,Blood Elf,Paladin,60-69,0,0.004672557
+4834,8,Tauren,Druid,60-69,0,0.0036696524
+4838,8,Undead,Priest,70 (max pre-WotLK),0,0.008268238
+4858,8,Undead,Rogue,70 (max pre-WotLK),0,0.052613474
+4968,8,Troll,Warrior,70 (max pre-WotLK),0,0.007111089
+4988,8,Undead,Mage,70 (max pre-WotLK),0,0.04501166
+4989,8,Tauren,Shaman,70 (max pre-WotLK),0,0.15467563
+5007,8,Undead,Priest,70 (max pre-WotLK),0,0.011123098
+5015,8,Tauren,Druid,70 (max pre-WotLK),0,0.0016356255
+5057,8,Undead,Rogue,60-69,1,0.2998648
+5088,8,Orc,Warlock,70 (max pre-WotLK),0,0.012371369
+5198,8,Undead,Mage,70 (max pre-WotLK),0,0.0039142566
+5269,8,Undead,Priest,70 (max pre-WotLK),0,0.003260913
+5309,8,Undead,Priest,70 (max pre-WotLK),1,0.004989577
+5311,8,Tauren,Druid,70 (max pre-WotLK),1,0.5325176
+5456,8,Undead,Warlock,70 (max pre-WotLK),0,0.0030475715
+5483,8,Undead,Rogue,70 (max pre-WotLK),0,0.0064992583
+5504,8,Tauren,Warrior,1-59,0,0.02394652
+5554,8,Undead,Rogue,70 (max pre-WotLK),1,0.69549096
+5605,8,Troll,Priest,70 (max pre-WotLK),0,0.05109395
+5621,8,Orc,Rogue,1-59,0,0.018773654
+5717,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.02169074
+5730,8,Undead,Warrior,70 (max pre-WotLK),1,0.43035385
+5758,8,Orc,Warrior,70 (max pre-WotLK),0,0.0549723
+5783,8,Tauren,Hunter,70 (max pre-WotLK),0,0.015548457
+5812,8,Tauren,Druid,70 (max pre-WotLK),0,0.0022320165
+5985,8,Undead,Mage,70 (max pre-WotLK),0,0.16510981
+6062,8,Troll,Hunter,70 (max pre-WotLK),1,0.69128305
+6142,8,Tauren,Druid,70 (max pre-WotLK),0,0.0026164325
+6144,8,Tauren,Warrior,70 (max pre-WotLK),1,0.79056734
+6231,8,Undead,Warrior,70 (max pre-WotLK),0,0.018006064
+6241,8,Orc,Hunter,70 (max pre-WotLK),0,0.0058856895
+6359,8,Tauren,Hunter,70 (max pre-WotLK),0,0.011966723
+6387,8,Troll,Hunter,70 (max pre-WotLK),0,0.21756345
+6478,8,Troll,Rogue,60-69,0,0.008293798
+6537,8,Orc,Warlock,70 (max pre-WotLK),0,0.019354839
+6600,8,Tauren,Warrior,70 (max pre-WotLK),0,0.010719415
+6759,8,Tauren,Druid,70 (max pre-WotLK),0,0.014137918
+6800,8,Undead,Priest,70 (max pre-WotLK),0,0.0041921097
+7008,8,Orc,Warlock,70 (max pre-WotLK),0,0.0013983679
+7084,8,Troll,Priest,70 (max pre-WotLK),0,0.012222315
+7095,8,Tauren,Druid,70 (max pre-WotLK),1,0.5847498
+7142,8,Undead,Warlock,60-69,0,0.004335893
+7208,8,Undead,Warlock,70 (max pre-WotLK),0,0.0144946
+7282,8,Troll,Mage,70 (max pre-WotLK),0,0.0064167017
+7285,8,Tauren,Hunter,70 (max pre-WotLK),0,0.16353935
+7355,8,Undead,Priest,60-69,0,0.013229045
+7363,8,Undead,Mage,70 (max pre-WotLK),0,0.01856173
+7413,8,Orc,Hunter,70 (max pre-WotLK),0,0.009835742
+7463,8,Undead,Warrior,70 (max pre-WotLK),0,0.021573845
+7490,8,Undead,Priest,70 (max pre-WotLK),1,0.17008004
+7641,8,Troll,Mage,1-59,0,0.014694581
+7746,8,Orc,Warrior,60-69,0,0.16764034
+7758,8,Tauren,Druid,70 (max pre-WotLK),0,0.20467536
+7953,8,Tauren,Hunter,1-59,1,0.6909034
+7963,8,Troll,Hunter,70 (max pre-WotLK),0,0.017326698
+8066,8,Tauren,Shaman,70 (max pre-WotLK),0,0.002718285
+8109,8,Troll,Hunter,70 (max pre-WotLK),0,0.0007613799
+8131,8,Undead,Mage,70 (max pre-WotLK),0,0.004378186
+8175,8,Orc,Shaman,60-69,0,0.026097158
+8608,8,Troll,Priest,60-69,0,0.15401286
+8710,8,Undead,Mage,70 (max pre-WotLK),1,0.521352
+8738,8,Undead,Mage,70 (max pre-WotLK),0,0.040634
+8762,8,Tauren,Warrior,70 (max pre-WotLK),0,0.002348681
+8924,8,Troll,Priest,1-59,0,0.112955734
+9044,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.00091816206
+9084,8,Undead,Warlock,70 (max pre-WotLK),0,0.0016278333
+9085,8,Orc,Shaman,70 (max pre-WotLK),0,0.35824725
+9118,8,Tauren,Druid,1-59,0,0.60301274
+9152,8,Tauren,Druid,1-59,1,0.12594083
+9175,8,Undead,Priest,70 (max pre-WotLK),0,0.025484283
+9230,8,Tauren,Druid,70 (max pre-WotLK),0,0.047176804
+9233,8,Undead,Warlock,60-69,0,0.07679007
+9272,8,Tauren,Druid,70 (max pre-WotLK),0,0.041321818
+9297,8,Troll,Mage,70 (max pre-WotLK),0,0.022345496
+9357,8,Undead,Priest,70 (max pre-WotLK),0,0.014835293
+9457,8,Undead,Mage,70 (max pre-WotLK),0,0.00670872
+9469,8,Tauren,Druid,70 (max pre-WotLK),0,0.032261927
+9486,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0018029913
+9491,8,Undead,Priest,70 (max pre-WotLK),0,0.013979385
+9566,8,Orc,Hunter,60-69,0,0.01671691
+9583,8,Tauren,Warrior,60-69,0,0.19715486
+9661,8,Undead,Priest,1-59,0,0.015711738
+9695,8,Undead,Priest,70 (max pre-WotLK),0,0.017526537
+10187,8,Undead,Mage,70 (max pre-WotLK),0,0.059902363
+10221,8,Undead,Warrior,60-69,0,0.001475747
+10223,8,Orc,Warrior,70 (max pre-WotLK),0,0.0059751533
+10263,8,Troll,Rogue,60-69,0,0.19949347
+10266,8,Undead,Mage,70 (max pre-WotLK),0,0.14976314
+10278,8,Troll,Rogue,1-59,0,0.032086864
+10313,8,Undead,Priest,70 (max pre-WotLK),0,0.0010863293
+10373,8,Tauren,Druid,70 (max pre-WotLK),1,0.36456493
+10419,8,Tauren,Druid,60-69,0,0.09858638
+10481,8,Tauren,Warrior,70 (max pre-WotLK),0,0.010811144
+10543,8,Undead,Mage,70 (max pre-WotLK),0,0.015270583
+10568,8,Undead,Warlock,70 (max pre-WotLK),0,0.042056732
+10605,8,Undead,Priest,60-69,0,0.010901911
+10700,8,Undead,Priest,70 (max pre-WotLK),0,0.11329306
+10759,8,Troll,Mage,70 (max pre-WotLK),0,0.46504354
+10790,8,Undead,Mage,70 (max pre-WotLK),0,0.005043777
+10811,8,Troll,Mage,70 (max pre-WotLK),0,0.012222131
+10868,8,Tauren,Druid,70 (max pre-WotLK),0,0.04492961
+10973,8,Undead,Mage,70 (max pre-WotLK),0,0.01508622
+11043,8,Troll,Hunter,70 (max pre-WotLK),0,0.0046738856
+11070,8,Orc,Hunter,70 (max pre-WotLK),0,0.4059301
+11190,8,Troll,Shaman,70 (max pre-WotLK),0,0.10785175
+11273,8,Orc,Hunter,70 (max pre-WotLK),0,0.008340305
+11316,8,Undead,Mage,70 (max pre-WotLK),0,0.012522513
+11392,8,Undead,Priest,60-69,0,0.016572408
+11393,8,Undead,Rogue,70 (max pre-WotLK),0,0.16954796
+11522,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0231756
+11589,8,Undead,Priest,70 (max pre-WotLK),0,0.35887933
+11615,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.119412616
+11639,8,Undead,Warlock,70 (max pre-WotLK),0,0.020214826
+11675,8,Tauren,Druid,60-69,0,0.27517116
+11705,8,Undead,Rogue,70 (max pre-WotLK),0,0.0030335116
+11706,8,Undead,Warlock,70 (max pre-WotLK),0,0.023188055
+11911,8,Troll,Hunter,70 (max pre-WotLK),1,0.55658716
+11955,8,Orc,Warrior,70 (max pre-WotLK),0,0.0026595867
+11975,8,Undead,Priest,70 (max pre-WotLK),0,0.0036709215
+12056,8,Troll,Hunter,60-69,0,0.011586086
+12068,8,Tauren,Warrior,70 (max pre-WotLK),0,0.008737344
+12111,8,Troll,Mage,70 (max pre-WotLK),0,0.002144356
+12165,8,Troll,Hunter,1-59,0,0.0061745225
+12182,8,Undead,Priest,70 (max pre-WotLK),0,0.2769335
+12259,8,Troll,Mage,70 (max pre-WotLK),0,0.012764462
+12386,8,Undead,Priest,70 (max pre-WotLK),0,0.012023019
+12553,8,Undead,Mage,1-59,0,0.021804033
+12562,8,Tauren,Druid,70 (max pre-WotLK),0,0.010788566
+12568,8,Troll,Hunter,1-59,0,0.012197494
+12571,8,Undead,Mage,70 (max pre-WotLK),0,0.002285835
+12658,8,Troll,Mage,70 (max pre-WotLK),0,0.0048431456
+12663,8,Troll,Mage,70 (max pre-WotLK),0,0.21516843
+12930,8,Undead,Priest,70 (max pre-WotLK),0,0.003794939
+12933,8,Undead,Warlock,70 (max pre-WotLK),0,0.006823276
+12938,8,Orc,Hunter,70 (max pre-WotLK),0,0.0026975344
+13021,8,Undead,Warlock,70 (max pre-WotLK),0,0.09882426
+13083,8,Tauren,Druid,70 (max pre-WotLK),0,0.01762137
+13116,8,Tauren,Druid,70 (max pre-WotLK),0,0.019464679
+13184,8,Tauren,Hunter,70 (max pre-WotLK),0,0.011749637
+13639,8,Undead,Warlock,70 (max pre-WotLK),0,0.02788476
+13666,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0014369839
+13705,8,Tauren,Druid,70 (max pre-WotLK),0,0.030125864
+13722,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.09325743
+13795,8,Undead,Rogue,70 (max pre-WotLK),0,0.29641035
+13940,8,Tauren,Warrior,70 (max pre-WotLK),0,0.004152878
+13987,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0056744935
+14162,8,Undead,Mage,70 (max pre-WotLK),1,0.7143565
+14200,8,Tauren,Warrior,1-59,0,0.59749
+14341,8,Troll,Mage,70 (max pre-WotLK),0,0.0016032677
+14389,8,Tauren,Warrior,70 (max pre-WotLK),0,0.006693187
+14398,8,Tauren,Druid,60-69,0,0.15915902
+14404,8,Troll,Hunter,70 (max pre-WotLK),0,0.0016531856
+14525,8,Orc,Warlock,70 (max pre-WotLK),0,0.0052327644
+14788,8,Tauren,Warrior,70 (max pre-WotLK),0,0.047815863
+14831,8,Orc,Warlock,70 (max pre-WotLK),0,0.24085139
+14863,8,Tauren,Hunter,70 (max pre-WotLK),0,0.016091947
+14983,8,Orc,Shaman,70 (max pre-WotLK),0,0.1798813
+15328,8,Blood Elf,Mage,1-59,1,0.3439503
+15465,8,Troll,Mage,70 (max pre-WotLK),0,0.0016321471
+15589,8,Undead,Rogue,70 (max pre-WotLK),0,0.038674094
+15605,8,Orc,Hunter,70 (max pre-WotLK),0,0.02094448
+15683,8,Undead,Priest,70 (max pre-WotLK),0,0.010359314
+15766,8,Undead,Mage,70 (max pre-WotLK),0,0.0027939263
+15903,8,Undead,Rogue,60-69,0,0.13755046
+15921,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0010496445
+16102,8,Tauren,Druid,70 (max pre-WotLK),0,0.0014472116
+16156,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.0037871285
+16187,8,Orc,Warrior,70 (max pre-WotLK),0,0.0047469162
+16193,8,Tauren,Warrior,70 (max pre-WotLK),0,0.019235212
+16238,8,Undead,Warlock,70 (max pre-WotLK),0,0.17701963
+16325,8,Orc,Hunter,70 (max pre-WotLK),0,0.042111017
+16367,8,Undead,Warlock,70 (max pre-WotLK),0,0.0019798365
+16384,8,Troll,Hunter,70 (max pre-WotLK),0,0.0038003456
+16470,8,Troll,Priest,70 (max pre-WotLK),0,0.020380864
+16473,8,Troll,Priest,70 (max pre-WotLK),1,0.11780391
+16702,8,Troll,Mage,70 (max pre-WotLK),0,0.0029145996
+16718,8,Undead,Mage,70 (max pre-WotLK),0,0.05003857
+16798,8,Undead,Priest,70 (max pre-WotLK),0,0.00545798
+16817,8,Orc,Hunter,70 (max pre-WotLK),0,0.007975599
+16884,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0063944138
+16992,8,Undead,Mage,70 (max pre-WotLK),0,0.0036808078
+17170,8,Undead,Warrior,70 (max pre-WotLK),0,0.013278411
+17240,8,Undead,Rogue,70 (max pre-WotLK),0,0.023517078
+17309,8,Tauren,Hunter,70 (max pre-WotLK),0,0.21630394
+17343,8,Tauren,Shaman,1-59,0,0.27148426
+17360,8,Troll,Priest,1-59,0,0.01709457
+17430,8,Undead,Warrior,1-59,0,0.0049150656
+17467,8,Orc,Warlock,1-59,1,0.26101458
+17483,8,Troll,Rogue,70 (max pre-WotLK),0,0.010939103
+17520,8,Troll,Rogue,70 (max pre-WotLK),0,0.0042220606
+17533,8,Tauren,Warrior,70 (max pre-WotLK),0,0.00033151242
+17588,8,Undead,Priest,1-59,0,0.08819706
+17656,8,Tauren,Warrior,70 (max pre-WotLK),0,0.03373528
+17684,8,Tauren,Warrior,70 (max pre-WotLK),0,0.029245432
+17694,8,Undead,Warrior,70 (max pre-WotLK),0,0.027881104
+17712,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0008684935
+17739,8,Troll,Mage,70 (max pre-WotLK),0,0.0110706
+17774,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.0040801023
+17775,8,Troll,Mage,70 (max pre-WotLK),0,0.01505625
+17780,8,Undead,Warlock,60-69,1,0.91183496
+17814,8,Undead,Priest,70 (max pre-WotLK),0,0.007923
+17837,8,Undead,Priest,1-59,0,0.41690513
+17854,8,Orc,Hunter,70 (max pre-WotLK),0,0.036834482
+17869,8,Tauren,Druid,70 (max pre-WotLK),0,0.0012100997
+17982,8,Undead,Mage,70 (max pre-WotLK),0,0.0074594077
+17987,8,Orc,Hunter,70 (max pre-WotLK),0,0.14555547
+18003,8,Orc,Hunter,70 (max pre-WotLK),0,0.004457029
+18065,8,Undead,Warlock,70 (max pre-WotLK),0,0.051777676
+18089,8,Tauren,Druid,70 (max pre-WotLK),0,0.004892653
+18133,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0031332627
+18145,8,Undead,Rogue,70 (max pre-WotLK),0,0.017274536
+18219,8,Troll,Shaman,1-59,1,0.6728729
+18316,8,Troll,Mage,60-69,0,0.09029157
+18318,8,Orc,Hunter,70 (max pre-WotLK),0,0.0047943844
+18339,8,Undead,Mage,1-59,1,0.34962806
+18473,8,Troll,Priest,70 (max pre-WotLK),0,0.0014143378
+18601,8,Tauren,Druid,70 (max pre-WotLK),1,0.010752181
+18610,8,Troll,Shaman,70 (max pre-WotLK),0,0.0067767887
+18646,8,Undead,Priest,70 (max pre-WotLK),0,0.009927552
+18691,8,Troll,Hunter,60-69,0,0.022900071
+18715,8,Undead,Warlock,70 (max pre-WotLK),0,0.0025389956
+18720,8,Orc,Hunter,70 (max pre-WotLK),0,0.0024596446
+18732,8,Troll,Mage,70 (max pre-WotLK),0,0.014695076
+18741,8,Undead,Warlock,70 (max pre-WotLK),0,0.06984192
+18748,8,Undead,Warrior,70 (max pre-WotLK),0,0.01551891
+18758,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0029675034
+18827,8,Undead,Warlock,70 (max pre-WotLK),0,0.0026674033
+18915,8,Troll,Mage,1-59,0,0.05557516
+18965,8,Orc,Warrior,1-59,0,0.34818083
+19020,8,Troll,Priest,70 (max pre-WotLK),0,0.012800288
+19050,8,Orc,Hunter,70 (max pre-WotLK),1,0.0080282455
+19069,8,Undead,Priest,70 (max pre-WotLK),0,0.006782848
+19094,8,Tauren,Druid,1-59,0,0.25852337
+19108,8,Tauren,Druid,60-69,0,0.019720847
+19140,8,Tauren,Druid,70 (max pre-WotLK),0,0.012476157
+19190,8,Orc,Warrior,70 (max pre-WotLK),0,0.01092968
+19249,8,Undead,Priest,1-59,0,0.020417731
+19258,8,Troll,Hunter,70 (max pre-WotLK),0,0.035938077
+19341,8,Undead,Warlock,70 (max pre-WotLK),0,0.002520695
+19375,8,Troll,Rogue,1-59,0,0.45313916
+19431,8,Undead,Priest,70 (max pre-WotLK),0,0.029231139
+19449,8,Undead,Mage,70 (max pre-WotLK),0,0.01260469
+19508,8,Troll,Mage,70 (max pre-WotLK),0,0.0075504854
+19552,8,Orc,Warrior,70 (max pre-WotLK),0,0.0030960022
+19558,8,Tauren,Hunter,70 (max pre-WotLK),0,0.003983337
+19581,8,Tauren,Druid,70 (max pre-WotLK),0,0.0041654035
+19598,8,Tauren,Shaman,70 (max pre-WotLK),0,0.04394129
+19600,8,Tauren,Druid,70 (max pre-WotLK),1,0.029584417
+19622,8,Blood Elf,Mage,1-59,1,0.836613
+19664,8,Tauren,Druid,1-59,0,0.24484806
+19666,8,Troll,Mage,70 (max pre-WotLK),0,0.0052731913
+19791,8,Troll,Hunter,70 (max pre-WotLK),0,0.041773498
+19818,8,Tauren,Hunter,70 (max pre-WotLK),0,0.005388162
+19887,8,Troll,Shaman,70 (max pre-WotLK),0,0.010860096
+19986,8,Undead,Priest,70 (max pre-WotLK),0,0.018303724
+20022,8,Orc,Hunter,70 (max pre-WotLK),0,0.0015496595
+20065,8,Troll,Rogue,70 (max pre-WotLK),0,0.022561908
+20089,8,Tauren,Druid,70 (max pre-WotLK),1,0.20771325
+20194,8,Tauren,Druid,70 (max pre-WotLK),0,0.0027597684
+20601,8,Blood Elf,Warlock,1-59,1,0.06765763
+20723,8,Troll,Shaman,70 (max pre-WotLK),0,0.0314027
+20770,8,Tauren,Hunter,70 (max pre-WotLK),0,0.15900157
+20815,8,Undead,Mage,60-69,0,0.004142536
+20816,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0036021343
+20833,8,Troll,Rogue,1-59,0,0.14845683
+20879,8,Tauren,Shaman,70 (max pre-WotLK),0,0.000710923
+20884,8,Undead,Rogue,70 (max pre-WotLK),0,0.049766403
+20937,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0048212996
+20958,8,Troll,Hunter,70 (max pre-WotLK),0,0.025261503
+20975,8,Undead,Priest,70 (max pre-WotLK),0,0.039796982
+20995,8,Undead,Mage,70 (max pre-WotLK),1,0.6207188
+21032,8,Troll,Mage,70 (max pre-WotLK),0,0.0017925211
+21154,8,Undead,Priest,70 (max pre-WotLK),1,0.015120031
+21161,8,Tauren,Shaman,60-69,0,0.003062824
+21207,8,Undead,Warlock,70 (max pre-WotLK),0,0.0063649337
+21241,8,Tauren,Warrior,70 (max pre-WotLK),0,0.2243727
+21257,8,Undead,Rogue,1-59,0,0.49895546
+21480,8,Undead,Warlock,70 (max pre-WotLK),1,0.70225304
+21710,8,Undead,Priest,70 (max pre-WotLK),0,0.013948219
+21744,8,Undead,Warlock,70 (max pre-WotLK),0,0.004493373
+21752,8,Undead,Mage,70 (max pre-WotLK),0,0.00039317095
+21806,8,Undead,Warrior,70 (max pre-WotLK),1,0.3929382
+21822,8,Troll,Priest,70 (max pre-WotLK),0,0.008742979
+21834,8,Tauren,Druid,70 (max pre-WotLK),0,0.009751057
+21861,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0030298552
+21868,8,Tauren,Hunter,70 (max pre-WotLK),0,0.014358184
+21878,8,Tauren,Warrior,70 (max pre-WotLK),0,0.02221124
+21879,8,Tauren,Warrior,70 (max pre-WotLK),0,0.00073236617
+21882,8,Tauren,Shaman,70 (max pre-WotLK),0,0.09404365
+21883,8,Tauren,Shaman,70 (max pre-WotLK),1,0.35860866
+21885,8,Tauren,Druid,70 (max pre-WotLK),0,0.0051170173
+21891,8,Troll,Warrior,70 (max pre-WotLK),0,0.0028289454
+21893,8,Troll,Hunter,70 (max pre-WotLK),0,0.14440182
+21895,8,Troll,Rogue,70 (max pre-WotLK),0,0.018498259
+21909,8,Orc,Rogue,70 (max pre-WotLK),0,0.006582793
+21910,8,Orc,Shaman,70 (max pre-WotLK),0,0.0060770065
+21918,8,Undead,Priest,70 (max pre-WotLK),0,0.004752382
+21920,8,Undead,Warlock,70 (max pre-WotLK),0,0.012665272
+21930,8,Undead,Mage,70 (max pre-WotLK),0,0.03632128
+21931,8,Undead,Mage,70 (max pre-WotLK),0,0.052643765
+21934,8,Orc,Warrior,70 (max pre-WotLK),0,0.0014426612
+21938,8,Tauren,Shaman,70 (max pre-WotLK),0,0.6040884
+21939,8,Tauren,Druid,70 (max pre-WotLK),0,0.0030836556
+21940,8,Tauren,Druid,70 (max pre-WotLK),0,0.009981907
+21943,8,Troll,Rogue,70 (max pre-WotLK),0,0.008296838
+21944,8,Troll,Rogue,70 (max pre-WotLK),0,0.010968931
+21949,8,Undead,Mage,70 (max pre-WotLK),0,0.1495995
+21957,8,Troll,Priest,70 (max pre-WotLK),0,0.0013662239
+21959,8,Undead,Priest,70 (max pre-WotLK),0,0.0019233248
+21960,8,Orc,Shaman,70 (max pre-WotLK),0,0.008393631
+21964,8,Troll,Hunter,70 (max pre-WotLK),0,0.0016742637
+21965,8,Troll,Shaman,70 (max pre-WotLK),0,0.0032511791
+21968,8,Orc,Warrior,70 (max pre-WotLK),0,0.5853285
+21970,8,Tauren,Druid,70 (max pre-WotLK),0,0.26597458
+21976,8,Undead,Warlock,70 (max pre-WotLK),0,0.018595241
+21984,8,Undead,Mage,70 (max pre-WotLK),0,0.0018899894
+21985,8,Undead,Mage,70 (max pre-WotLK),0,0.0066935043
+21996,8,Troll,Rogue,1-59,0,0.060562752
+22005,8,Orc,Warrior,70 (max pre-WotLK),0,0.0025550846
+22007,8,Tauren,Hunter,70 (max pre-WotLK),0,0.002806729
+22009,8,Tauren,Druid,70 (max pre-WotLK),0,0.004692968
+22021,8,Troll,Priest,70 (max pre-WotLK),0,0.07203854
+22023,8,Undead,Mage,70 (max pre-WotLK),0,0.00907767
+22025,8,Orc,Shaman,70 (max pre-WotLK),0,0.0101474915
+22026,8,Tauren,Druid,70 (max pre-WotLK),0,0.010210726
+22027,8,Tauren,Hunter,70 (max pre-WotLK),0,0.533868
+22031,8,Orc,Hunter,70 (max pre-WotLK),0,0.02514826
+22037,8,Undead,Priest,70 (max pre-WotLK),0,0.4690074
+22039,8,Undead,Mage,70 (max pre-WotLK),0,0.0043366216
+22044,8,Orc,Warrior,70 (max pre-WotLK),0,0.007980932
+22046,8,Tauren,Hunter,70 (max pre-WotLK),0,0.014609965
+22049,8,Undead,Rogue,70 (max pre-WotLK),0,0.014635661
+22054,8,Troll,Mage,70 (max pre-WotLK),0,0.022232896
+22055,8,Troll,Rogue,70 (max pre-WotLK),0,0.022544459
+22058,8,Undead,Priest,70 (max pre-WotLK),0,0.011962529
+22061,8,Undead,Warrior,70 (max pre-WotLK),0,0.0044706906
+22065,8,Undead,Mage,70 (max pre-WotLK),0,0.0029413188
+22067,8,Undead,Priest,70 (max pre-WotLK),1,0.056824088
+22072,8,Tauren,Druid,70 (max pre-WotLK),0,0.0054980773
+22080,8,Orc,Hunter,70 (max pre-WotLK),0,0.160531
+22102,8,Troll,Rogue,70 (max pre-WotLK),0,0.0046284087
+22104,8,Undead,Mage,70 (max pre-WotLK),0,0.42924315
+22119,8,Tauren,Warrior,70 (max pre-WotLK),0,0.017861374
+22124,8,Undead,Rogue,60-69,1,0.17026244
+22127,8,Troll,Hunter,70 (max pre-WotLK),0,0.015470131
+22132,8,Undead,Warrior,70 (max pre-WotLK),1,0.22730945
+22136,8,Tauren,Warrior,70 (max pre-WotLK),0,0.009494122
+22137,8,Troll,Hunter,70 (max pre-WotLK),0,0.008776644
+22143,8,Orc,Hunter,70 (max pre-WotLK),1,0.48811257
+22148,8,Tauren,Shaman,70 (max pre-WotLK),0,0.07415273
+22150,8,Undead,Priest,70 (max pre-WotLK),0,0.026872348
+22154,8,Troll,Hunter,70 (max pre-WotLK),0,0.0011661629
+22162,8,Orc,Hunter,70 (max pre-WotLK),0,0.0032189635
+22167,8,Troll,Hunter,70 (max pre-WotLK),0,0.014204172
+22171,8,Undead,Mage,70 (max pre-WotLK),0,0.16819112
+22177,8,Undead,Warlock,70 (max pre-WotLK),0,0.018878957
+22182,8,Troll,Mage,70 (max pre-WotLK),0,0.025783785
+22188,8,Orc,Rogue,70 (max pre-WotLK),0,0.020357853
+22197,8,Undead,Priest,70 (max pre-WotLK),0,0.004703439
+22200,8,Orc,Warlock,70 (max pre-WotLK),0,0.02538469
+22210,8,Troll,Mage,70 (max pre-WotLK),0,0.0023266897
+22218,8,Orc,Hunter,70 (max pre-WotLK),0,0.0022172155
+22220,8,Tauren,Warrior,70 (max pre-WotLK),0,0.025119722
+22222,8,Tauren,Druid,70 (max pre-WotLK),0,0.010214303
+22229,8,Undead,Mage,70 (max pre-WotLK),0,0.004647432
+22230,8,Undead,Mage,70 (max pre-WotLK),0,0.004737241
+22234,8,Undead,Rogue,70 (max pre-WotLK),0,0.008419886
+22246,8,Troll,Hunter,70 (max pre-WotLK),0,0.022995817
+22249,8,Undead,Mage,70 (max pre-WotLK),0,0.074287355
+22253,8,Undead,Warlock,70 (max pre-WotLK),0,0.008687846
+22254,8,Undead,Warrior,70 (max pre-WotLK),0,0.009378191
+22256,8,Orc,Hunter,70 (max pre-WotLK),1,0.35460263
+22263,8,Troll,Mage,70 (max pre-WotLK),0,0.028245509
+22264,8,Troll,Hunter,70 (max pre-WotLK),0,0.003683519
+22270,8,Undead,Warlock,70 (max pre-WotLK),0,0.02355079
+22271,8,Orc,Hunter,70 (max pre-WotLK),0,0.0376436
+22279,8,Undead,Warlock,70 (max pre-WotLK),0,0.017415758
+22283,8,Orc,Hunter,70 (max pre-WotLK),0,0.011719091
+22285,8,Orc,Rogue,70 (max pre-WotLK),0,0.0043098624
+22288,8,Tauren,Shaman,70 (max pre-WotLK),0,0.011733741
+22289,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0026595008
+22299,8,Undead,Mage,70 (max pre-WotLK),0,0.0153088765
+22301,8,Undead,Mage,70 (max pre-WotLK),0,0.0011628113
+22302,8,Undead,Rogue,70 (max pre-WotLK),0,0.0045060716
+22316,8,Tauren,Warrior,70 (max pre-WotLK),0,0.00058124785
+22321,8,Undead,Mage,70 (max pre-WotLK),0,0.0044873813
+22322,8,Undead,Mage,70 (max pre-WotLK),0,0.0005067405
+22330,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0050072973
+22331,8,Troll,Hunter,70 (max pre-WotLK),0,0.20481084
+22338,8,Tauren,Warrior,70 (max pre-WotLK),0,0.042242043
+22342,8,Undead,Warlock,70 (max pre-WotLK),0,0.076515414
+22343,8,Undead,Priest,70 (max pre-WotLK),0,0.002709724
+22345,8,Undead,Warrior,70 (max pre-WotLK),0,0.20403686
+22359,8,Undead,Warlock,70 (max pre-WotLK),0,0.009513369
+22361,8,Orc,Hunter,70 (max pre-WotLK),1,0.063951515
+22375,8,Orc,Hunter,1-59,1,0.28530484
+22377,8,Tauren,Hunter,70 (max pre-WotLK),0,0.02305173
+22379,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0592742
+22382,8,Troll,Mage,70 (max pre-WotLK),0,0.0009951305
+22383,8,Troll,Hunter,70 (max pre-WotLK),0,0.066357665
+22389,8,Tauren,Hunter,70 (max pre-WotLK),0,0.015503176
+22408,8,Undead,Priest,70 (max pre-WotLK),0,0.029934129
+22409,8,Undead,Rogue,70 (max pre-WotLK),0,0.0008234057
+22410,8,Undead,Warlock,70 (max pre-WotLK),0,0.08888214
+22419,8,Undead,Rogue,70 (max pre-WotLK),0,0.0033483622
+22421,8,Undead,Rogue,70 (max pre-WotLK),0,0.0055168844
+22430,8,Undead,Mage,70 (max pre-WotLK),0,0.023177085
+22435,8,Orc,Hunter,70 (max pre-WotLK),0,0.0012831582
+22438,8,Tauren,Warrior,70 (max pre-WotLK),0,0.018409112
+22440,8,Undead,Warlock,70 (max pre-WotLK),0,0.014350123
+22441,8,Undead,Mage,70 (max pre-WotLK),0,0.006135588
+22443,8,Undead,Priest,70 (max pre-WotLK),0,0.010641059
+22447,8,Tauren,Shaman,70 (max pre-WotLK),0,0.076312944
+22453,8,Undead,Mage,70 (max pre-WotLK),0,0.0033456753
+22465,8,Troll,Mage,70 (max pre-WotLK),0,0.009846025
+22466,8,Orc,Warrior,70 (max pre-WotLK),0,0.011801092
+22467,8,Tauren,Hunter,60-69,0,0.33256492
+22473,8,Tauren,Shaman,70 (max pre-WotLK),0,0.010989435
+22474,8,Troll,Hunter,70 (max pre-WotLK),0,0.0056031696
+22476,8,Undead,Mage,70 (max pre-WotLK),0,0.04355503
+22484,8,Tauren,Hunter,70 (max pre-WotLK),0,0.0042581316
+22489,8,Troll,Warrior,70 (max pre-WotLK),0,0.02757697
+22493,8,Undead,Priest,70 (max pre-WotLK),0,0.003076133
+22495,8,Orc,Warlock,60-69,0,0.042560108
+22500,8,Tauren,Warrior,70 (max pre-WotLK),0,0.004135148
+22502,8,Tauren,Druid,70 (max pre-WotLK),0,0.0110614775
+22503,8,Tauren,Hunter,70 (max pre-WotLK),0,0.0007444598
+22511,8,Undead,Warlock,70 (max pre-WotLK),0,0.11865507
+22519,8,Undead,Rogue,70 (max pre-WotLK),0,0.0043270066
+22541,8,Tauren,Warrior,70 (max pre-WotLK),0,0.069748275
+22544,8,Undead,Priest,70 (max pre-WotLK),0,0.006129279
+22545,8,Undead,Warrior,70 (max pre-WotLK),0,0.0027240615
+22551,8,Undead,Rogue,70 (max pre-WotLK),0,0.012271623
+22554,8,Orc,Hunter,60-69,1,0.26619098
+22557,8,Orc,Hunter,70 (max pre-WotLK),0,0.0042593046
+22559,8,Troll,Rogue,70 (max pre-WotLK),0,0.007539366
+22561,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0031451748
+22571,8,Undead,Warlock,70 (max pre-WotLK),1,0.73270094
+22579,8,Orc,Hunter,70 (max pre-WotLK),0,0.024028061
+22588,8,Undead,Warlock,1-59,0,0.09613491
+22594,8,Orc,Hunter,70 (max pre-WotLK),0,0.0015711301
+22601,8,Troll,Hunter,70 (max pre-WotLK),0,0.016181534
+22605,8,Undead,Warlock,70 (max pre-WotLK),1,0.32593572
+22607,8,Undead,Mage,60-69,0,0.10766355
+22608,8,Undead,Mage,70 (max pre-WotLK),0,0.010537376
+22609,8,Undead,Rogue,70 (max pre-WotLK),0,0.01314658
+22620,8,Tauren,Shaman,70 (max pre-WotLK),0,0.06485871
+22624,8,Troll,Mage,70 (max pre-WotLK),0,0.0035643426
+22625,8,Undead,Mage,70 (max pre-WotLK),0,0.004171185
+22627,8,Tauren,Shaman,70 (max pre-WotLK),1,0.2041969
+22629,8,Troll,Warrior,70 (max pre-WotLK),0,0.007341078
+22639,8,Troll,Hunter,70 (max pre-WotLK),1,0.35069868
+22645,8,Undead,Warlock,70 (max pre-WotLK),0,0.0010754808
+22650,8,Undead,Mage,70 (max pre-WotLK),1,0.48579264
+22653,8,Tauren,Druid,70 (max pre-WotLK),0,0.0039736265
+22654,8,Troll,Priest,70 (max pre-WotLK),0,0.0016478013
+22655,8,Undead,Warlock,70 (max pre-WotLK),0,0.0032900448
+22658,8,Tauren,Druid,70 (max pre-WotLK),0,0.0078111906
+22659,8,Tauren,Druid,70 (max pre-WotLK),0,0.009313043
+22662,8,Undead,Rogue,70 (max pre-WotLK),0,0.15635577
+22666,8,Troll,Shaman,70 (max pre-WotLK),0,0.25800693
+22672,8,Undead,Warlock,70 (max pre-WotLK),0,0.07850936
+22675,8,Troll,Rogue,70 (max pre-WotLK),0,0.0009829145
+22697,8,Undead,Priest,70 (max pre-WotLK),0,0.0039189407
+22699,8,Tauren,Druid,70 (max pre-WotLK),0,0.0034304517
+22701,8,Tauren,Shaman,70 (max pre-WotLK),0,0.010033089
+22702,8,Undead,Priest,70 (max pre-WotLK),0,0.003628035
+22715,8,Tauren,Hunter,70 (max pre-WotLK),0,0.011000573
+22716,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0054345825
+22728,8,Troll,Rogue,70 (max pre-WotLK),0,0.006189405
+22729,8,Troll,Hunter,70 (max pre-WotLK),0,0.04152277
+22734,8,Undead,Warlock,70 (max pre-WotLK),0,0.00659893
+22739,8,Undead,Warlock,60-69,0,0.017053733
+22750,8,Troll,Rogue,60-69,1,0.027975073
+22751,8,Troll,Mage,70 (max pre-WotLK),0,0.00046400202
+22756,8,Undead,Mage,70 (max pre-WotLK),0,0.004025576
+22760,8,Undead,Mage,70 (max pre-WotLK),0,0.08987635
+22762,8,Orc,Warrior,70 (max pre-WotLK),0,0.005858791
+22776,8,Troll,Hunter,70 (max pre-WotLK),0,0.021085782
+22778,8,Undead,Priest,70 (max pre-WotLK),0,0.0056364085
+22783,8,Undead,Rogue,70 (max pre-WotLK),0,0.13733007
+22785,8,Orc,Warrior,70 (max pre-WotLK),0,0.050189514
+22786,8,Undead,Warlock,1-59,0,0.015592596
+22790,8,Undead,Mage,70 (max pre-WotLK),0,0.0063970587
+22793,8,Tauren,Hunter,70 (max pre-WotLK),0,0.0047967555
+22796,8,Orc,Rogue,70 (max pre-WotLK),0,0.023385625
+22809,8,Orc,Warrior,70 (max pre-WotLK),0,0.004935589
+22818,8,Orc,Warrior,70 (max pre-WotLK),1,0.03256844
+22823,8,Tauren,Shaman,70 (max pre-WotLK),0,0.09271523
+22839,8,Troll,Hunter,70 (max pre-WotLK),0,0.0024966092
+22845,8,Tauren,Shaman,1-59,0,0.01822792
+22859,8,Troll,Shaman,70 (max pre-WotLK),1,0.62169176
+22876,8,Orc,Warrior,70 (max pre-WotLK),0,0.0017294456
+22895,8,Orc,Warrior,70 (max pre-WotLK),0,0.3079057
+22896,8,Orc,Warrior,70 (max pre-WotLK),0,0.0043956074
+22914,8,Undead,Warrior,70 (max pre-WotLK),0,0.012102979
+22928,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0202531
+22934,8,Troll,Mage,70 (max pre-WotLK),0,0.0840935
+22942,8,Troll,Rogue,70 (max pre-WotLK),0,0.004612159
+22949,8,Tauren,Druid,70 (max pre-WotLK),0,0.11491707
+22952,8,Undead,Mage,70 (max pre-WotLK),0,0.034522794
+22957,8,Undead,Priest,60-69,0,0.0100420965
+22960,8,Undead,Warlock,60-69,0,0.0021112985
+22983,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0013921373
+22992,8,Troll,Shaman,1-59,0,0.008916877
+22995,8,Undead,Mage,70 (max pre-WotLK),0,0.0027815069
+23012,8,Orc,Warlock,70 (max pre-WotLK),0,0.0083382735
+23036,8,Orc,Shaman,70 (max pre-WotLK),0,0.007409727
+23054,8,Troll,Rogue,70 (max pre-WotLK),0,0.03125588
+23060,8,Undead,Warlock,70 (max pre-WotLK),0,0.010551499
+23070,8,Undead,Warlock,70 (max pre-WotLK),0,0.0013282368
+23087,8,Troll,Hunter,70 (max pre-WotLK),0,0.016802527
+23098,8,Tauren,Shaman,70 (max pre-WotLK),1,0.1638807
+23104,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0027743261
+23110,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0703588
+23113,8,Undead,Priest,60-69,1,0.31866634
+23118,8,Undead,Priest,70 (max pre-WotLK),0,0.007120606
+23135,8,Undead,Warlock,70 (max pre-WotLK),0,0.025783487
+23142,8,Tauren,Hunter,70 (max pre-WotLK),0,0.0038574445
+23145,8,Undead,Priest,70 (max pre-WotLK),0,0.019719621
+23149,8,Undead,Warrior,70 (max pre-WotLK),0,0.0051883124
+23150,8,Orc,Warlock,60-69,0,0.014068137
+23176,8,Troll,Priest,70 (max pre-WotLK),0,0.024109343
+23179,8,Undead,Warlock,70 (max pre-WotLK),0,0.22365442
+23181,8,Tauren,Hunter,70 (max pre-WotLK),0,0.004706623
+23186,8,Orc,Hunter,70 (max pre-WotLK),0,0.044871982
+23187,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0017938585
+23189,8,Undead,Priest,70 (max pre-WotLK),0,0.0011656387
+23193,8,Undead,Priest,70 (max pre-WotLK),0,0.025449775
+23199,8,Tauren,Shaman,70 (max pre-WotLK),0,0.05395353
+23212,8,Undead,Warrior,70 (max pre-WotLK),0,0.18053551
+23267,8,Tauren,Warrior,70 (max pre-WotLK),0,0.12855619
+23273,8,Orc,Hunter,70 (max pre-WotLK),0,0.02277977
+23284,8,Undead,Priest,70 (max pre-WotLK),0,0.06832022
+23289,8,Tauren,Druid,1-59,1,0.6178442
+23291,8,Undead,Rogue,70 (max pre-WotLK),0,0.008688138
+23308,8,Undead,Warlock,70 (max pre-WotLK),0,0.0024000532
+23330,8,Undead,Rogue,1-59,0,0.049810197
+23338,8,Undead,Mage,70 (max pre-WotLK),0,0.26655903
+23340,8,Orc,Warrior,70 (max pre-WotLK),0,0.04207603
+23367,8,Undead,Mage,70 (max pre-WotLK),1,0.35182726
+23376,8,Orc,Hunter,70 (max pre-WotLK),0,0.009243832
+23389,8,Tauren,Hunter,60-69,0,0.02279997
+23397,8,Tauren,Druid,70 (max pre-WotLK),0,0.025577655
+23425,8,Undead,Mage,70 (max pre-WotLK),0,0.02976963
+23426,8,Undead,Warlock,70 (max pre-WotLK),0,0.001898226
+23430,8,Tauren,Shaman,70 (max pre-WotLK),0,0.006535632
+23432,8,Tauren,Shaman,70 (max pre-WotLK),0,0.009229271
+23438,8,Undead,Warrior,70 (max pre-WotLK),0,0.0014513459
+23453,8,Undead,Priest,70 (max pre-WotLK),0,0.017365295
+23460,8,Undead,Warlock,70 (max pre-WotLK),0,0.48456785
+23470,8,Undead,Rogue,70 (max pre-WotLK),0,0.0032309564
+23471,8,Undead,Mage,70 (max pre-WotLK),0,0.0037488134
+23482,8,Undead,Priest,70 (max pre-WotLK),0,0.002482716
+23487,8,Tauren,Hunter,70 (max pre-WotLK),0,0.0044590076
+23494,8,Troll,Rogue,70 (max pre-WotLK),0,0.0070756013
+23500,8,Undead,Warrior,70 (max pre-WotLK),0,0.015389739
+23506,8,Undead,Mage,70 (max pre-WotLK),0,0.029946018
+23523,8,Undead,Warlock,70 (max pre-WotLK),0,0.016034985
+23528,8,Orc,Warrior,70 (max pre-WotLK),0,0.09502687
+23533,8,Orc,Warrior,70 (max pre-WotLK),0,0.29979068
+23557,8,Undead,Priest,70 (max pre-WotLK),0,0.0065426086
+23564,8,Tauren,Hunter,70 (max pre-WotLK),0,0.007086755
+23577,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0112483995
+23584,8,Undead,Mage,70 (max pre-WotLK),0,0.023729045
+23605,8,Orc,Warlock,70 (max pre-WotLK),0,0.002889371
+23668,8,Undead,Priest,70 (max pre-WotLK),0,0.007619245
+23698,8,Tauren,Druid,1-59,0,0.021884441
+23699,8,Tauren,Warrior,70 (max pre-WotLK),0,0.027161581
+23704,8,Orc,Warrior,70 (max pre-WotLK),0,0.004544757
+23720,8,Tauren,Warrior,70 (max pre-WotLK),0,0.023731261
+23737,8,Tauren,Hunter,70 (max pre-WotLK),1,0.38575652
+23742,8,Tauren,Druid,70 (max pre-WotLK),0,0.05037309
+23746,8,Undead,Mage,60-69,0,0.2809917
+23749,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.36996627
+23771,8,Undead,Warlock,70 (max pre-WotLK),0,0.03494827
+23782,8,Undead,Warlock,1-59,0,0.051861852
+23800,8,Troll,Mage,70 (max pre-WotLK),0,0.0041550854
+23806,8,Tauren,Hunter,60-69,0,0.2728831
+23820,8,Undead,Warrior,70 (max pre-WotLK),0,0.0121249035
+23913,8,Orc,Hunter,70 (max pre-WotLK),0,0.003570555
+23919,8,Undead,Warrior,70 (max pre-WotLK),0,0.0005814936
+23938,8,Tauren,Shaman,70 (max pre-WotLK),0,0.05901131
+23952,8,Undead,Mage,70 (max pre-WotLK),0,0.076547265
+23967,8,Troll,Rogue,70 (max pre-WotLK),0,0.0039600353
+23970,8,Undead,Rogue,70 (max pre-WotLK),0,0.001957303
+24004,8,Undead,Mage,70 (max pre-WotLK),0,0.03205985
+24011,8,Undead,Priest,70 (max pre-WotLK),0,0.012581477
+24020,8,Tauren,Shaman,60-69,0,0.021294402
+24126,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.026123099
+24136,8,Tauren,Warrior,70 (max pre-WotLK),1,0.1863273
+24137,8,Undead,Mage,70 (max pre-WotLK),0,0.020221602
+24157,8,Undead,Priest,70 (max pre-WotLK),0,0.0012860426
+24164,8,Tauren,Shaman,1-59,0,0.17449306
+24175,8,Orc,Warrior,70 (max pre-WotLK),1,0.22793505
+24178,8,Undead,Priest,1-59,0,0.45302022
+24190,8,Troll,Hunter,70 (max pre-WotLK),0,0.08987855
+24288,8,Troll,Mage,70 (max pre-WotLK),0,0.0012217171
+24305,8,Undead,Warlock,70 (max pre-WotLK),0,0.021764465
+24324,8,Undead,Warlock,70 (max pre-WotLK),0,0.21130148
+24373,8,Tauren,Druid,70 (max pre-WotLK),1,0.6662254
+24388,8,Tauren,Hunter,70 (max pre-WotLK),0,0.011670422
+24390,8,Undead,Priest,70 (max pre-WotLK),0,0.0017326246
+24404,8,Tauren,Druid,70 (max pre-WotLK),0,0.0007737546
+24412,8,Undead,Priest,1-59,0,0.040506255
+24417,8,Troll,Priest,60-69,0,0.018416546
+24439,8,Undead,Rogue,70 (max pre-WotLK),0,0.012993311
+24448,8,Tauren,Hunter,70 (max pre-WotLK),0,0.005972517
+24454,8,Tauren,Shaman,70 (max pre-WotLK),0,0.51552147
+24455,8,Troll,Rogue,60-69,0,0.009509685
+24550,8,Undead,Priest,70 (max pre-WotLK),0,0.009490499
+24558,8,Undead,Warrior,1-59,0,0.0131268045
+24565,8,Tauren,Shaman,1-59,1,0.64737004
+24674,8,Undead,Mage,70 (max pre-WotLK),0,0.004087903
+24697,8,Tauren,Shaman,1-59,0,0.0180939
+24707,8,Undead,Mage,70 (max pre-WotLK),0,0.10077314
+24721,8,Undead,Priest,70 (max pre-WotLK),0,0.0014919945
+24722,8,Undead,Rogue,70 (max pre-WotLK),0,0.0067956904
+24723,8,Undead,Warrior,70 (max pre-WotLK),0,0.004016171
+24730,8,Undead,Rogue,70 (max pre-WotLK),0,0.0064849355
+24738,8,Troll,Mage,70 (max pre-WotLK),0,0.023862759
+24747,8,Undead,Rogue,1-59,0,0.0072848415
+24749,8,Troll,Priest,70 (max pre-WotLK),0,0.0022578172
+24764,8,Blood Elf,Paladin,1-59,0,0.044278663
+24779,8,Orc,Hunter,70 (max pre-WotLK),0,0.010697501
+24854,8,Troll,Hunter,70 (max pre-WotLK),1,0.27944815
+24886,8,Tauren,Druid,1-59,0,0.018476449
+24897,8,Troll,Priest,70 (max pre-WotLK),0,0.0043789153
+24916,8,Tauren,Warrior,1-59,0,0.40694264
+24938,8,Undead,Mage,70 (max pre-WotLK),0,0.003701368
+24945,8,Troll,Rogue,70 (max pre-WotLK),1,0.27492774
+24953,8,Blood Elf,Hunter,1-59,0,0.04017217
+25043,8,Undead,Rogue,70 (max pre-WotLK),0,0.006198695
+25061,8,Tauren,Warrior,70 (max pre-WotLK),0,0.00937153
+25076,8,Undead,Mage,1-59,0,0.16739549
+25084,8,Undead,Rogue,70 (max pre-WotLK),0,0.0037070662
+25133,8,Troll,Rogue,70 (max pre-WotLK),0,0.044322487
+25140,8,Undead,Priest,70 (max pre-WotLK),0,0.035031047
+25193,8,Undead,Mage,70 (max pre-WotLK),0,0.046233665
+25195,8,Tauren,Druid,70 (max pre-WotLK),0,0.006207796
+25213,8,Undead,Priest,70 (max pre-WotLK),0,0.0051451195
+25217,8,Tauren,Shaman,70 (max pre-WotLK),0,0.1503803
+25249,8,Undead,Mage,1-59,0,0.018493814
+25279,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.38257062
+25299,8,Undead,Mage,70 (max pre-WotLK),0,0.033731215
+25300,8,Tauren,Shaman,70 (max pre-WotLK),0,0.008740524
+25355,8,Troll,Shaman,70 (max pre-WotLK),1,0.23446892
+25363,8,Undead,Priest,70 (max pre-WotLK),0,0.0015313865
+25381,8,Tauren,Shaman,60-69,0,0.0155186765
+25490,8,Tauren,Warrior,70 (max pre-WotLK),0,0.011593351
+25512,8,Tauren,Druid,70 (max pre-WotLK),0,0.014764618
+25521,8,Undead,Priest,1-59,0,0.008655749
+25613,8,Orc,Shaman,1-59,0,0.0131710945
+25619,8,Undead,Mage,70 (max pre-WotLK),0,0.0075723194
+25671,8,Troll,Rogue,1-59,0,0.5464912
+25699,8,Tauren,Hunter,70 (max pre-WotLK),0,0.09287767
+25725,8,Tauren,Druid,70 (max pre-WotLK),0,0.0013388443
+25727,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0017983544
+25748,8,Troll,Mage,70 (max pre-WotLK),0,0.028574565
+25754,8,Tauren,Shaman,1-59,0,0.10704304
+25798,8,Troll,Hunter,1-59,0,0.10538881
+25800,8,Blood Elf,Warlock,60-69,0,0.0023108798
+25806,8,Troll,Rogue,70 (max pre-WotLK),0,0.023003029
+25822,8,Undead,Priest,70 (max pre-WotLK),0,0.001491241
+25827,8,Undead,Warrior,70 (max pre-WotLK),0,0.003025287
+25858,8,Tauren,Druid,70 (max pre-WotLK),0,0.0028546264
+25930,8,Undead,Warlock,70 (max pre-WotLK),0,0.0017977861
+25942,8,Undead,Priest,70 (max pre-WotLK),0,0.0028663706
+25968,8,Undead,Warlock,70 (max pre-WotLK),0,0.05000116
+25982,8,Undead,Rogue,70 (max pre-WotLK),0,0.004280149
+25994,8,Undead,Warlock,70 (max pre-WotLK),0,0.0016973959
+26008,8,Undead,Mage,60-69,0,0.032505255
+26011,8,Troll,Hunter,70 (max pre-WotLK),0,0.029941268
+26045,8,Troll,Shaman,70 (max pre-WotLK),1,0.05167032
+26069,8,Troll,Priest,1-59,0,0.15092397
+26082,8,Undead,Priest,70 (max pre-WotLK),0,0.0940723
+26097,8,Tauren,Shaman,1-59,0,0.062050648
+26111,8,Tauren,Warrior,70 (max pre-WotLK),1,0.47883648
+26120,8,Tauren,Druid,60-69,0,0.005880999
+26137,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.0020229782
+26156,8,Undead,Priest,70 (max pre-WotLK),0,0.003040144
+26229,8,Undead,Mage,70 (max pre-WotLK),0,0.0059955027
+26230,8,Tauren,Hunter,70 (max pre-WotLK),0,0.010924017
+26283,8,Troll,Shaman,60-69,1,0.30283314
+26317,8,Undead,Rogue,1-59,0,0.09267936
+26350,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0052458765
+26375,8,Troll,Rogue,70 (max pre-WotLK),0,0.013630961
+26379,8,Undead,Priest,70 (max pre-WotLK),0,0.0060491706
+26399,8,Undead,Rogue,70 (max pre-WotLK),0,0.34355026
+26420,8,Undead,Priest,70 (max pre-WotLK),0,0.019320032
+26449,8,Undead,Mage,70 (max pre-WotLK),0,0.0024166326
+26472,8,Tauren,Druid,70 (max pre-WotLK),0,0.45824885
+26580,8,Undead,Warlock,70 (max pre-WotLK),0,0.01869408
+26677,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.16126862
+26678,8,Undead,Warlock,60-69,0,0.04586925
+26743,8,Tauren,Druid,60-69,0,0.013427711
+26752,8,Tauren,Warrior,70 (max pre-WotLK),0,0.004229723
+26763,8,Tauren,Druid,1-59,0,0.33233282
+26766,8,Orc,Hunter,70 (max pre-WotLK),0,0.0032216008
+26770,8,Undead,Priest,1-59,0,0.0014953705
+26822,8,Tauren,Druid,70 (max pre-WotLK),0,0.033046085
+26829,8,Troll,Hunter,70 (max pre-WotLK),0,0.023896085
+26843,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0021211558
+26944,8,Troll,Rogue,1-59,1,0.50755656
+27045,8,Orc,Hunter,60-69,0,0.1984968
+27081,8,Troll,Mage,70 (max pre-WotLK),0,0.0033024112
+27089,8,Tauren,Druid,70 (max pre-WotLK),0,0.0048921355
+27097,8,Tauren,Druid,70 (max pre-WotLK),0,0.004078659
+27103,8,Tauren,Druid,1-59,0,0.10306427
+27171,8,Troll,Hunter,70 (max pre-WotLK),0,0.24408011
+27202,8,Undead,Priest,70 (max pre-WotLK),0,0.109144606
+27212,8,Tauren,Druid,70 (max pre-WotLK),0,0.011580092
+27233,8,Undead,Warlock,70 (max pre-WotLK),0,0.0004696048
+27239,8,Orc,Warrior,1-59,0,0.043975938
+27347,8,Undead,Rogue,70 (max pre-WotLK),0,0.0025845412
+27396,8,Undead,Rogue,60-69,1,0.502119
+27400,8,Undead,Mage,60-69,1,0.37245175
+27406,8,Tauren,Druid,1-59,0,0.051941607
+27408,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0012780817
+27412,8,Tauren,Warrior,70 (max pre-WotLK),0,0.001657815
+27432,8,Tauren,Shaman,70 (max pre-WotLK),1,0.4828127
+27486,8,Tauren,Druid,60-69,0,0.005768024
+27494,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.0041504693
+27539,8,Orc,Hunter,70 (max pre-WotLK),0,0.030625712
+27547,8,Undead,Priest,70 (max pre-WotLK),0,0.071067266
+27554,8,Tauren,Druid,70 (max pre-WotLK),0,0.02727597
+27557,8,Undead,Rogue,60-69,0,0.008314005
+27595,8,Undead,Rogue,70 (max pre-WotLK),0,0.024295622
+27599,8,Tauren,Shaman,70 (max pre-WotLK),0,0.012929568
+27602,8,Blood Elf,Hunter,60-69,0,0.0398376
+27642,8,Troll,Hunter,60-69,0,0.064628
+27654,8,Undead,Priest,70 (max pre-WotLK),0,0.015466471
+27659,8,Troll,Priest,70 (max pre-WotLK),0,0.0027932064
+27678,8,Troll,Mage,1-59,0,0.014162716
+27706,8,Tauren,Warrior,70 (max pre-WotLK),0,0.024863211
+27710,8,Tauren,Druid,70 (max pre-WotLK),0,0.007490653
+27711,8,Undead,Priest,70 (max pre-WotLK),0,0.01365035
+27750,8,Tauren,Shaman,70 (max pre-WotLK),1,0.12855032
+27841,8,Undead,Priest,60-69,1,0.8259152
+27842,8,Troll,Warrior,1-59,0,0.06121353
+27846,8,Tauren,Warrior,70 (max pre-WotLK),0,0.01644428
+27853,8,Troll,Rogue,70 (max pre-WotLK),0,0.0009741204
+27879,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0114990175
+27900,8,Tauren,Druid,70 (max pre-WotLK),0,0.0041572447
+27908,8,Orc,Hunter,1-59,0,0.010617521
+27999,8,Undead,Warlock,70 (max pre-WotLK),0,0.1657123
+28009,8,Troll,Hunter,1-59,0,0.045571413
+28172,8,Troll,Mage,70 (max pre-WotLK),0,0.01815006
+28187,8,Tauren,Druid,70 (max pre-WotLK),1,0.613027
+28238,8,Tauren,Hunter,70 (max pre-WotLK),1,0.5664992
+28316,8,Undead,Mage,70 (max pre-WotLK),0,0.0071688406
+28323,8,Troll,Priest,70 (max pre-WotLK),0,0.046090506
+28365,8,Undead,Mage,70 (max pre-WotLK),0,0.2598384
+28382,8,Troll,Hunter,70 (max pre-WotLK),0,0.017310914
+28406,8,Troll,Mage,70 (max pre-WotLK),1,0.4204382
+28486,8,Tauren,Druid,70 (max pre-WotLK),0,0.0028606197
+28490,8,Orc,Warrior,70 (max pre-WotLK),0,0.08165301
+28497,8,Tauren,Shaman,70 (max pre-WotLK),0,0.006399202
+28528,8,Blood Elf,Mage,1-59,0,0.40502387
+28568,8,Tauren,Shaman,1-59,0,0.0646871
+28581,8,Undead,Rogue,70 (max pre-WotLK),0,0.0037360766
+28589,8,Undead,Warlock,70 (max pre-WotLK),0,0.07582058
+28622,8,Undead,Warlock,1-59,0,0.034445483
+28651,8,Troll,Rogue,70 (max pre-WotLK),0,0.005938465
+28695,8,Undead,Rogue,70 (max pre-WotLK),0,0.023388457
+28699,8,Undead,Mage,60-69,0,0.65359277
+28710,8,Orc,Warlock,70 (max pre-WotLK),0,0.007067365
+28749,8,Troll,Priest,70 (max pre-WotLK),0,0.010107968
+28775,8,Undead,Mage,1-59,0,0.11011508
+28801,8,Orc,Hunter,70 (max pre-WotLK),0,0.015020172
+28845,8,Tauren,Druid,70 (max pre-WotLK),0,0.10004964
+28881,8,Undead,Mage,70 (max pre-WotLK),0,0.06956643
+28894,8,Undead,Rogue,1-59,0,0.6357074
+28904,8,Undead,Warlock,70 (max pre-WotLK),0,0.000998109
+28930,8,Tauren,Druid,70 (max pre-WotLK),0,0.15800449
+28953,8,Troll,Mage,70 (max pre-WotLK),0,0.04029655
+28957,8,Troll,Mage,70 (max pre-WotLK),0,0.0014570791
+28996,8,Tauren,Warrior,1-59,0,0.014606217
+29037,8,Undead,Mage,70 (max pre-WotLK),0,0.010769993
+29108,8,Troll,Shaman,70 (max pre-WotLK),0,0.094855845
+29221,8,Troll,Rogue,70 (max pre-WotLK),0,0.1915467
+29342,8,Undead,Rogue,70 (max pre-WotLK),0,0.00896649
+29395,8,Troll,Priest,70 (max pre-WotLK),0,0.0033683057
+29484,8,Tauren,Druid,1-59,0,0.07901554
+29487,8,Tauren,Shaman,70 (max pre-WotLK),0,0.005266992
+29511,8,Troll,Hunter,70 (max pre-WotLK),0,0.04508299
+29539,8,Orc,Hunter,1-59,0,0.003972743
+29567,8,Tauren,Warrior,70 (max pre-WotLK),0,0.005072564
+29595,8,Orc,Hunter,70 (max pre-WotLK),1,0.13209748
+29599,8,Tauren,Warrior,70 (max pre-WotLK),1,0.2965949
+29603,8,Tauren,Warrior,60-69,0,0.4256983
+29637,8,Troll,Hunter,1-59,0,0.0068055876
+29710,8,Troll,Hunter,70 (max pre-WotLK),1,0.24081731
+29742,8,Undead,Priest,1-59,0,0.63994646
+29749,8,Blood Elf,Warlock,1-59,0,0.5868097
+29753,8,Tauren,Hunter,1-59,0,0.44920713
+29795,8,Troll,Mage,70 (max pre-WotLK),0,0.0019846351
+29896,8,Troll,Hunter,70 (max pre-WotLK),0,0.0011527368
+29963,8,Blood Elf,Paladin,60-69,0,0.0014350796
+29999,8,Undead,Warrior,70 (max pre-WotLK),0,0.003319986
+30070,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.007475248
+30072,8,Undead,Mage,70 (max pre-WotLK),0,0.00785308
+30085,8,Tauren,Druid,1-59,0,0.05185917
+30209,8,Orc,Hunter,70 (max pre-WotLK),1,0.28734225
+30231,8,Undead,Mage,70 (max pre-WotLK),0,0.026315518
+30269,8,Troll,Hunter,1-59,0,0.14723694
+30284,8,Undead,Rogue,1-59,0,0.0073562195
+30379,8,Troll,Rogue,70 (max pre-WotLK),0,0.0059220595
+30400,8,Tauren,Druid,1-59,0,0.10876497
+30467,8,Undead,Priest,70 (max pre-WotLK),0,0.019242235
+30491,8,Undead,Mage,60-69,0,0.21023731
+30524,8,Undead,Mage,1-59,0,0.10852538
+30605,8,Undead,Warlock,70 (max pre-WotLK),0,0.017396836
+30745,8,Troll,Priest,70 (max pre-WotLK),0,0.041973155
+30755,8,Tauren,Druid,70 (max pre-WotLK),0,0.002830358
+30779,8,Tauren,Druid,70 (max pre-WotLK),0,0.1410802
+30782,8,Undead,Priest,70 (max pre-WotLK),0,0.0252607
+30794,8,Tauren,Hunter,70 (max pre-WotLK),0,0.0021503414
+30816,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.0015266984
+30928,8,Tauren,Druid,70 (max pre-WotLK),0,0.0141995195
+30931,8,Tauren,Druid,70 (max pre-WotLK),1,0.53325063
+30968,8,Orc,Warrior,70 (max pre-WotLK),1,0.48967886
+30970,8,Tauren,Warrior,70 (max pre-WotLK),0,0.15160541
+30974,8,Troll,Rogue,70 (max pre-WotLK),0,0.020407157
+31184,8,Undead,Rogue,70 (max pre-WotLK),0,0.0012437002
+31245,8,Troll,Hunter,70 (max pre-WotLK),0,0.0032760156
+31267,8,Orc,Hunter,70 (max pre-WotLK),0,0.039331816
+31313,8,Undead,Warlock,1-59,0,0.27028978
+31315,8,Blood Elf,Warlock,1-59,0,0.06799067
+31351,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0056520347
+31361,8,Undead,Priest,70 (max pre-WotLK),0,0.008680957
+31407,8,Orc,Hunter,70 (max pre-WotLK),0,0.0012575514
+31413,8,Undead,Rogue,60-69,0,0.011160567
+31491,8,Tauren,Shaman,60-69,0,0.1497128
+31496,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.00061810313
+31534,8,Undead,Rogue,70 (max pre-WotLK),1,0.6037476
+31584,8,Troll,Rogue,70 (max pre-WotLK),1,0.54632384
+31591,8,Troll,Shaman,70 (max pre-WotLK),0,0.1437662
+31597,8,Tauren,Druid,70 (max pre-WotLK),0,0.010146543
+31598,8,Tauren,Druid,70 (max pre-WotLK),0,0.0028289803
+31644,8,Troll,Hunter,70 (max pre-WotLK),0,0.05184549
+31647,8,Undead,Mage,70 (max pre-WotLK),0,0.0013025319
+31674,8,Troll,Rogue,70 (max pre-WotLK),0,0.0069960854
+31697,8,Undead,Mage,70 (max pre-WotLK),0,0.0062877773
+31842,8,Undead,Warrior,1-59,0,0.06131401
+31937,8,Troll,Rogue,70 (max pre-WotLK),1,0.7344834
+32098,8,Troll,Priest,70 (max pre-WotLK),0,0.012373513
+32135,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0023907106
+32141,8,Undead,Mage,70 (max pre-WotLK),0,0.003364773
+32143,8,Undead,Warlock,1-59,1,0.24405013
+32287,8,Undead,Priest,70 (max pre-WotLK),0,0.013952305
+32371,8,Troll,Mage,70 (max pre-WotLK),0,0.0072058816
+32401,8,Troll,Rogue,1-59,0,0.079091094
+32573,8,Undead,Priest,70 (max pre-WotLK),0,0.008639774
+32590,8,Troll,Rogue,70 (max pre-WotLK),0,0.008246652
+32610,8,Troll,Shaman,1-59,0,0.082899824
+32629,8,Undead,Warrior,70 (max pre-WotLK),0,0.0022149875
+32673,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0027434926
+32748,8,Undead,Mage,70 (max pre-WotLK),0,0.0060619507
+32765,8,Tauren,Druid,70 (max pre-WotLK),0,0.011606187
+32785,8,Tauren,Shaman,70 (max pre-WotLK),0,0.042122856
+32829,8,Undead,Mage,1-59,0,0.3132792
+32985,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0092052985
+33016,8,Undead,Warlock,70 (max pre-WotLK),0,0.008887604
+33039,8,Tauren,Shaman,70 (max pre-WotLK),0,0.05389744
+33058,8,Tauren,Druid,70 (max pre-WotLK),0,0.021103248
+33099,8,Tauren,Warrior,70 (max pre-WotLK),0,0.035518304
+33129,8,Orc,Hunter,70 (max pre-WotLK),0,0.20621912
+33242,8,Undead,Mage,60-69,0,0.030831482
+33252,8,Blood Elf,Mage,70 (max pre-WotLK),1,0.77194107
+33257,8,Orc,Shaman,70 (max pre-WotLK),0,0.005068929
+33321,8,Orc,Hunter,70 (max pre-WotLK),1,0.09707002
+33408,8,Undead,Warlock,70 (max pre-WotLK),0,0.0020321936
+33441,8,Tauren,Druid,60-69,0,0.029662866
+33513,8,Undead,Mage,1-59,1,0.3265884
+33598,8,Tauren,Hunter,70 (max pre-WotLK),0,0.0014585909
+33638,8,Blood Elf,Paladin,1-59,0,0.018972041
+33670,8,Undead,Rogue,70 (max pre-WotLK),0,0.0020853311
+33874,8,Tauren,Warrior,1-59,0,0.014554771
+33910,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0135906115
+34045,8,Orc,Hunter,70 (max pre-WotLK),0,0.008640207
+34068,8,Blood Elf,Warlock,1-59,0,0.39424196
+34147,8,Undead,Mage,70 (max pre-WotLK),0,0.017058425
+34216,8,Orc,Warrior,70 (max pre-WotLK),0,0.008262106
+34315,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.35263452
+34319,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.019571403
+34362,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.3203953
+34370,8,Blood Elf,Paladin,1-59,0,0.006709702
+34374,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.03536913
+34386,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0009743812
+34396,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.08808766
+34415,8,Blood Elf,Paladin,70 (max pre-WotLK),1,0.022274312
+34442,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0068434924
+34455,8,Blood Elf,Warlock,1-59,0,0.15174279
+34496,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.41261908
+34535,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.00079917227
+34570,8,Blood Elf,Paladin,1-59,0,0.028269107
+34598,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.42307392
+34614,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0025673027
+34629,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.002033725
+34642,8,Blood Elf,Warlock,1-59,1,0.29765484
+34664,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0044671968
+34673,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0063392282
+34743,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.055712827
+34746,8,Blood Elf,Mage,1-59,1,0.43263552
+34751,8,Blood Elf,Hunter,1-59,0,0.04208474
+34759,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.018107185
+34764,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.0081749745
+34776,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.005894515
+34791,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0008939203
+34853,8,Blood Elf,Priest,1-59,0,0.008289015
+34858,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.1040162
+34869,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.021278482
+34870,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0027091587
+34903,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.013007389
+34929,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0120630665
+34962,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.004924029
+34971,8,Blood Elf,Warlock,1-59,0,0.018470367
+35002,8,Undead,Mage,70 (max pre-WotLK),0,0.0014149427
+35004,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.002888084
+35005,8,Blood Elf,Mage,1-59,0,0.4079714
+35028,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.010511584
+35037,8,Blood Elf,Rogue,60-69,0,0.0010719835
+35051,8,Blood Elf,Paladin,70 (max pre-WotLK),1,0.4981328
+35072,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0036636582
+35094,8,Blood Elf,Paladin,70 (max pre-WotLK),1,0.3627729
+35104,8,Blood Elf,Paladin,60-69,0,0.0097670285
+35174,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0022463547
+35195,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.00805991
+35204,8,Blood Elf,Paladin,70 (max pre-WotLK),1,0.26031005
+35268,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.005994528
+35304,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.02946991
+35308,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.004619452
+35324,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.016293228
+35358,8,Blood Elf,Warlock,1-59,0,0.35827094
+35405,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.17327079
+35413,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0006947771
+35498,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.060782477
+35523,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.023409378
+35580,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.008774044
+35581,8,Blood Elf,Warlock,1-59,1,0.5178369
+35583,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.0046650497
+35618,8,Blood Elf,Paladin,60-69,1,0.52041435
+35622,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.010125937
+35625,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.006679499
+35655,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0015909722
+35667,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.013029158
+35685,8,Undead,Rogue,70 (max pre-WotLK),0,0.07244661
+35689,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0015620965
+35697,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.0009553678
+35709,8,Orc,Shaman,1-59,1,0.12408958
+35752,8,Blood Elf,Warlock,1-59,0,0.5752339
+35754,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0091076195
+35760,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0024347214
+35796,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.02742432
+35798,8,Blood Elf,Warlock,1-59,0,0.29951638
+35824,8,Blood Elf,Paladin,1-59,0,0.020020055
+35874,8,Blood Elf,Paladin,1-59,0,0.035347875
+35960,8,Blood Elf,Priest,1-59,1,0.2151398
+35977,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0058352393
+36011,8,Blood Elf,Paladin,1-59,0,0.005543515
+36012,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.016356876
+36045,8,Tauren,Shaman,70 (max pre-WotLK),0,0.06247674
+36054,8,Blood Elf,Warlock,1-59,0,0.011384097
+36058,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0011408612
+36082,8,Blood Elf,Paladin,60-69,0,0.19724919
+36091,8,Blood Elf,Paladin,1-59,0,0.033586394
+36137,8,Blood Elf,Paladin,1-59,0,0.014854289
+36142,8,Blood Elf,Rogue,1-59,0,0.20336343
+36159,8,Blood Elf,Mage,70 (max pre-WotLK),1,0.27742147
+36189,8,Tauren,Druid,1-59,0,0.13012986
+36200,8,Blood Elf,Warlock,60-69,1,0.60976845
+36218,8,Blood Elf,Warlock,1-59,0,0.39604354
+36236,8,Undead,Mage,70 (max pre-WotLK),0,0.0007974348
+36245,8,Blood Elf,Warlock,1-59,0,0.010897988
+36328,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.01533973
+36437,8,Tauren,Warrior,70 (max pre-WotLK),0,0.011895911
+36517,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.055649653
+36545,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.024998253
+36553,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.0011154918
+36569,8,Blood Elf,Priest,60-69,0,0.017089851
+36571,8,Blood Elf,Paladin,60-69,0,0.03601751
+36625,8,Tauren,Hunter,70 (max pre-WotLK),0,0.001283124
+36684,8,Troll,Rogue,1-59,0,0.007179692
+36731,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.0005547646
+36740,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.008699484
+36761,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.00070721016
+36775,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.35409367
+36792,8,Undead,Warlock,70 (max pre-WotLK),0,0.012683781
+36797,8,Undead,Mage,70 (max pre-WotLK),0,0.016222365
+36799,8,Blood Elf,Paladin,1-59,0,0.18007573
+36800,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.003090115
+36804,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0010344934
+36816,8,Blood Elf,Mage,1-59,0,0.036253195
+36818,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.033584725
+36840,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.039271604
+36893,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.0058307187
+36908,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.0060186503
+37019,8,Blood Elf,Rogue,1-59,0,0.06709084
+37029,8,Tauren,Warrior,70 (max pre-WotLK),0,0.009793961
+37038,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0053244494
+37045,8,Undead,Warlock,60-69,0,0.03836089
+37063,8,Undead,Rogue,1-59,0,0.007054707
+37072,8,Blood Elf,Paladin,60-69,0,0.010408294
+37093,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.034456436
+37133,8,Blood Elf,Warlock,70 (max pre-WotLK),1,0.014698578
+37156,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.16380541
+37228,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.005377019
+37239,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.017602263
+37289,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.025963113
+37317,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0016276396
+37344,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.007842873
+37351,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0035878227
+37378,8,Blood Elf,Hunter,1-59,0,0.025735764
+37410,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.0008205875
+37459,8,Blood Elf,Mage,70 (max pre-WotLK),1,0.28332537
+37472,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0118352445
+37510,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0032791095
+37545,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0040191957
+37568,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.037350524
+37611,8,Troll,Rogue,70 (max pre-WotLK),0,0.10117
+37721,8,Blood Elf,Priest,1-59,0,0.48233443
+37826,8,Blood Elf,Paladin,1-59,0,0.15075663
+37909,8,Blood Elf,Warlock,1-59,1,0.41330945
+37932,8,Undead,Warlock,70 (max pre-WotLK),0,0.01657125
+38065,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.019134402
+38081,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.010429523
+38082,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.0060725124
+38109,8,Troll,Rogue,70 (max pre-WotLK),0,0.0009948877
+38305,8,Blood Elf,Mage,60-69,0,0.007391502
+38324,8,Blood Elf,Hunter,70 (max pre-WotLK),1,0.2653876
+38362,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.014060612
+38372,8,Blood Elf,Rogue,60-69,0,0.0360296
+38403,8,Blood Elf,Paladin,1-59,0,0.09600119
+38415,8,Blood Elf,Rogue,1-59,0,0.41591826
+38462,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.0035508887
+38466,8,Tauren,Warrior,60-69,0,0.23954333
+38531,8,Blood Elf,Warlock,60-69,0,0.03809168
+38701,8,Blood Elf,Warlock,1-59,0,0.03508182
+38818,8,Tauren,Druid,1-59,0,0.017672371
+38974,8,Undead,Priest,70 (max pre-WotLK),1,0.5817523
+39062,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.027124777
+39171,8,Blood Elf,Paladin,1-59,0,0.031127691
+39208,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.014618094
+39214,8,Orc,Warlock,1-59,0,0.046998344
+39218,8,Blood Elf,Warlock,1-59,0,0.010223274
+39235,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0073208967
+39287,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.3638836
+39355,8,Blood Elf,Rogue,70 (max pre-WotLK),1,0.14673541
+39520,8,Blood Elf,Mage,60-69,0,0.0011601759
+39521,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.0024129155
+39570,8,Blood Elf,Hunter,70 (max pre-WotLK),1,0.36729833
+39671,8,Blood Elf,Mage,60-69,0,0.045503486
+39730,8,Blood Elf,Paladin,1-59,0,0.27023008
+39804,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0070881275
+39817,8,Blood Elf,Hunter,70 (max pre-WotLK),1,0.23591603
+39886,8,Blood Elf,Mage,1-59,0,0.6006639
+39892,8,Blood Elf,Paladin,1-59,0,0.28705728
+39895,8,Blood Elf,Mage,1-59,0,0.03395649
+39915,8,Blood Elf,Paladin,60-69,0,0.015093377
+39927,8,Blood Elf,Paladin,1-59,0,0.010259248
+39928,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.012755176
+40007,8,Blood Elf,Rogue,60-69,0,0.011704846
+40092,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.013544816
+40232,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.030734278
+40237,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.02125815
+40265,8,Blood Elf,Paladin,70 (max pre-WotLK),1,0.2616758
+40309,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.031202916
+40363,8,Blood Elf,Paladin,1-59,0,0.071991056
+40375,8,Blood Elf,Paladin,1-59,0,0.041794453
+40458,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.04461806
+40483,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.020678809
+40502,8,Blood Elf,Mage,1-59,0,0.1107231
+40553,8,Tauren,Hunter,70 (max pre-WotLK),0,0.06460595
+40754,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.019546485
+40923,8,Blood Elf,Mage,1-59,0,0.08773407
+40951,8,Orc,Hunter,70 (max pre-WotLK),0,0.0059488267
+40978,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.03158846
+41004,8,Orc,Rogue,70 (max pre-WotLK),0,0.018256051
+41096,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.02462723
+41113,8,Blood Elf,Paladin,1-59,0,0.06514744
+41304,8,Blood Elf,Hunter,1-59,0,0.22987773
+41436,8,Blood Elf,Paladin,1-59,0,0.04948162
+41457,8,Tauren,Warrior,70 (max pre-WotLK),0,0.07444846
+41458,8,Tauren,Druid,1-59,0,0.08651199
+41540,8,Undead,Mage,1-59,1,0.5727668
+41562,8,Blood Elf,Priest,60-69,0,0.015948372
+41729,8,Undead,Warlock,70 (max pre-WotLK),0,0.05171837
+41794,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.042468768
+41821,8,Undead,Priest,70 (max pre-WotLK),0,0.009605927
+41829,8,Undead,Warrior,70 (max pre-WotLK),0,0.019369118
+41907,8,Orc,Hunter,1-59,0,0.011140971
+41911,8,Blood Elf,Paladin,60-69,0,0.024405241
+41992,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.040103663
+42099,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.07688985
+42102,8,Blood Elf,Paladin,70 (max pre-WotLK),1,0.0047210394
+42163,8,Tauren,Druid,1-59,0,0.0075309006
+42267,8,Tauren,Druid,70 (max pre-WotLK),0,0.07622933
+42281,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.0027823178
+42317,8,Undead,Priest,70 (max pre-WotLK),0,0.12348837
+42482,8,Blood Elf,Warlock,70 (max pre-WotLK),1,0.035285573
+42532,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.006556443
+42610,8,Blood Elf,Warlock,1-59,0,0.07455602
+42668,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.0003088238
+42797,8,Blood Elf,Warlock,1-59,0,0.083363146
+42799,8,Tauren,Druid,70 (max pre-WotLK),1,0.2846105
+42872,8,Tauren,Druid,70 (max pre-WotLK),0,0.005827386
+42935,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.003296495
+42955,8,Undead,Warlock,70 (max pre-WotLK),0,0.0035930034
+42982,8,Orc,Warrior,1-59,0,0.0048113028
+43082,8,Tauren,Warrior,70 (max pre-WotLK),0,0.008955336
+43097,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.2378385
+43156,8,Blood Elf,Paladin,60-69,0,0.22964805
+43157,8,Orc,Warrior,70 (max pre-WotLK),0,0.0052008
+43180,8,Blood Elf,Warlock,60-69,1,0.5897339
+43211,8,Blood Elf,Priest,60-69,0,0.0028306744
+43248,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.14062509
+43280,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.008185618
+43281,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0026896414
+43316,8,Blood Elf,Hunter,1-59,1,0.72495586
+43329,8,Tauren,Warrior,70 (max pre-WotLK),0,0.13008921
+43350,8,Blood Elf,Paladin,1-59,1,0.10435403
+43377,8,Blood Elf,Paladin,1-59,0,0.12191516
+43406,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.002846383
+43455,8,Blood Elf,Warlock,1-59,0,0.07911578
+43493,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.023464782
+43759,8,Tauren,Shaman,70 (max pre-WotLK),0,0.032710634
+43945,8,Blood Elf,Priest,70 (max pre-WotLK),1,0.42867163
+43968,8,Orc,Hunter,70 (max pre-WotLK),0,0.07257814
+44156,8,Tauren,Druid,70 (max pre-WotLK),0,0.001000604
+44315,8,Blood Elf,Paladin,1-59,0,0.035103194
+44349,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0014830352
+44398,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.008272353
+44477,8,Orc,Hunter,70 (max pre-WotLK),0,0.10466836
+44496,8,Blood Elf,Hunter,1-59,0,0.010438143
+44500,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.14174663
+44730,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.08595495
+44793,8,Blood Elf,Priest,60-69,1,0.12645437
+44797,8,Blood Elf,Paladin,1-59,0,0.0064093187
+44813,8,Tauren,Druid,70 (max pre-WotLK),1,0.4651013
+44868,8,Blood Elf,Paladin,1-59,0,0.09007398
+44882,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.010025343
+44907,8,Blood Elf,Mage,1-59,0,0.11842352
+45029,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.26885524
+45047,8,Blood Elf,Warlock,1-59,0,0.042946838
+45051,8,Tauren,Shaman,70 (max pre-WotLK),0,0.2937615
+45125,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0050342283
+45141,8,Tauren,Warrior,1-59,1,0.29873446
+45152,8,Tauren,Shaman,60-69,0,0.027672842
+45166,8,Blood Elf,Paladin,70 (max pre-WotLK),1,0.23711666
+45218,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.031766202
+45236,8,Troll,Rogue,70 (max pre-WotLK),1,0.47955915
+45364,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.0062920274
+45387,8,Blood Elf,Paladin,60-69,0,0.0022008144
+45444,8,Troll,Hunter,70 (max pre-WotLK),0,0.008258238
+45457,8,Undead,Priest,70 (max pre-WotLK),0,0.0063988264
+45485,8,Blood Elf,Rogue,1-59,0,0.03616526
+45491,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.014440229
+45532,8,Orc,Shaman,70 (max pre-WotLK),0,0.021436166
+45536,8,Orc,Rogue,70 (max pre-WotLK),0,0.0061294474
+45714,8,Blood Elf,Paladin,1-59,1,0.0935265
+45751,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0019446764
+45772,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0021022772
+45807,8,Undead,Warlock,70 (max pre-WotLK),0,0.06164207
+45858,8,Blood Elf,Warlock,1-59,0,0.11769396
+45897,8,Tauren,Warrior,70 (max pre-WotLK),1,0.6700155
+45918,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.04508999
+45942,8,Blood Elf,Priest,1-59,0,0.018770207
+45988,8,Blood Elf,Hunter,1-59,0,0.4631588
+46006,8,Undead,Warlock,70 (max pre-WotLK),0,0.029916381
+46038,8,Undead,Priest,1-59,1,0.6005763
+46072,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.016685948
+46088,8,Tauren,Druid,70 (max pre-WotLK),0,0.0062468485
+46107,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0043498455
+46110,8,Tauren,Druid,70 (max pre-WotLK),0,0.003988452
+46116,8,Undead,Mage,70 (max pre-WotLK),0,0.0027980104
+46158,8,Blood Elf,Warlock,1-59,0,0.078468025
+46169,8,Blood Elf,Rogue,60-69,0,0.008594676
+46177,8,Blood Elf,Hunter,1-59,0,0.38922173
+46187,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.029143464
+46188,8,Troll,Mage,70 (max pre-WotLK),1,0.044413712
+46205,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.002657061
+46237,8,Blood Elf,Hunter,60-69,0,0.019934377
+46249,8,Blood Elf,Hunter,60-69,0,0.0076123904
+46305,8,Tauren,Warrior,70 (max pre-WotLK),0,0.025962234
+46431,8,Blood Elf,Rogue,1-59,0,0.0046197525
+46491,8,Blood Elf,Paladin,1-59,0,0.038249955
+46492,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0016810801
+46519,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.02586017
+46617,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0021620083
+46632,8,Tauren,Warrior,1-59,0,0.23704931
+46738,8,Troll,Mage,70 (max pre-WotLK),0,0.13257475
+46742,8,Blood Elf,Mage,1-59,0,0.28955287
+46746,8,Blood Elf,Mage,1-59,0,0.43755123
+46748,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.00042843318
+46794,8,Tauren,Shaman,70 (max pre-WotLK),0,0.011091229
+46803,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.29547164
+46833,8,Undead,Warlock,70 (max pre-WotLK),0,0.0023625698
+46903,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.39315623
+46964,8,Undead,Warlock,60-69,0,0.0013097678
+47075,8,Blood Elf,Rogue,60-69,0,0.007342118
+47077,8,Undead,Warlock,70 (max pre-WotLK),1,0.05089382
+47140,8,Blood Elf,Paladin,1-59,0,0.24330117
+47182,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.042610556
+47222,8,Blood Elf,Paladin,1-59,0,0.03717427
+47368,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.041785248
+47500,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0019219365
+47545,8,Orc,Warrior,70 (max pre-WotLK),0,0.004138118
+47583,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.06355461
+47607,8,Blood Elf,Paladin,1-59,1,0.22406164
+47614,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.09649012
+47623,8,Tauren,Druid,70 (max pre-WotLK),0,0.029163828
+47697,8,Blood Elf,Priest,1-59,0,0.37202394
+47818,8,Troll,Shaman,1-59,0,0.02182024
+47821,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0043580723
+47852,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.092760466
+47856,8,Undead,Warrior,70 (max pre-WotLK),0,0.0031230503
+47880,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.0584034
+47888,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.00065883616
+47969,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.004177536
+47981,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0017943905
+48057,8,Troll,Hunter,70 (max pre-WotLK),0,0.006219079
+48089,8,Blood Elf,Warlock,1-59,0,0.22045103
+48171,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.03906029
+48432,8,Orc,Warrior,70 (max pre-WotLK),0,0.00093246857
+48512,8,Blood Elf,Hunter,1-59,0,0.04581349
+48520,8,Undead,Mage,70 (max pre-WotLK),0,0.012928223
+48531,8,Undead,Warlock,70 (max pre-WotLK),0,0.035164926
+48557,8,Orc,Rogue,1-59,0,0.46372402
+48560,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.0010990729
+48576,8,Blood Elf,Mage,1-59,0,0.05818207
+48589,8,Undead,Priest,70 (max pre-WotLK),0,0.0032608265
+48597,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0042952644
+48702,8,Blood Elf,Mage,70 (max pre-WotLK),1,0.6075438
+48793,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0180308
+48802,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.015657717
+48821,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.010210399
+48826,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.012312419
+48885,8,Blood Elf,Paladin,60-69,0,0.01539069
+49142,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.01214289
+49558,8,Tauren,Shaman,70 (max pre-WotLK),0,0.004761986
+49711,8,Blood Elf,Mage,1-59,1,0.3486844
+49714,8,Blood Elf,Warlock,1-59,1,0.3448084
+49719,8,Orc,Warlock,70 (max pre-WotLK),0,0.025190167
+49721,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.005947812
+49778,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.002850876
+49788,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.20523265
+49810,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.018376471
+49840,8,Undead,Mage,70 (max pre-WotLK),1,0.6783008
+49944,8,Orc,Warrior,70 (max pre-WotLK),0,0.033039857
+50046,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0024987215
+50102,8,Troll,Hunter,70 (max pre-WotLK),1,0.44252002
+50220,8,Blood Elf,Rogue,60-69,1,0.58496684
+50283,8,Blood Elf,Paladin,60-69,0,0.0447174
+50311,8,Blood Elf,Mage,1-59,0,0.012070445
+50397,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.014100702
+50398,8,Tauren,Druid,70 (max pre-WotLK),0,0.002591842
+50401,8,Troll,Hunter,70 (max pre-WotLK),0,0.015666708
+50411,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.009823115
+50524,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.017877877
+50583,8,Blood Elf,Hunter,60-69,0,0.0218586
+50611,8,Blood Elf,Hunter,1-59,0,0.034355216
+50698,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.021010231
+50714,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.0041877185
+50739,8,Tauren,Warrior,70 (max pre-WotLK),0,0.009228529
+50783,8,Tauren,Druid,60-69,0,0.022987574
+51138,8,Blood Elf,Paladin,70 (max pre-WotLK),1,0.03935164
+51146,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.020975156
+51154,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0020359375
+51234,8,Blood Elf,Rogue,60-69,0,0.0023743561
+51361,8,Tauren,Druid,70 (max pre-WotLK),0,0.0017088433
+51372,8,Tauren,Druid,70 (max pre-WotLK),0,0.011500927
+51580,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.04277711
+51643,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.1618626
+51708,8,Undead,Rogue,70 (max pre-WotLK),0,0.018604994
+51738,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.0043906416
+51774,8,Blood Elf,Warlock,1-59,0,0.043625005
+51861,8,Tauren,Shaman,60-69,0,0.0012665965
+51930,8,Tauren,Druid,70 (max pre-WotLK),0,0.0031117615
+51942,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0009693437
+52142,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.00060797716
+52269,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.0098123
+52294,8,Orc,Shaman,60-69,0,0.28483275
+52313,8,Undead,Mage,70 (max pre-WotLK),0,0.0020842755
+52399,8,Blood Elf,Paladin,1-59,1,0.62451434
+52427,8,Undead,Rogue,70 (max pre-WotLK),1,0.044755485
+52499,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.017126558
+52552,8,Tauren,Warrior,1-59,0,0.528393
+52569,8,Blood Elf,Priest,1-59,0,0.08180513
+52650,8,Tauren,Warrior,70 (max pre-WotLK),1,0.043056514
+52702,8,Tauren,Druid,70 (max pre-WotLK),0,0.0017752125
+52751,8,Undead,Priest,70 (max pre-WotLK),0,0.001355434
+52753,8,Undead,Mage,70 (max pre-WotLK),0,0.0026584247
+52907,8,Undead,Rogue,70 (max pre-WotLK),0,0.015803402
+52928,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.0016104056
+52963,8,Undead,Rogue,1-59,0,0.512492
+52988,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.0032175884
+52992,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.007665204
+53022,8,Tauren,Warrior,70 (max pre-WotLK),0,0.007806572
+53025,8,Tauren,Druid,70 (max pre-WotLK),0,0.0013871572
+53229,8,Blood Elf,Warlock,70 (max pre-WotLK),1,0.08998276
+53282,8,Tauren,Warrior,70 (max pre-WotLK),0,0.012609303
+53308,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0027250098
+53351,8,Undead,Rogue,70 (max pre-WotLK),0,0.00068418536
+53356,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.0054055564
+53419,8,Undead,Rogue,70 (max pre-WotLK),0,0.11005595
+53447,8,Blood Elf,Paladin,1-59,1,0.4307703
+53457,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.006392293
+53504,8,Blood Elf,Hunter,60-69,0,0.022359408
+53517,8,Troll,Rogue,60-69,0,0.1995615
+53520,8,Tauren,Druid,70 (max pre-WotLK),0,0.0370107
+53785,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.0013645588
+53826,8,Tauren,Druid,70 (max pre-WotLK),0,0.0015465919
+53911,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.012776799
+53986,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.0039394936
+53992,8,Orc,Hunter,60-69,0,0.019348478
+54003,8,Blood Elf,Warlock,60-69,0,0.004041913
+54126,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.014690369
+54135,8,Blood Elf,Priest,1-59,1,0.099732205
+54208,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.083609864
+54261,8,Undead,Warlock,70 (max pre-WotLK),0,0.010238884
+54287,8,Blood Elf,Paladin,70 (max pre-WotLK),1,0.039449755
+54504,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.019262334
+54517,8,Undead,Rogue,70 (max pre-WotLK),0,0.03511282
+54534,8,Blood Elf,Priest,70 (max pre-WotLK),1,0.20968807
+54535,8,Blood Elf,Warlock,1-59,0,0.3377575
+54658,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.00469629
+54676,8,Orc,Hunter,70 (max pre-WotLK),0,0.20869978
+54682,8,Tauren,Druid,1-59,0,0.044411615
+54743,8,Tauren,Hunter,70 (max pre-WotLK),0,0.0130954925
+54775,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.0032479698
+54804,8,Undead,Warrior,1-59,1,0.021084698
+54820,8,Tauren,Shaman,60-69,0,0.15513061
+54873,8,Orc,Hunter,70 (max pre-WotLK),1,0.76790255
+54882,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.033776548
+54953,8,Tauren,Druid,1-59,0,0.06769319
+54965,8,Orc,Warrior,70 (max pre-WotLK),1,0.06362278
+54994,8,Tauren,Druid,70 (max pre-WotLK),0,0.0028300066
+55048,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.15184866
+55051,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.0010965905
+55090,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.07196489
+55223,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.041275922
+55274,8,Undead,Warlock,70 (max pre-WotLK),0,0.0036142324
+55277,8,Orc,Shaman,1-59,1,0.5484699
+55282,8,Blood Elf,Warlock,70 (max pre-WotLK),1,0.28699952
+55299,8,Blood Elf,Paladin,1-59,0,0.0342137
+55320,8,Undead,Warlock,70 (max pre-WotLK),0,0.0128321545
+55338,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.0024633363
+55362,8,Undead,Warlock,60-69,0,0.045625895
+55385,8,Undead,Mage,70 (max pre-WotLK),0,0.023970094
+55457,8,Tauren,Druid,70 (max pre-WotLK),0,0.008796183
+55535,8,Blood Elf,Mage,1-59,0,0.014078485
+55538,8,Blood Elf,Priest,1-59,0,0.035935014
+55609,8,Blood Elf,Warlock,70 (max pre-WotLK),1,0.018555256
+55614,8,Undead,Mage,70 (max pre-WotLK),0,0.0029818944
+55628,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0033414091
+55667,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.0037415614
+55728,8,Troll,Mage,70 (max pre-WotLK),0,0.021512497
+55776,8,Blood Elf,Warlock,1-59,1,0.713153
+55885,8,Tauren,Warrior,1-59,0,0.05065761
+55932,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.0030589972
+55943,8,Troll,Hunter,60-69,0,0.05163957
+55949,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.014736712
+56063,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.004021546
+56081,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.009512182
+56135,8,Blood Elf,Priest,1-59,1,0.056884147
+56181,8,Orc,Warrior,70 (max pre-WotLK),0,0.0038535034
+56186,8,Blood Elf,Priest,60-69,0,0.057844795
+56227,8,Tauren,Warrior,1-59,0,0.12275738
+56320,8,Blood Elf,Rogue,60-69,0,0.011723765
+56440,8,Blood Elf,Hunter,1-59,1,0.8252006
+56453,8,Tauren,Warrior,70 (max pre-WotLK),1,0.4444087
+56487,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.01854366
+56548,8,Tauren,Druid,1-59,0,0.7321294
+56579,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.010806412
+56692,8,Tauren,Druid,70 (max pre-WotLK),0,0.014372781
+56735,8,Troll,Mage,1-59,0,0.035797223
+56759,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.0056123487
+56776,8,Tauren,Druid,70 (max pre-WotLK),0,0.0046717385
+56797,8,Tauren,Druid,70 (max pre-WotLK),0,0.002766147
+56821,8,Blood Elf,Paladin,60-69,0,0.24313222
+56842,8,Blood Elf,Rogue,1-59,0,0.49607915
+56860,8,Orc,Warrior,60-69,0,0.03530763
+56873,8,Undead,Rogue,60-69,0,0.14695553
+56886,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0032432266
+56990,8,Tauren,Warrior,70 (max pre-WotLK),0,0.011973
+57015,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0046062893
+57240,8,Undead,Priest,70 (max pre-WotLK),0,0.018297374
+57278,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0009680382
+57420,8,Tauren,Druid,70 (max pre-WotLK),0,0.010723892
+57452,8,Tauren,Druid,70 (max pre-WotLK),0,0.04302062
+57566,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.0033985658
+57662,8,Orc,Hunter,1-59,1,0.2080668
+57702,8,Undead,Warlock,70 (max pre-WotLK),0,0.0008278373
+57741,8,Undead,Warlock,70 (max pre-WotLK),0,0.010776411
+57744,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.043662626
+57765,8,Blood Elf,Paladin,1-59,0,0.6505914
+57830,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.047394346
+57838,8,Tauren,Hunter,70 (max pre-WotLK),0,0.26273975
+57939,8,Troll,Hunter,70 (max pre-WotLK),0,0.011535384
+57941,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.0009734733
+57942,8,Orc,Warlock,70 (max pre-WotLK),0,0.002369935
+57988,8,Troll,Warrior,1-59,0,0.010591895
+58047,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.018128065
+58080,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.004362243
+58097,8,Blood Elf,Hunter,60-69,0,0.2556261
+58163,8,Troll,Hunter,1-59,0,0.13542865
+58202,8,Tauren,Druid,70 (max pre-WotLK),0,0.012604993
+58242,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.029699694
+58246,8,Undead,Priest,70 (max pre-WotLK),0,0.019293027
+58271,8,Orc,Hunter,70 (max pre-WotLK),0,0.008723359
+58276,8,Orc,Warrior,70 (max pre-WotLK),0,0.002822751
+58321,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.0071124723
+58333,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.041081995
+58345,8,Blood Elf,Priest,70 (max pre-WotLK),1,0.2073849
+58410,8,Tauren,Shaman,1-59,0,0.06904148
+58452,8,Tauren,Warrior,70 (max pre-WotLK),0,0.009887522
+58517,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.006968149
+58571,8,Undead,Warlock,70 (max pre-WotLK),0,0.0006905454
+58710,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.05396839
+58724,8,Orc,Hunter,70 (max pre-WotLK),0,0.0010189358
+58725,8,Undead,Warlock,1-59,0,0.057387404
+58734,8,Blood Elf,Hunter,1-59,0,0.21746852
+58741,8,Blood Elf,Paladin,1-59,0,0.003954412
+58750,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.0025425642
+58815,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.0040915483
+58826,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0153378295
+58866,8,Tauren,Shaman,70 (max pre-WotLK),0,0.03719445
+58875,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.013710469
+58890,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.012349028
+58891,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0015094582
+58900,8,Tauren,Warrior,60-69,0,0.25129437
+58974,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.001609129
+58986,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0006694044
+59020,8,Orc,Hunter,70 (max pre-WotLK),0,0.0038716448
+59074,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.03436521
+59076,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0057040625
+59079,8,Tauren,Shaman,70 (max pre-WotLK),0,0.019932529
+59130,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.069432385
+59139,8,Undead,Rogue,70 (max pre-WotLK),0,0.0041296477
+59151,8,Tauren,Shaman,1-59,0,0.4563909
+59154,8,Orc,Warrior,1-59,0,0.4639598
+59187,8,Tauren,Shaman,70 (max pre-WotLK),0,0.018354516
+59194,8,Undead,Warrior,70 (max pre-WotLK),0,0.019547613
+59195,8,Undead,Priest,1-59,0,0.013717339
+59202,8,Undead,Warlock,70 (max pre-WotLK),0,0.02853936
+59239,8,Tauren,Warrior,60-69,0,0.17876673
+59310,8,Blood Elf,Mage,1-59,0,0.03475716
+59328,8,Troll,Hunter,1-59,0,0.052435286
+59345,8,Orc,Hunter,70 (max pre-WotLK),0,0.0045774
+59354,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.11121672
+59381,8,Undead,Priest,1-59,0,0.3154718
+59386,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.025714897
+59401,8,Undead,Warrior,1-59,0,0.076485716
+59427,8,Blood Elf,Rogue,1-59,0,0.032586288
+59436,8,Tauren,Warrior,70 (max pre-WotLK),0,0.002815791
+59437,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0016986091
+59467,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.024646675
+59471,8,Undead,Warlock,70 (max pre-WotLK),0,0.006873305
+59489,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.0010263206
+59510,8,Blood Elf,Paladin,1-59,0,0.00450293
+59545,8,Blood Elf,Rogue,1-59,0,0.0895976
+59548,8,Blood Elf,Paladin,70 (max pre-WotLK),1,0.24010016
+59601,8,Blood Elf,Mage,70 (max pre-WotLK),1,0.5030026
+59614,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.021720072
+59629,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.008387133
+59648,8,Blood Elf,Rogue,1-59,1,0.81208634
+59736,8,Undead,Warlock,1-59,0,0.107029215
+59756,8,Blood Elf,Rogue,1-59,0,0.15739584
+59776,8,Orc,Hunter,60-69,0,0.24414709
+59778,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.007395208
+59783,8,Blood Elf,Priest,1-59,1,0.3219059
+59784,8,Blood Elf,Hunter,1-59,1,0.35663703
+59872,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.17993458
+59873,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.017097821
+59885,8,Blood Elf,Rogue,1-59,0,0.014934931
+59934,8,Blood Elf,Paladin,60-69,0,0.011842586
+59962,8,Blood Elf,Paladin,60-69,0,0.02064772
+60019,8,Tauren,Warrior,1-59,0,0.043444015
+60112,8,Blood Elf,Priest,70 (max pre-WotLK),1,0.10632601
+60126,8,Undead,Warrior,1-59,0,0.0017120162
+60179,8,Tauren,Shaman,70 (max pre-WotLK),0,0.28306818
+60216,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.011483548
+60219,8,Tauren,Druid,1-59,0,0.0137694385
+60220,8,Undead,Mage,70 (max pre-WotLK),0,0.0013486127
+60225,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.013376666
+60227,8,Blood Elf,Paladin,1-59,0,0.0531627
+60243,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.011898904
+60245,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.20245081
+60250,8,Blood Elf,Mage,70 (max pre-WotLK),1,0.0382586
+60252,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0016210984
+60346,8,Undead,Mage,70 (max pre-WotLK),0,0.041253265
+60375,8,Blood Elf,Hunter,70 (max pre-WotLK),1,0.26941893
+60379,8,Orc,Shaman,70 (max pre-WotLK),0,0.0061729955
+60387,8,Troll,Hunter,70 (max pre-WotLK),0,0.0015536635
+60411,8,Blood Elf,Rogue,1-59,0,0.065715574
+60483,8,Undead,Rogue,60-69,0,0.031050224
+60498,8,Blood Elf,Warlock,60-69,0,0.009552576
+60511,8,Tauren,Druid,70 (max pre-WotLK),1,0.16840397
+60529,8,Troll,Shaman,1-59,1,0.3056795
+60583,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0013747514
+60584,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.040816303
+60615,8,Blood Elf,Paladin,1-59,1,0.3229352
+60619,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.003946627
+60629,8,Blood Elf,Priest,1-59,1,0.7796203
+60647,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.015819423
+60661,8,Blood Elf,Warlock,1-59,1,0.6644158
+60674,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.06358973
+60679,8,Blood Elf,Priest,1-59,0,0.020865304
+60682,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.1908875
+60730,8,Blood Elf,Paladin,70 (max pre-WotLK),1,0.5657363
+60768,8,Undead,Priest,1-59,0,0.10439468
+60769,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.0066819517
+60782,8,Tauren,Druid,70 (max pre-WotLK),0,0.0428336
+60938,8,Undead,Rogue,1-59,1,0.412608
+60947,8,Blood Elf,Warlock,1-59,0,0.3076607
+60961,8,Undead,Mage,1-59,1,0.13276443
+61049,8,Troll,Shaman,1-59,0,0.041615106
+61066,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.018393988
+61089,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.009023379
+61105,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.0013625108
+61202,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.1878923
+61233,8,Tauren,Hunter,70 (max pre-WotLK),1,0.60745674
+61239,8,Orc,Hunter,70 (max pre-WotLK),0,0.005258033
+61245,8,Blood Elf,Hunter,1-59,0,0.4415278
+61283,8,Undead,Priest,70 (max pre-WotLK),0,0.005181524
+61341,8,Orc,Warrior,60-69,1,0.14389347
+61396,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.049092434
+61443,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.48894978
+61473,8,Undead,Warlock,70 (max pre-WotLK),0,0.006960153
+61482,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.012401777
+61505,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.00228828
+61510,8,Tauren,Hunter,70 (max pre-WotLK),0,0.004241595
+61523,8,Undead,Mage,70 (max pre-WotLK),0,0.002143495
+61542,8,Tauren,Shaman,70 (max pre-WotLK),0,0.01643991
+61543,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0022004575
+61560,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0014831659
+61568,8,Undead,Rogue,70 (max pre-WotLK),0,0.0045847017
+61594,8,Tauren,Druid,60-69,0,0.044923786
+61663,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.005164224
+61721,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0053545856
+61736,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0018594018
+61748,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.0025145474
+61802,8,Undead,Warrior,60-69,0,0.0026981528
+61856,8,Tauren,Druid,70 (max pre-WotLK),0,0.02574948
+61859,8,Undead,Rogue,1-59,0,0.17918888
+61874,8,Blood Elf,Mage,1-59,0,0.1694102
+61893,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.023710717
+61922,8,Blood Elf,Rogue,60-69,0,0.025590071
+61949,8,Blood Elf,Warlock,1-59,1,0.028069682
+61958,8,Undead,Warrior,70 (max pre-WotLK),0,0.00040748378
+61974,8,Blood Elf,Paladin,1-59,0,0.031105371
+61994,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.0061825626
+62002,8,Undead,Warlock,70 (max pre-WotLK),0,0.05303546
+62023,8,Tauren,Shaman,1-59,0,0.016815508
+62085,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0010079867
+62143,8,Troll,Hunter,1-59,0,0.027640093
+62175,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0066573797
+62213,8,Blood Elf,Priest,1-59,1,0.4649795
+62226,8,Tauren,Warrior,70 (max pre-WotLK),0,0.043310475
+62239,8,Undead,Mage,70 (max pre-WotLK),0,0.00033546635
+62245,8,Undead,Priest,70 (max pre-WotLK),0,0.16246268
+62246,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.013408541
+62276,8,Blood Elf,Rogue,1-59,0,0.20347677
+62293,8,Undead,Rogue,70 (max pre-WotLK),0,0.018237306
+62298,8,Tauren,Shaman,60-69,0,0.0053778915
+62336,8,Undead,Mage,70 (max pre-WotLK),0,0.0007641452
+62348,8,Troll,Mage,70 (max pre-WotLK),0,0.0074453913
+62407,8,Blood Elf,Priest,1-59,0,0.018134814
+62426,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.007819828
+62444,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0009958526
+62446,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.0025598977
+62447,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.012238618
+62454,8,Troll,Mage,70 (max pre-WotLK),0,0.033926144
+62457,8,Undead,Mage,70 (max pre-WotLK),0,0.0017964501
+62469,8,Tauren,Druid,70 (max pre-WotLK),0,0.0013223775
+62486,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.0016043818
+62529,8,Troll,Warrior,70 (max pre-WotLK),1,0.04234225
+62570,8,Blood Elf,Warlock,1-59,0,0.43770432
+62597,8,Blood Elf,Warlock,1-59,0,0.40685555
+62646,8,Troll,Priest,70 (max pre-WotLK),0,0.0065509975
+62670,8,Blood Elf,Mage,60-69,0,0.0017059385
+62678,8,Blood Elf,Paladin,1-59,0,0.008548068
+62717,8,Undead,Priest,1-59,0,0.006092819
+62735,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.004295128
+62743,8,Troll,Mage,70 (max pre-WotLK),0,0.0011564746
+62763,8,Troll,Rogue,70 (max pre-WotLK),0,0.001600555
+62789,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.01036079
+62820,8,Blood Elf,Priest,60-69,0,0.0006204391
+62850,8,Undead,Priest,60-69,0,0.007094171
+62902,8,Undead,Mage,70 (max pre-WotLK),0,0.0018455216
+62978,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.00099662
+62987,8,Undead,Warrior,70 (max pre-WotLK),0,0.0234216
+62995,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.008077886
+62999,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.0038582634
+63098,8,Blood Elf,Paladin,60-69,0,0.001743128
+63118,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.0101860715
+63127,8,Orc,Hunter,70 (max pre-WotLK),0,0.045568295
+63216,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.011153612
+63223,8,Blood Elf,Rogue,1-59,0,0.040824164
+63242,8,Undead,Priest,70 (max pre-WotLK),0,0.0037156173
+63245,8,Troll,Shaman,70 (max pre-WotLK),0,0.009745699
+63253,8,Undead,Warlock,70 (max pre-WotLK),0,0.0036361646
+63284,8,Blood Elf,Rogue,70 (max pre-WotLK),1,0.21876942
+63285,8,Tauren,Shaman,70 (max pre-WotLK),0,0.038532358
+63328,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.0013082761
+63330,8,Tauren,Druid,70 (max pre-WotLK),0,0.027668487
+63384,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.016959095
+63423,8,Troll,Priest,70 (max pre-WotLK),0,0.00368524
+63432,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0010996122
+63488,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.039697066
+63493,8,Blood Elf,Mage,1-59,0,0.268274
+63513,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.12053127
+63527,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0012182043
+63532,8,Troll,Warrior,1-59,0,0.28663754
+63537,8,Blood Elf,Mage,1-59,0,0.033395134
+63559,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0027280257
+63604,8,Tauren,Druid,70 (max pre-WotLK),0,0.0011332511
+63608,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.0149950925
+63658,8,Tauren,Druid,70 (max pre-WotLK),0,0.1025422
+63663,8,Blood Elf,Rogue,60-69,0,0.1472149
+63704,8,Blood Elf,Priest,1-59,0,0.012407385
+63729,8,Blood Elf,Mage,70 (max pre-WotLK),1,0.0030917358
+63753,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.0014994857
+63796,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.004130291
+63804,8,Undead,Mage,70 (max pre-WotLK),0,0.0010267474
+63817,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.19278193
+63829,8,Orc,Hunter,70 (max pre-WotLK),0,0.003157443
+63843,8,Blood Elf,Mage,60-69,0,0.02733928
+63854,8,Blood Elf,Warlock,60-69,0,0.007960545
+63859,8,Tauren,Druid,70 (max pre-WotLK),1,0.22881877
+63871,8,Troll,Mage,60-69,0,0.018117797
+63890,8,Blood Elf,Paladin,60-69,0,0.020383097
+63903,8,Blood Elf,Priest,60-69,0,0.011909842
+63928,8,Undead,Rogue,70 (max pre-WotLK),0,0.0037196213
+63934,8,Undead,Warlock,1-59,0,0.009396371
+63939,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.048480593
+63966,8,Troll,Rogue,70 (max pre-WotLK),0,0.0010602575
+63976,8,Blood Elf,Mage,1-59,0,0.015137623
+64031,8,Undead,Warrior,70 (max pre-WotLK),0,0.65636384
+64095,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0028769935
+64177,8,Undead,Priest,1-59,0,0.012446933
+64259,8,Blood Elf,Hunter,60-69,0,0.0049489723
+64297,8,Tauren,Warrior,70 (max pre-WotLK),0,0.26300174
+64299,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.001594483
+64304,8,Blood Elf,Warlock,1-59,0,0.011721385
+64313,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.0010081677
+64346,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.01012156
+64385,8,Troll,Rogue,1-59,0,0.14181204
+64424,8,Tauren,Druid,60-69,0,0.1338719
+64427,8,Blood Elf,Warlock,1-59,0,0.4562985
+64475,8,Blood Elf,Paladin,1-59,0,0.008088896
+64509,8,Blood Elf,Warlock,1-59,0,0.72321916
+64520,8,Tauren,Druid,1-59,0,0.3424969
+64522,8,Undead,Warlock,60-69,0,0.038716402
+64599,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0051507754
+64609,8,Undead,Warrior,70 (max pre-WotLK),0,0.002627876
+64622,8,Tauren,Warrior,1-59,0,0.014542643
+64655,8,Tauren,Druid,70 (max pre-WotLK),1,0.14370297
+64656,8,Blood Elf,Paladin,70 (max pre-WotLK),1,0.29113007
+64675,8,Undead,Warlock,70 (max pre-WotLK),0,0.012991262
+64786,8,Tauren,Warrior,70 (max pre-WotLK),0,0.021410005
+64792,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0017211386
+64794,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.021088999
+64796,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.28284797
+64828,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.021806402
+64835,8,Orc,Rogue,70 (max pre-WotLK),0,0.037805203
+64956,8,Blood Elf,Warlock,1-59,0,0.47558382
+65009,8,Blood Elf,Warlock,60-69,0,0.0007902108
+65013,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.006837305
+65039,8,Blood Elf,Paladin,1-59,0,0.044356376
+65043,8,Blood Elf,Hunter,1-59,0,0.11137649
+65046,8,Orc,Warrior,70 (max pre-WotLK),0,0.050024502
+65066,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.0013863813
+65103,8,Blood Elf,Rogue,1-59,0,0.09872479
+65177,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0007521395
+65217,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.009154662
+65248,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.027290031
+65296,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.0006424696
+65312,8,Blood Elf,Paladin,1-59,0,0.02745101
+65335,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0062409546
+65336,8,Tauren,Warrior,1-59,0,0.33835602
+65342,8,Undead,Warlock,70 (max pre-WotLK),0,0.0008602216
+65345,8,Undead,Warrior,70 (max pre-WotLK),0,0.0038234247
+65351,8,Undead,Rogue,1-59,0,0.282156
+65357,8,Blood Elf,Mage,60-69,0,0.027327277
+65376,8,Blood Elf,Mage,60-69,0,0.006726754
+65426,8,Blood Elf,Warlock,1-59,0,0.012703173
+65445,8,Blood Elf,Hunter,1-59,0,0.32649115
+65460,8,Tauren,Druid,70 (max pre-WotLK),0,0.19861749
+65469,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.30118227
+65484,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0015810054
+65494,8,Orc,Hunter,70 (max pre-WotLK),0,0.020283509
+65496,8,Blood Elf,Mage,60-69,0,0.0007869847
+65512,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0040325103
+65516,8,Tauren,Druid,60-69,0,0.45698836
+65547,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.016567823
+65620,8,Undead,Warlock,70 (max pre-WotLK),0,0.07097183
+65626,8,Blood Elf,Warlock,1-59,1,0.21214768
+65643,8,Undead,Rogue,70 (max pre-WotLK),0,0.008205319
+65651,8,Undead,Rogue,60-69,0,0.005998405
+65724,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0009235435
+65759,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.0102778915
+65788,8,Troll,Rogue,70 (max pre-WotLK),0,0.0015340092
+65861,8,Blood Elf,Hunter,1-59,0,0.011466208
+65889,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.4429279
+65921,8,Blood Elf,Rogue,70 (max pre-WotLK),1,0.69525945
+65942,8,Undead,Rogue,1-59,0,0.022071222
+65943,8,Orc,Hunter,60-69,0,0.0056550987
+65947,8,Tauren,Druid,70 (max pre-WotLK),0,0.0018694041
+65961,8,Blood Elf,Warlock,60-69,0,0.029489402
+65980,8,Blood Elf,Rogue,1-59,0,0.054386355
+66003,8,Blood Elf,Warlock,60-69,0,0.5417285
+66019,8,Blood Elf,Mage,60-69,0,0.074652515
+66052,8,Blood Elf,Mage,1-59,0,0.026839256
+66120,8,Blood Elf,Paladin,60-69,1,0.17172545
+66133,8,Undead,Warlock,70 (max pre-WotLK),0,0.0019389145
+66162,8,Blood Elf,Rogue,70 (max pre-WotLK),1,0.3906729
+66179,8,Blood Elf,Mage,70 (max pre-WotLK),1,0.5657904
+66182,8,Undead,Mage,70 (max pre-WotLK),0,0.0045391773
+66247,8,Orc,Hunter,1-59,0,0.03399771
+66251,8,Tauren,Shaman,1-59,0,0.01710899
+66338,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.19875072
+66406,8,Undead,Warrior,1-59,0,0.23547585
+66419,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.022190508
+66433,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.016022816
+66436,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.0008058571
+66455,8,Blood Elf,Priest,70 (max pre-WotLK),1,0.004102958
+66477,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.008824179
+66485,8,Undead,Warlock,1-59,0,0.034237992
+66527,8,Tauren,Warrior,70 (max pre-WotLK),0,0.001977839
+66529,8,Tauren,Warrior,70 (max pre-WotLK),0,0.2656486
+66560,8,Blood Elf,Rogue,1-59,0,0.046225004
+66621,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.005316034
+66627,8,Troll,Hunter,70 (max pre-WotLK),0,0.1352651
+66630,8,Tauren,Shaman,1-59,0,0.022147048
+66654,8,Blood Elf,Hunter,60-69,0,0.024176361
+66681,8,Undead,Mage,70 (max pre-WotLK),0,0.006642695
+66701,8,Blood Elf,Warlock,60-69,0,0.0011627466
+66739,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.0007710882
+66778,8,Tauren,Druid,70 (max pre-WotLK),0,0.01089267
+66810,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.05305121
+66866,8,Blood Elf,Warlock,1-59,0,0.36293384
+66873,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0010998783
+66914,8,Tauren,Druid,60-69,0,0.011671285
+66926,8,Troll,Hunter,70 (max pre-WotLK),0,0.009810915
+66963,8,Blood Elf,Priest,1-59,0,0.21590444
+67006,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.03162912
+67043,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.29081684
+67068,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.0036877233
+67099,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.0010280395
+67115,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0022667279
+67152,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.0030768497
+67171,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.011359084
+67191,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.0073872562
+67207,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.018669873
+67250,8,Blood Elf,Paladin,1-59,0,0.019601543
+67275,8,Undead,Priest,70 (max pre-WotLK),0,0.003803242
+67337,8,Undead,Warrior,1-59,0,0.2590938
+67374,8,Blood Elf,Hunter,1-59,0,0.0014882307
+67387,8,Troll,Hunter,70 (max pre-WotLK),0,0.011804634
+67423,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0014307308
+67439,8,Tauren,Druid,70 (max pre-WotLK),0,0.01126354
+67444,8,Orc,Hunter,60-69,0,0.55093986
+67450,8,Blood Elf,Mage,60-69,0,0.00089475076
+67451,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0023300082
+67504,8,Blood Elf,Priest,1-59,0,0.05268442
+67510,8,Blood Elf,Warlock,60-69,1,0.21942876
+67544,8,Blood Elf,Paladin,60-69,0,0.008775865
+67572,8,Undead,Priest,70 (max pre-WotLK),0,0.023482572
+67578,8,Undead,Warrior,70 (max pre-WotLK),0,0.0028835342
+67584,8,Undead,Priest,1-59,1,0.24664542
+67597,8,Tauren,Hunter,60-69,0,0.018997071
+67610,8,Undead,Warlock,60-69,0,0.022105547
+67612,8,Orc,Hunter,70 (max pre-WotLK),0,0.025465656
+67626,8,Blood Elf,Hunter,60-69,0,0.008058839
+67673,8,Blood Elf,Mage,60-69,0,0.16278897
+67675,8,Blood Elf,Hunter,1-59,0,0.10659817
+67677,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.06666856
+67694,8,Troll,Hunter,60-69,0,0.049059745
+67705,8,Orc,Hunter,60-69,0,0.102259815
+67732,8,Undead,Warlock,60-69,0,0.012511543
+67739,8,Tauren,Shaman,1-59,0,0.004721465
+67768,8,Undead,Warrior,70 (max pre-WotLK),0,0.21586409
+67862,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.0038502945
+67863,8,Orc,Warrior,60-69,0,0.0026659197
+67872,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.009202863
+67876,8,Blood Elf,Paladin,1-59,0,0.014147325
+67884,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.014719587
+67891,8,Orc,Shaman,1-59,0,0.09465581
+67945,8,Undead,Mage,70 (max pre-WotLK),0,0.028101528
+67964,8,Tauren,Druid,70 (max pre-WotLK),0,0.03205166
+68000,8,Troll,Hunter,1-59,1,0.7383698
+68025,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.001639148
+68038,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0025235922
+68044,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.007135313
+68052,8,Tauren,Druid,70 (max pre-WotLK),0,0.009161291
+68082,8,Blood Elf,Priest,1-59,0,0.16558886
+68104,8,Undead,Rogue,70 (max pre-WotLK),0,0.011870183
+68105,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.0015369072
+68109,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.012426839
+68112,8,Troll,Shaman,70 (max pre-WotLK),0,0.21564709
+68115,8,Orc,Hunter,70 (max pre-WotLK),0,0.052657988
+68124,8,Blood Elf,Paladin,1-59,1,0.21671395
+68147,8,Tauren,Shaman,1-59,0,0.49923074
+68159,8,Tauren,Druid,70 (max pre-WotLK),0,0.0039953226
+68221,8,Tauren,Druid,70 (max pre-WotLK),0,0.0043496345
+68227,8,Undead,Rogue,70 (max pre-WotLK),0,0.0019137602
+68230,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.004991185
+68261,8,Undead,Rogue,70 (max pre-WotLK),0,0.0016593933
+68281,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.034084167
+68286,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0022131684
+68291,8,Blood Elf,Priest,1-59,1,0.45896843
+68298,8,Blood Elf,Paladin,1-59,0,0.43780184
+68311,8,Tauren,Druid,1-59,0,0.00704802
+68318,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.003927238
+68334,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.0023449066
+68336,8,Blood Elf,Paladin,1-59,0,0.034529317
+68375,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0025711507
+68378,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.011832814
+68408,8,Tauren,Shaman,70 (max pre-WotLK),1,0.027988516
+68410,8,Blood Elf,Hunter,1-59,1,0.5087804
+68436,8,Blood Elf,Warlock,1-59,0,0.30995676
+68452,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.008295999
+68454,8,Undead,Warlock,70 (max pre-WotLK),0,0.0024646746
+68470,8,Tauren,Druid,70 (max pre-WotLK),1,0.30002037
+68475,8,Tauren,Warrior,70 (max pre-WotLK),0,0.017620403
+68495,8,Troll,Mage,1-59,1,0.2695646
+68501,8,Tauren,Druid,70 (max pre-WotLK),0,0.0022228782
+68502,8,Undead,Rogue,70 (max pre-WotLK),0,0.09392389
+68503,8,Tauren,Druid,70 (max pre-WotLK),0,0.021026144
+68506,8,Blood Elf,Warlock,60-69,0,0.02491924
+68521,8,Blood Elf,Priest,1-59,0,0.059837345
+68531,8,Tauren,Druid,1-59,0,0.058996893
+68538,8,Tauren,Warrior,60-69,0,0.018739875
+68544,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0047948505
+68569,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0010149727
+68576,8,Tauren,Druid,70 (max pre-WotLK),0,0.0024150065
+68587,8,Undead,Mage,70 (max pre-WotLK),0,0.010558885
+68589,8,Tauren,Warrior,60-69,0,0.67230237
+68606,8,Undead,Rogue,60-69,0,0.015677962
+68638,8,Blood Elf,Rogue,1-59,0,0.015783006
+68660,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.047771856
+68681,8,Blood Elf,Hunter,1-59,0,0.057849802
+68721,8,Tauren,Druid,1-59,1,0.31176305
+68729,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.0037248977
+68747,8,Blood Elf,Hunter,60-69,0,0.2687042
+68767,8,Blood Elf,Mage,1-59,0,0.085219
+68778,8,Blood Elf,Hunter,1-59,0,0.08598357
+68826,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.10428056
+68872,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.014417932
+68875,8,Blood Elf,Rogue,70 (max pre-WotLK),1,0.78829545
+68889,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.1767126
+68905,8,Blood Elf,Paladin,60-69,0,0.04424968
+68909,8,Tauren,Druid,70 (max pre-WotLK),0,0.027610064
+68911,8,Blood Elf,Hunter,60-69,0,0.48569414
+68916,8,Undead,Rogue,60-69,1,0.24921332
+68923,8,Undead,Rogue,70 (max pre-WotLK),0,0.042699423
+68982,8,Blood Elf,Paladin,60-69,0,0.0018780992
+68995,8,Tauren,Warrior,60-69,0,0.090053834
+69039,8,Blood Elf,Hunter,1-59,0,0.04428684
+69046,8,Undead,Rogue,1-59,0,0.35854846
+69075,8,Tauren,Druid,70 (max pre-WotLK),0,0.0042802203
+69080,8,Tauren,Druid,70 (max pre-WotLK),0,0.0015498734
+69090,8,Tauren,Druid,60-69,0,0.0014249024
+69116,8,Undead,Priest,70 (max pre-WotLK),1,0.33713073
+69124,8,Blood Elf,Priest,1-59,0,0.02134765
+69125,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.33388886
+69126,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0030332014
+69147,8,Tauren,Warrior,1-59,0,0.12389937
+69148,8,Tauren,Hunter,70 (max pre-WotLK),0,0.018221335
+69149,8,Tauren,Shaman,60-69,0,0.00097012665
+69186,8,Blood Elf,Mage,1-59,0,0.096197836
+69210,8,Tauren,Druid,70 (max pre-WotLK),0,0.0021784843
+69212,8,Blood Elf,Rogue,1-59,0,0.008338321
+69240,8,Troll,Shaman,70 (max pre-WotLK),0,0.1300652
+69279,8,Undead,Mage,70 (max pre-WotLK),0,0.0187687
+69293,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.2188595
+69298,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.003966403
+69300,8,Undead,Warrior,70 (max pre-WotLK),0,0.0031903337
+69336,8,Undead,Priest,70 (max pre-WotLK),0,0.002266207
+69339,8,Blood Elf,Hunter,1-59,0,0.04327667
+69358,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.014538346
+69393,8,Undead,Warlock,1-59,0,0.04278477
+69475,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.005153371
+69528,8,Troll,Hunter,60-69,0,0.015199545
+69535,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0007188181
+69569,8,Blood Elf,Mage,1-59,0,0.06756611
+69643,8,Blood Elf,Mage,1-59,0,0.05818078
+69645,8,Blood Elf,Paladin,1-59,0,0.30740196
+69665,8,Undead,Rogue,1-59,0,0.28880733
+69666,8,Blood Elf,Rogue,1-59,0,0.35886374
+69672,8,Tauren,Druid,70 (max pre-WotLK),0,0.020557296
+69682,8,Tauren,Druid,1-59,0,0.04891236
+69687,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.013527604
+69726,8,Troll,Hunter,70 (max pre-WotLK),0,0.013701961
+69748,8,Undead,Priest,70 (max pre-WotLK),0,0.008104019
+69786,8,Tauren,Shaman,1-59,0,0.0054864716
+69838,8,Tauren,Warrior,1-59,0,0.086766556
+69895,8,Tauren,Shaman,70 (max pre-WotLK),0,0.003309005
+69909,8,Blood Elf,Paladin,1-59,0,0.011146673
+69924,8,Blood Elf,Paladin,1-59,0,0.08845359
+69929,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.004689775
+69974,8,Troll,Hunter,70 (max pre-WotLK),0,0.18728895
+69992,8,Blood Elf,Rogue,1-59,0,0.013709489
+70001,8,Blood Elf,Priest,1-59,0,0.63087994
+70008,8,Undead,Priest,60-69,0,0.014293069
+70062,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.041173656
+70088,8,Troll,Priest,70 (max pre-WotLK),0,0.1370474
+70090,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.052444182
+70094,8,Blood Elf,Paladin,1-59,0,0.07488233
+70118,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.0015877526
+70125,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.027248105
+70129,8,Blood Elf,Hunter,1-59,0,0.008070736
+70136,8,Troll,Shaman,60-69,0,0.0011982722
+70173,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.004411906
+70182,8,Troll,Priest,70 (max pre-WotLK),0,0.008579907
+70190,8,Blood Elf,Rogue,60-69,0,0.0027240939
+70216,8,Undead,Warlock,1-59,0,0.18022047
+70238,8,Undead,Mage,60-69,1,0.43617943
+70242,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0041845166
+70251,8,Orc,Hunter,70 (max pre-WotLK),0,0.0011810513
+70299,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0024936006
+70302,8,Undead,Warrior,60-69,0,0.08288492
+70304,8,Tauren,Shaman,70 (max pre-WotLK),0,0.07940525
+70319,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.017588753
+70330,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0041892026
+70380,8,Blood Elf,Hunter,1-59,0,0.3276706
+70411,8,Blood Elf,Hunter,1-59,0,0.40879837
+70425,8,Orc,Warrior,70 (max pre-WotLK),0,0.003931908
+70426,8,Orc,Shaman,70 (max pre-WotLK),0,0.0042969105
+70476,8,Tauren,Warrior,70 (max pre-WotLK),0,0.004388956
+70484,8,Blood Elf,Mage,1-59,0,0.004089689
+70505,8,Undead,Rogue,70 (max pre-WotLK),0,0.026445216
+70524,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.012862785
+70590,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.010955376
+70647,8,Tauren,Shaman,1-59,0,0.21873319
+70717,8,Undead,Warrior,1-59,0,0.015910804
+70731,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0009833721
+70742,8,Undead,Mage,70 (max pre-WotLK),0,0.81137645
+70772,8,Tauren,Shaman,1-59,0,0.025911475
+70805,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.012315307
+70811,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.02737353
+70813,8,Tauren,Warrior,70 (max pre-WotLK),0,0.00604643
+70821,8,Tauren,Warrior,70 (max pre-WotLK),1,0.023211187
+70829,8,Tauren,Warrior,1-59,0,0.0059202495
+70838,8,Undead,Warlock,60-69,0,0.16333802
+70839,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0012710588
+70846,8,Troll,Mage,60-69,1,0.3300806
+70865,8,Troll,Shaman,70 (max pre-WotLK),0,0.12791434
+70870,8,Undead,Priest,1-59,0,0.40685156
+70878,8,Blood Elf,Mage,1-59,1,0.4374563
+70905,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.30503342
+70974,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.020962033
+71023,8,Undead,Warlock,70 (max pre-WotLK),0,0.0028371434
+71074,8,Undead,Priest,70 (max pre-WotLK),0,0.086366475
+71080,8,Blood Elf,Mage,1-59,0,0.03846517
+71084,8,Tauren,Shaman,70 (max pre-WotLK),0,0.8643411
+71103,8,Blood Elf,Hunter,70 (max pre-WotLK),1,0.2603841
+71109,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.028840054
+71117,8,Blood Elf,Rogue,60-69,0,0.07685706
+71134,8,Tauren,Druid,1-59,0,0.0180063
+71138,8,Tauren,Warrior,1-59,0,0.0012302874
+71199,8,Troll,Hunter,1-59,0,0.16869557
+71204,8,Undead,Mage,70 (max pre-WotLK),1,0.58592266
+71219,8,Tauren,Warrior,70 (max pre-WotLK),0,0.019553654
+71241,8,Undead,Rogue,70 (max pre-WotLK),0,0.017648017
+71303,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0016111671
+71346,8,Tauren,Druid,60-69,0,0.014095267
+71368,8,Troll,Priest,70 (max pre-WotLK),0,0.038793888
+71397,8,Blood Elf,Paladin,1-59,1,0.55438465
+71401,8,Orc,Shaman,1-59,0,0.09845897
+71404,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0030655756
+71420,8,Troll,Priest,70 (max pre-WotLK),0,0.0034572424
+71458,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0009629967
+71479,8,Troll,Rogue,60-69,0,0.01261248
+71482,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.0015140164
+71487,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0028408924
+71501,8,Undead,Warlock,1-59,0,0.30971822
+71502,8,Tauren,Warrior,1-59,0,0.034814555
+71523,8,Tauren,Warrior,1-59,0,0.049649768
+71540,8,Undead,Priest,1-59,1,0.014775617
+71545,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.7355269
+71598,8,Blood Elf,Priest,1-59,0,0.16600989
+71614,8,Tauren,Warrior,70 (max pre-WotLK),0,0.005180762
+71617,8,Blood Elf,Warlock,1-59,0,0.0064786435
+71620,8,Blood Elf,Warlock,60-69,1,0.032120552
+71622,8,Troll,Warrior,1-59,0,0.023287607
+71624,8,Troll,Shaman,1-59,0,0.018989528
+71643,8,Tauren,Druid,60-69,0,0.010891473
+71650,8,Blood Elf,Hunter,1-59,0,0.41488904
+71691,8,Undead,Warrior,70 (max pre-WotLK),0,0.0024897808
+71692,8,Tauren,Druid,70 (max pre-WotLK),0,0.0031241
+71693,8,Tauren,Warrior,1-59,0,0.019875525
+71698,8,Orc,Warrior,1-59,0,0.061657816
+71723,8,Blood Elf,Warlock,60-69,0,0.25060925
+71733,8,Blood Elf,Paladin,1-59,0,0.4315632
+71767,8,Undead,Warlock,60-69,0,0.009762247
+71784,8,Tauren,Druid,70 (max pre-WotLK),1,0.5279134
+71787,8,Blood Elf,Mage,1-59,0,0.6619534
+71788,8,Orc,Hunter,1-59,0,0.041104916
+71795,8,Blood Elf,Rogue,1-59,0,0.22766247
+71799,8,Troll,Shaman,1-59,0,0.083241604
+71801,8,Tauren,Druid,70 (max pre-WotLK),0,0.010491279
+71811,8,Undead,Warrior,60-69,0,0.0032270364
+71832,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.024721263
+71836,8,Tauren,Hunter,60-69,0,0.09564264
+71853,8,Troll,Shaman,60-69,0,0.0033342817
+71857,8,Undead,Warrior,70 (max pre-WotLK),0,0.09341813
+71865,8,Blood Elf,Mage,1-59,0,0.051951166
+71871,8,Orc,Hunter,70 (max pre-WotLK),0,0.21235971
+71890,8,Blood Elf,Paladin,70 (max pre-WotLK),1,0.79128975
+71901,8,Troll,Hunter,60-69,0,0.0075223907
+71905,8,Tauren,Shaman,70 (max pre-WotLK),1,0.09291998
+71906,8,Undead,Warlock,1-59,0,0.11360532
+71908,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.0015823827
+71916,8,Blood Elf,Warlock,1-59,0,0.07489867
+71918,8,Tauren,Druid,70 (max pre-WotLK),0,0.0048176795
+71929,8,Undead,Warrior,70 (max pre-WotLK),1,0.013708981
+71930,8,Undead,Rogue,1-59,0,0.01692125
+71931,8,Blood Elf,Paladin,1-59,0,0.012218516
+71934,8,Blood Elf,Rogue,60-69,0,0.043393183
+71968,8,Blood Elf,Warlock,1-59,0,0.09290557
+71974,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.048239544
+71977,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0039824173
+71982,8,Tauren,Shaman,70 (max pre-WotLK),0,0.010207687
+71996,8,Blood Elf,Paladin,1-59,0,0.1196209
+72006,8,Undead,Priest,1-59,0,0.006859089
+72009,8,Orc,Shaman,1-59,0,0.040910475
+72018,8,Blood Elf,Rogue,70 (max pre-WotLK),1,0.02969573
+72023,8,Blood Elf,Warlock,1-59,0,0.027323695
+72024,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.003723707
+72042,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.009579374
+72043,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.03950643
+72055,8,Undead,Priest,1-59,1,0.04283502
+72060,8,Orc,Warlock,1-59,0,0.04563389
+72086,8,Undead,Mage,1-59,1,0.26158392
+72090,8,Undead,Mage,1-59,0,0.0039149704
+72114,8,Blood Elf,Rogue,60-69,0,0.5563812
+72116,8,Tauren,Shaman,70 (max pre-WotLK),1,0.6715662
+72123,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.009905244
+72130,8,Blood Elf,Warlock,1-59,0,0.012315898
+72141,8,Tauren,Shaman,1-59,0,0.029775241
+72159,8,Undead,Priest,1-59,0,0.00503366
+72164,8,Blood Elf,Hunter,1-59,0,0.043081217
+72191,8,Blood Elf,Priest,60-69,0,0.0054328195
+72206,8,Orc,Rogue,1-59,1,0.7683499
+72257,8,Troll,Shaman,1-59,0,0.017234359
+72258,8,Tauren,Warrior,70 (max pre-WotLK),0,0.044345845
+72264,8,Tauren,Shaman,70 (max pre-WotLK),0,0.010874816
+72305,8,Blood Elf,Paladin,1-59,1,0.33198228
+72307,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.0035575663
+72315,8,Tauren,Warrior,1-59,0,0.023240432
+72333,8,Blood Elf,Mage,1-59,0,0.079620205
+72354,8,Troll,Shaman,60-69,0,0.075533584
+72375,8,Blood Elf,Mage,1-59,0,0.012680814
+72384,8,Tauren,Hunter,70 (max pre-WotLK),0,0.008373653
+72413,8,Tauren,Warrior,1-59,0,0.0126438
+72418,8,Orc,Warlock,1-59,0,0.25710168
+72422,8,Troll,Warrior,70 (max pre-WotLK),0,0.042212408
+72424,8,Blood Elf,Mage,60-69,0,0.0027214577
+72425,8,Blood Elf,Paladin,1-59,0,0.022872211
+72430,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0004864005
+72433,8,Troll,Rogue,60-69,1,0.11055111
+72439,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.0038700218
+72452,8,Undead,Warlock,1-59,0,0.0090517
+72460,8,Tauren,Druid,1-59,0,0.16028093
+72464,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.042279482
+72469,8,Blood Elf,Paladin,1-59,0,0.00939039
+72470,8,Tauren,Warrior,1-59,0,0.4473361
+72481,8,Orc,Hunter,1-59,1,0.23223369
+72528,8,Orc,Warrior,70 (max pre-WotLK),0,0.0139610525
+72562,8,Blood Elf,Paladin,1-59,0,0.0063634682
+72563,8,Blood Elf,Rogue,1-59,0,0.33060798
+72574,8,Blood Elf,Mage,1-59,1,0.3649487
+72576,8,Blood Elf,Mage,1-59,0,0.3689865
+72579,8,Blood Elf,Paladin,1-59,1,0.38590732
+72597,8,Blood Elf,Paladin,1-59,0,0.047770772
+72632,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.6690023
+72645,8,Troll,Shaman,1-59,0,0.024020072
+72652,8,Blood Elf,Rogue,1-59,0,0.07640087
+72657,8,Undead,Warlock,70 (max pre-WotLK),0,0.0021003766
+72663,8,Troll,Rogue,1-59,0,0.6417168
+72686,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.31585357
+72689,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.005250006
+72700,8,Blood Elf,Paladin,70 (max pre-WotLK),1,0.58205265
+72711,8,Undead,Priest,70 (max pre-WotLK),0,0.0028574008
+72720,8,Troll,Hunter,1-59,0,0.25854203
+72732,8,Tauren,Druid,60-69,0,0.007834292
+72736,8,Troll,Priest,1-59,0,0.08830977
+72743,8,Tauren,Druid,1-59,0,0.09197396
+72747,8,Blood Elf,Paladin,60-69,0,0.0071391407
+72760,8,Orc,Hunter,1-59,0,0.022430543
+72830,8,Undead,Rogue,1-59,0,0.55035925
+72831,8,Blood Elf,Mage,1-59,0,0.07627628
+72832,8,Blood Elf,Priest,1-59,1,0.22432235
+72840,8,Orc,Hunter,70 (max pre-WotLK),1,0.8757301
+72847,8,Tauren,Druid,1-59,0,0.00246488
+72857,8,Orc,Shaman,70 (max pre-WotLK),0,0.0022399311
+72858,8,Tauren,Druid,70 (max pre-WotLK),0,0.0042938003
+72861,8,Blood Elf,Rogue,1-59,0,0.32305932
+72867,8,Blood Elf,Hunter,1-59,0,0.106741644
+72906,8,Undead,Rogue,60-69,0,0.0033308687
+72911,8,Undead,Warlock,1-59,0,0.52961355
+72912,8,Orc,Shaman,1-59,1,0.08938446
+72914,8,Undead,Priest,70 (max pre-WotLK),0,0.070080124
+72917,8,Tauren,Druid,1-59,0,0.005895717
+72934,8,Tauren,Druid,70 (max pre-WotLK),0,0.055063825
+72936,8,Troll,Rogue,1-59,0,0.5110236
+72983,8,Undead,Rogue,70 (max pre-WotLK),0,0.05274445
+72992,8,Tauren,Druid,1-59,0,0.4815562
+72998,8,Blood Elf,Mage,1-59,0,0.1329765
+72999,8,Undead,Priest,1-59,0,0.01708519
+73002,8,Blood Elf,Rogue,1-59,0,0.015321332
+73076,8,Undead,Priest,70 (max pre-WotLK),0,0.0028196173
+73086,8,Blood Elf,Hunter,1-59,0,0.008788608
+73089,8,Tauren,Druid,1-59,0,0.1727605
+73090,8,Blood Elf,Mage,1-59,0,0.3881615
+73092,8,Undead,Warrior,1-59,0,0.39492625
+73093,8,Tauren,Druid,1-59,0,0.488557
+73105,8,Blood Elf,Paladin,1-59,0,0.02302328
+73114,8,Blood Elf,Warlock,1-59,0,0.005846833
+73117,8,Troll,Rogue,1-59,0,0.008842238
+73130,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0004580646
+73136,8,Troll,Rogue,1-59,0,0.002633958
+73160,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0030747282
+73174,8,Tauren,Warrior,70 (max pre-WotLK),0,0.0042515397
+73178,8,Troll,Hunter,60-69,0,0.40373597
+73192,8,Orc,Shaman,1-59,0,0.014153751
+73194,8,Blood Elf,Mage,1-59,0,0.067732215
+73203,8,Tauren,Druid,1-59,0,0.33166638
+73225,8,Blood Elf,Paladin,1-59,0,0.5289404
+73236,8,Blood Elf,Mage,1-59,0,0.029568562
+73238,8,Blood Elf,Warlock,1-59,0,0.04820587
+73248,8,Blood Elf,Hunter,60-69,1,0.7094519
+73279,8,Troll,Rogue,1-59,0,0.19582283
+73287,8,Blood Elf,Mage,1-59,0,0.008506886
+73289,8,Undead,Mage,1-59,0,0.0063791717
+73295,8,Orc,Warlock,1-59,0,0.006511984
+73301,8,Blood Elf,Warlock,60-69,0,0.0045196745
+73308,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0074274517
+73342,8,Undead,Warrior,1-59,0,0.030632813
+73355,8,Undead,Warlock,60-69,0,0.0019247971
+73360,8,Orc,Hunter,70 (max pre-WotLK),0,0.6540242
+73383,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.005102192
+73390,8,Orc,Hunter,1-59,0,0.007974305
+73401,8,Undead,Warlock,1-59,0,0.003972055
+73413,8,Troll,Shaman,60-69,0,0.0030945397
+73418,8,Orc,Warrior,60-69,0,0.009572646
+73423,8,Blood Elf,Hunter,1-59,0,0.1438675
+73425,8,Blood Elf,Rogue,60-69,0,0.45316097
+73437,8,Orc,Shaman,70 (max pre-WotLK),0,0.0029514565
+73439,8,Orc,Hunter,1-59,0,0.03353358
+73442,8,Troll,Shaman,70 (max pre-WotLK),0,0.0014355157
+73448,8,Blood Elf,Mage,1-59,0,0.19482149
+73449,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0026235112
+73450,8,Blood Elf,Hunter,1-59,1,0.19206294
+73452,8,Troll,Shaman,70 (max pre-WotLK),0,0.03039287
+73469,8,Blood Elf,Mage,60-69,0,0.0028095932
+73480,8,Blood Elf,Mage,1-59,0,0.014920401
+73501,8,Blood Elf,Paladin,60-69,1,0.61115086
+73506,8,Undead,Rogue,1-59,0,0.014310358
+73527,8,Tauren,Druid,70 (max pre-WotLK),0,0.8170899
+73529,8,Blood Elf,Warlock,1-59,0,0.03725988
+73536,8,Tauren,Shaman,1-59,0,0.012586798
+73537,8,Tauren,Druid,60-69,0,0.0034960716
+73551,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.014017196
+73556,8,Blood Elf,Paladin,70 (max pre-WotLK),1,0.33086154
+73557,8,Blood Elf,Mage,1-59,0,0.008451143
+73559,8,Blood Elf,Mage,60-69,0,0.0013762619
+73567,8,Tauren,Druid,70 (max pre-WotLK),0,0.26626652
+73570,8,Tauren,Druid,70 (max pre-WotLK),1,0.873853
+73587,8,Blood Elf,Paladin,60-69,0,0.0020108176
+73590,8,Blood Elf,Hunter,1-59,0,0.0429166
+73596,8,Undead,Mage,70 (max pre-WotLK),0,0.01999639
+73599,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.00063496275
+73666,8,Orc,Hunter,70 (max pre-WotLK),0,0.004232813
+73705,8,Tauren,Hunter,1-59,0,0.019972647
+73709,8,Blood Elf,Paladin,1-59,1,0.17203076
+73715,8,Blood Elf,Paladin,1-59,0,0.063007735
+73719,8,Tauren,Hunter,1-59,0,0.041576993
+73724,8,Blood Elf,Rogue,60-69,0,0.0018154408
+73725,8,Blood Elf,Paladin,60-69,0,0.0011421476
+73731,8,Tauren,Warrior,1-59,0,0.01360479
+73742,8,Tauren,Shaman,60-69,0,0.011927289
+73753,8,Orc,Hunter,1-59,0,0.005630649
+73766,8,Blood Elf,Hunter,1-59,0,0.018120097
+73774,8,Tauren,Shaman,60-69,0,0.4987315
+73792,8,Tauren,Warrior,1-59,0,0.025036711
+73793,8,Blood Elf,Rogue,1-59,0,0.0097605325
+73799,8,Blood Elf,Mage,1-59,0,0.008754318
+73814,8,Blood Elf,Mage,1-59,0,0.029758615
+73839,8,Blood Elf,Rogue,1-59,1,0.5091891
+73850,8,Tauren,Druid,60-69,0,0.0088972235
+73881,8,Blood Elf,Mage,1-59,0,0.8403863
+73882,8,Tauren,Druid,1-59,0,0.3898863
+73917,8,Blood Elf,Mage,1-59,0,0.29362932
+73953,8,Blood Elf,Mage,1-59,0,0.34240744
+73963,8,Blood Elf,Paladin,60-69,0,0.1960606
+73986,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.009403622
+73999,8,Blood Elf,Paladin,1-59,0,0.010443869
+74024,8,Troll,Priest,1-59,0,0.008180745
+74043,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.025585439
+74080,8,Orc,Hunter,1-59,0,0.16525108
+74110,8,Blood Elf,Warlock,1-59,1,0.4431911
+74122,8,Blood Elf,Warlock,1-59,0,0.011647329
+74124,8,Blood Elf,Mage,1-59,0,0.0051644915
+74127,8,Tauren,Druid,70 (max pre-WotLK),0,0.0014641692
+74128,8,Blood Elf,Priest,1-59,1,0.020536365
+74130,8,Tauren,Druid,1-59,0,0.004916472
+74140,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.012315731
+74146,8,Undead,Rogue,60-69,1,0.8576506
+74156,8,Blood Elf,Warlock,1-59,0,0.0333837
+74169,8,Orc,Shaman,1-59,1,0.49661347
+74183,8,Tauren,Druid,1-59,0,0.020823197
+74188,8,Blood Elf,Hunter,1-59,0,0.024675772
+74191,8,Troll,Shaman,60-69,0,0.0030959419
+74225,8,Blood Elf,Mage,60-69,0,0.00454094
+74227,8,Undead,Warlock,60-69,0,0.042247735
+74228,8,Blood Elf,Warlock,1-59,1,0.773789
+74238,8,Undead,Rogue,1-59,0,0.01670547
+74290,8,Undead,Rogue,1-59,0,0.05390701
+74312,8,Tauren,Druid,1-59,1,0.29704338
+74325,8,Tauren,Shaman,70 (max pre-WotLK),0,0.18703406
+74344,8,Blood Elf,Priest,70 (max pre-WotLK),0,0.0054612765
+74345,8,Undead,Warrior,70 (max pre-WotLK),0,0.0033095493
+74387,8,Blood Elf,Warlock,1-59,1,0.18921888
+74389,8,Tauren,Warrior,1-59,1,0.5095789
+74409,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.006559189
+74419,8,Troll,Hunter,70 (max pre-WotLK),0,0.004304384
+74428,8,Tauren,Druid,1-59,1,0.52284026
+74446,8,Orc,Hunter,1-59,0,0.4979987
+74448,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0057576313
+74460,8,Tauren,Druid,1-59,1,0.5322765
+74472,8,Blood Elf,Warlock,1-59,0,0.023257295
+74484,8,Tauren,Druid,1-59,1,0.22267762
+74486,8,Blood Elf,Hunter,1-59,0,0.015444776
+74500,8,Tauren,Hunter,1-59,0,0.16743134
+74501,8,Tauren,Hunter,1-59,0,0.24033785
+74506,8,Blood Elf,Rogue,1-59,1,0.65818083
+74514,8,Blood Elf,Mage,1-59,1,0.076663174
+74545,8,Undead,Rogue,1-59,0,0.045769528
+74555,8,Blood Elf,Hunter,1-59,0,0.17921826
+74556,8,Blood Elf,Rogue,70 (max pre-WotLK),0,0.08928269
+74558,8,Undead,Priest,70 (max pre-WotLK),0,0.37590593
+74563,8,Blood Elf,Paladin,70 (max pre-WotLK),0,0.0011821892
+74567,8,Undead,Warlock,1-59,0,0.3648172
+74572,8,Blood Elf,Mage,1-59,1,0.36139044
+74591,8,Undead,Mage,70 (max pre-WotLK),0,0.114262946
+74598,8,Tauren,Druid,1-59,0,0.57991296
+74610,8,Blood Elf,Warlock,1-59,0,0.039762057
+74624,8,Blood Elf,Paladin,1-59,1,0.56006664
+74629,8,Tauren,Druid,1-59,1,0.44241092
+74632,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.016131427
+74640,8,Blood Elf,Warlock,1-59,0,0.0016648014
+74645,8,Blood Elf,Rogue,1-59,0,0.12230358
+74654,8,Orc,Warlock,70 (max pre-WotLK),0,0.094670676
+74671,8,Tauren,Druid,1-59,1,0.4866499
+74719,8,Tauren,Druid,60-69,0,0.15995526
+74748,8,Orc,Rogue,1-59,0,0.0013943054
+74770,8,Tauren,Druid,1-59,0,0.0053494303
+74789,8,Tauren,Warrior,1-59,1,0.20046824
+74794,8,Tauren,Druid,1-59,0,0.00468664
+74795,8,Tauren,Shaman,1-59,0,0.0030552624
+74805,8,Blood Elf,Paladin,60-69,0,0.0052629565
+74819,8,Blood Elf,Hunter,1-59,0,0.009652806
+74823,8,Blood Elf,Warlock,1-59,0,0.06025796
+74833,8,Blood Elf,Hunter,1-59,0,0.06600058
+74834,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.0035788058
+74841,8,Blood Elf,Paladin,1-59,0,0.750705
+74912,8,Blood Elf,Mage,1-59,0,0.04126441
+74915,8,Troll,Rogue,1-59,1,0.6076813
+74939,8,Blood Elf,Priest,60-69,0,0.0020733974
+74955,8,Blood Elf,Mage,1-59,0,0.04217937
+74956,8,Troll,Hunter,1-59,0,0.00914548
+74957,8,Tauren,Warrior,1-59,0,0.005847113
+74967,8,Undead,Mage,1-59,1,0.5458846
+74978,8,Undead,Mage,70 (max pre-WotLK),0,0.0015831988
+74985,8,Orc,Hunter,1-59,1,0.5759884
+75000,8,Blood Elf,Priest,1-59,1,0.4230333
+75003,8,Orc,Shaman,1-59,0,0.0020759709
+75004,8,Orc,Warlock,1-59,0,0.011940598
+75008,8,Troll,Priest,1-59,1,0.76022804
+75015,8,Blood Elf,Paladin,1-59,1,0.5102567
+75022,8,Blood Elf,Paladin,1-59,0,0.036413923
+75050,8,Blood Elf,Rogue,60-69,0,0.010968289
+75053,8,Blood Elf,Rogue,1-59,0,0.028109021
+75060,8,Blood Elf,Mage,60-69,1,0.7499396
+75061,8,Blood Elf,Paladin,60-69,1,0.58520424
+75064,8,Blood Elf,Mage,60-69,0,0.2526337
+75069,8,Blood Elf,Priest,1-59,0,0.010842054
+75070,8,Blood Elf,Mage,1-59,0,0.013261414
+75072,8,Blood Elf,Priest,1-59,1,0.6862457
+75094,8,Undead,Warlock,70 (max pre-WotLK),1,0.20233098
+75102,8,Blood Elf,Paladin,1-59,0,0.04981222
+75103,8,Blood Elf,Priest,1-59,0,0.109362766
+75105,8,Orc,Rogue,1-59,0,0.07755686
+75113,8,Tauren,Druid,60-69,1,0.103742175
+75117,8,Undead,Warlock,1-59,0,0.010715694
+75118,8,Undead,Warlock,1-59,1,0.29411104
+75121,8,Blood Elf,Mage,1-59,1,0.6921321
+75124,8,Tauren,Druid,1-59,0,0.084288836
+75131,8,Blood Elf,Paladin,1-59,1,0.5132104
+75141,8,Undead,Warlock,1-59,0,0.002194286
+75145,8,Undead,Rogue,1-59,0,0.009213726
+75173,8,Blood Elf,Warlock,1-59,0,0.08403171
+75213,8,Blood Elf,Priest,1-59,0,0.02544929
+75223,8,Blood Elf,Mage,1-59,0,0.11663646
+75247,8,Tauren,Hunter,1-59,0,0.0037333835
+75248,8,Blood Elf,Hunter,1-59,1,0.50392634
+75255,8,Troll,Hunter,60-69,0,0.004726137
+75256,8,Troll,Hunter,1-59,1,0.79371667
+75272,8,Blood Elf,Priest,1-59,1,0.14848052
+75295,8,Blood Elf,Hunter,1-59,0,0.07296185
+75298,8,Blood Elf,Hunter,1-59,0,0.028602546
+75314,8,Troll,Rogue,1-59,0,0.04460052
+75318,8,Blood Elf,Warlock,1-59,0,0.69159085
+75320,8,Blood Elf,Hunter,1-59,1,0.81811273
+75332,8,Blood Elf,Mage,60-69,0,0.0045010713
+75342,8,Undead,Priest,70 (max pre-WotLK),0,0.01987229
+75373,8,Blood Elf,Rogue,1-59,0,0.59651977
+75402,8,Undead,Rogue,70 (max pre-WotLK),0,0.0032746086
+75404,8,Tauren,Warrior,1-59,0,0.03481028
+75408,8,Blood Elf,Hunter,1-59,1,0.90200347
+75433,8,Tauren,Druid,1-59,1,0.4878224
+75457,8,Blood Elf,Paladin,1-59,0,0.005936005
+75470,8,Orc,Shaman,60-69,0,0.0055370047
+75474,8,Blood Elf,Priest,1-59,0,0.35135365
+75476,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.05674037
+75477,8,Blood Elf,Mage,1-59,0,0.016164722
+75480,8,Orc,Shaman,60-69,0,0.03456824
+75483,8,Orc,Hunter,1-59,1,0.77376765
+75484,8,Tauren,Warrior,1-59,0,0.2148285
+75488,8,Undead,Rogue,1-59,0,0.36360428
+75492,8,Orc,Shaman,1-59,1,0.6369104
+75496,8,Undead,Warlock,1-59,0,0.041556466
+75500,8,Blood Elf,Hunter,1-59,1,0.6173561
+75501,8,Undead,Mage,1-59,0,0.058893897
+75508,8,Orc,Rogue,1-59,0,0.06025389
+75512,8,Orc,Rogue,1-59,1,0.29530954
+75529,8,Orc,Hunter,1-59,0,0.09829565
+75531,8,Blood Elf,Hunter,1-59,0,0.41789243
+75533,8,Blood Elf,Mage,1-59,0,0.4001725
+75547,8,Blood Elf,Warlock,1-59,1,0.4624523
+75551,8,Blood Elf,Mage,1-59,0,0.27270985
+75563,8,Blood Elf,Warlock,1-59,0,0.014870688
+75566,8,Blood Elf,Hunter,1-59,0,0.3321618
+75568,8,Blood Elf,Warlock,1-59,0,0.7736947
+75571,8,Tauren,Druid,60-69,0,0.014841588
+75577,8,Blood Elf,Rogue,1-59,1,0.59578097
+75581,8,Blood Elf,Paladin,1-59,0,0.2717708
+75587,8,Blood Elf,Paladin,1-59,0,0.01193652
+75613,8,Orc,Warrior,1-59,1,0.6144455
+75619,8,Blood Elf,Priest,1-59,1,0.8088459
+75623,8,Undead,Rogue,70 (max pre-WotLK),0,0.0046345503
+75624,8,Troll,Hunter,1-59,0,0.56927794
+75627,8,Orc,Rogue,1-59,1,0.42019057
+75637,8,Blood Elf,Hunter,70 (max pre-WotLK),0,0.0025447493
+75644,8,Undead,Rogue,1-59,1,0.72791165
+75659,8,Blood Elf,Rogue,1-59,0,0.020227503
+75670,8,Tauren,Warrior,70 (max pre-WotLK),0,0.004094392
+75677,8,Blood Elf,Warlock,1-59,1,0.7818822
+75686,8,Tauren,Shaman,1-59,1,0.49312994
+75689,8,Undead,Rogue,1-59,1,0.83755666
+75690,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.0035307605
+75693,8,Blood Elf,Hunter,1-59,0,0.021479875
+75704,8,Orc,Warlock,60-69,1,0.14255634
+75706,8,Tauren,Druid,70 (max pre-WotLK),0,0.0054759677
+75715,8,Troll,Hunter,1-59,0,0.037554853
+75716,8,Undead,Mage,60-69,1,0.09500918
+75717,8,Undead,Warlock,1-59,0,0.015600723
+75726,8,Blood Elf,Warlock,1-59,1,0.71920496
+75730,8,Blood Elf,Warlock,1-59,1,0.6926351
+75740,8,Orc,Warlock,1-59,1,0.38100776
+75745,8,Blood Elf,Hunter,60-69,0,0.0037322894
+75746,8,Blood Elf,Warlock,1-59,0,0.76868784
+75748,8,Tauren,Druid,1-59,1,0.6945722
+75754,8,Tauren,Warrior,1-59,0,0.53291
+75762,8,Troll,Hunter,1-59,1,0.902627
+75769,8,Troll,Hunter,1-59,0,0.004262661
+75779,8,Troll,Rogue,1-59,1,0.75562984
+75787,8,Blood Elf,Rogue,1-59,0,0.78763735
+75789,8,Tauren,Shaman,1-59,1,0.6367469
+75793,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.0026599676
+75797,8,Blood Elf,Paladin,1-59,0,0.0041611986
+75799,8,Undead,Rogue,60-69,0,0.006153179
+75803,8,Tauren,Druid,1-59,0,0.05987541
+75805,8,Tauren,Warrior,1-59,1,0.6264215
+75806,8,Undead,Warrior,1-59,0,0.0597736
+75816,8,Tauren,Druid,1-59,0,0.19939147
+75818,8,Undead,Rogue,1-59,0,0.0070194523
+75822,8,Tauren,Druid,1-59,0,0.30460927
+75827,8,Blood Elf,Warlock,1-59,0,0.026637789
+75828,8,Blood Elf,Warlock,1-59,1,0.74545753
+75833,8,Blood Elf,Hunter,1-59,0,0.49108425
+75836,8,Orc,Rogue,1-59,1,0.40649134
+75845,8,Tauren,Shaman,70 (max pre-WotLK),0,0.005815555
+75856,8,Tauren,Warrior,1-59,1,0.9251952
+75857,8,Undead,Warlock,1-59,1,0.70205605
+75860,8,Undead,Rogue,1-59,1,0.89771324
+75861,8,Blood Elf,Hunter,1-59,0,0.004943898
+75863,8,Troll,Hunter,1-59,0,0.0009589156
+75865,8,Blood Elf,Hunter,1-59,1,0.87985927
+75868,8,Blood Elf,Mage,1-59,1,0.8707748
+75869,8,Undead,Rogue,1-59,1,0.78555757
+75875,8,Undead,Mage,1-59,1,0.87259054
+75876,8,Blood Elf,Warlock,1-59,1,0.8600478
+75881,8,Blood Elf,Mage,1-59,0,0.9386456
+75882,8,Blood Elf,Warlock,1-59,0,0.053078648
+75883,8,Orc,Shaman,1-59,0,0.89065003
+75884,8,Undead,Rogue,1-59,0,0.26522487
+75887,8,Blood Elf,Paladin,1-59,1,0.5941181
+75895,8,Undead,Priest,1-59,0,0.0067446637
+75896,8,Undead,Rogue,1-59,1,0.7768576
+75897,8,Troll,Warrior,1-59,0,0.15530929
+75904,8,Blood Elf,Mage,1-59,0,0.44497755
+75909,8,Blood Elf,Paladin,1-59,1,0.87809616
+75914,8,Blood Elf,Mage,1-59,1,0.96048325
+75915,8,Blood Elf,Rogue,1-59,1,0.95735604
+75921,8,Blood Elf,Rogue,1-59,1,0.9129564
+75922,8,Undead,Warlock,1-59,0,0.8639749
+75926,8,Blood Elf,Paladin,1-59,0,0.38186002
+75931,8,Blood Elf,Hunter,1-59,0,0.016924059
+75934,8,Blood Elf,Mage,1-59,1,0.81000197
+75937,8,Blood Elf,Paladin,1-59,1,0.59718156
+75939,8,Tauren,Hunter,1-59,1,0.8719759
+75942,8,Blood Elf,Paladin,1-59,1,0.8833246
+75943,8,Tauren,Warrior,1-59,0,0.59305304
+75945,8,Tauren,Druid,1-59,1,0.0186781
+75947,8,Tauren,Warrior,1-59,1,0.4028116
+75948,8,Tauren,Hunter,1-59,0,0.0023652588
+75949,8,Tauren,Shaman,1-59,0,0.0014443892
+75953,8,Blood Elf,Paladin,1-59,0,0.6293323
+75954,8,Blood Elf,Warlock,1-59,0,0.01820319
+75956,8,Orc,Warrior,1-59,1,0.96338195
+75957,8,Orc,Warlock,1-59,0,0.13285403
+75964,8,Blood Elf,Mage,1-59,1,0.07148054
+75965,8,Blood Elf,Hunter,1-59,0,0.36404982
+75969,8,Blood Elf,Hunter,1-59,1,0.375696
+75971,8,Blood Elf,Mage,1-59,1,0.789845
+75972,8,Blood Elf,Hunter,1-59,1,0.81891114
+75978,8,Blood Elf,Mage,1-59,1,0.8097889
+75982,8,Undead,Warrior,1-59,0,0.28163078
+75983,8,Tauren,Warrior,1-59,0,0.08469617
+75988,8,Blood Elf,Warlock,1-59,1,0.93915397
+75999,8,Blood Elf,Priest,1-59,0,0.18412861
+76007,8,Tauren,Druid,1-59,0,0.050545584
+76009,8,Orc,Warrior,1-59,1,0.96732247
+76015,8,Blood Elf,Hunter,1-59,1,0.4900749
+76020,8,Tauren,Druid,1-59,1,0.90427226
+76022,8,Blood Elf,Mage,1-59,1,0.82565486
+76026,8,Undead,Rogue,1-59,1,0.420811
+76030,8,Tauren,Druid,1-59,1,0.57941216
+76036,8,Blood Elf,Paladin,1-59,1,0.88613534
+76038,8,Blood Elf,Rogue,1-59,0,0.36083293
+76041,8,Blood Elf,Priest,1-59,1,0.57404554
+76049,8,Undead,Warlock,1-59,0,0.019169018
+76051,8,Blood Elf,Hunter,1-59,0,0.020081155
+76052,8,Undead,Priest,1-59,1,0.17575721
+76055,8,Undead,Warlock,1-59,1,0.54302514
+76058,8,Blood Elf,Warlock,70 (max pre-WotLK),0,0.08691221
+76059,8,Tauren,Druid,1-59,0,0.16940215
+76060,8,Blood Elf,Warlock,1-59,0,0.0028124428
+76069,8,Undead,Warlock,1-59,1,0.65138835
+76076,8,Blood Elf,Hunter,1-59,0,0.10250674
+76082,8,Undead,Warlock,1-59,1,0.88399243
+76093,8,Blood Elf,Hunter,1-59,0,0.13587657
+76094,8,Tauren,Hunter,1-59,1,0.07688981
+76095,8,Blood Elf,Hunter,1-59,1,0.7266076
+76101,8,Troll,Hunter,1-59,0,0.8181015
+76103,8,Blood Elf,Mage,1-59,0,0.6545277
+76106,8,Blood Elf,Rogue,1-59,1,0.8599978
+76110,8,Orc,Warrior,1-59,1,0.15391345
+76111,8,Blood Elf,Warlock,1-59,1,0.83167124
+76113,8,Blood Elf,Hunter,1-59,0,0.5186046
+76114,8,Tauren,Druid,1-59,0,0.0018876807
+76119,8,Blood Elf,Warlock,1-59,0,0.0151866665
+76122,8,Orc,Hunter,1-59,0,0.100554295
+76123,8,Undead,Rogue,1-59,1,0.89823925
+76128,8,Blood Elf,Warlock,1-59,1,0.5782188
+76139,8,Blood Elf,Rogue,1-59,1,0.47594616
+76142,8,Undead,Mage,1-59,1,0.74643713
+76151,8,Troll,Warrior,1-59,0,0.022105573
+76154,8,Blood Elf,Warlock,1-59,0,0.4353151
+76157,8,Tauren,Druid,1-59,1,0.20160359
+76159,8,Blood Elf,Warlock,1-59,0,0.026320461
+76171,8,Blood Elf,Priest,1-59,1,0.86466706
+76176,8,Blood Elf,Mage,1-59,1,0.84262156
+76183,8,Orc,Hunter,1-59,1,0.13014965
+76186,8,Blood Elf,Hunter,1-59,1,0.27300146
+76189,8,Undead,Rogue,1-59,0,0.62212646
+76192,8,Undead,Rogue,1-59,0,0.07128498
+76196,8,Blood Elf,Rogue,1-59,1,0.95309275
+76201,8,Tauren,Hunter,1-59,1,0.6348508
+76204,8,Blood Elf,Paladin,1-59,1,0.5210072
+76205,8,Undead,Warlock,1-59,1,0.91506696
+76209,8,Blood Elf,Priest,1-59,1,0.8408021
+76210,8,Tauren,Shaman,1-59,1,0.6793776
+76214,8,Blood Elf,Warlock,1-59,0,0.63182837
+76216,8,Blood Elf,Paladin,1-59,0,0.45890132
+76218,8,Blood Elf,Mage,1-59,1,0.89999723
+76220,8,Orc,Hunter,1-59,0,0.21056749
+76225,8,Undead,Rogue,1-59,0,0.12628525
+76229,8,Blood Elf,Hunter,1-59,1,0.76913095
+76232,8,Tauren,Warrior,1-59,1,0.95057297
+76236,8,Blood Elf,Mage,1-59,1,0.783726
+76238,8,Tauren,Shaman,1-59,1,0.65442866
+76245,8,Blood Elf,Mage,1-59,0,0.7101866
+76252,8,Tauren,Shaman,1-59,0,0.8370386
+76260,8,Tauren,Druid,1-59,0,0.24338323
+76268,8,Blood Elf,Priest,1-59,1,0.80778444
+76270,8,Orc,Warrior,1-59,1,0.917224
+76272,8,Undead,Rogue,1-59,1,0.8637776
+76280,8,Tauren,Shaman,1-59,1,0.8501764
+76283,8,Undead,Warlock,1-59,0,0.23325709
+76287,8,Blood Elf,Paladin,1-59,0,0.7104849
+76294,8,Undead,Rogue,1-59,0,0.01973354
+76298,8,Tauren,Druid,1-59,1,0.59389365
+76299,8,Tauren,Shaman,70 (max pre-WotLK),0,0.09474412
+76300,8,Undead,Warlock,1-59,1,0.85383964
+76303,8,Blood Elf,Hunter,1-59,1,0.84127104
+76308,8,Tauren,Shaman,70 (max pre-WotLK),0,0.0034985843
+76331,8,Blood Elf,Priest,1-59,0,0.10092642
+76341,8,Blood Elf,Paladin,1-59,0,0.01970643
+76346,8,Troll,Hunter,1-59,1,0.7767375
+76347,8,Blood Elf,Paladin,1-59,0,0.76491755
+76353,8,Troll,Hunter,70 (max pre-WotLK),0,0.087066576
+76377,8,Blood Elf,Rogue,1-59,0,0.1923473
+76383,8,Blood Elf,Priest,1-59,1,0.7719574
+76385,8,Blood Elf,Mage,1-59,1,0.20373856
+76389,8,Blood Elf,Mage,1-59,0,0.021095524
+76393,8,Tauren,Druid,1-59,1,0.7587416
+76400,8,Blood Elf,Paladin,1-59,1,0.689523
+76402,8,Undead,Rogue,1-59,1,0.52397686
+76405,8,Blood Elf,Rogue,1-59,1,0.7403769
+76413,8,Tauren,Shaman,1-59,1,0.8711464
+76415,8,Tauren,Druid,1-59,0,0.12557568
+76424,8,Blood Elf,Hunter,1-59,0,0.008546577
+76430,8,Troll,Mage,1-59,0,0.01928141
+76437,8,Blood Elf,Paladin,1-59,0,0.010765524
+76443,8,Blood Elf,Mage,1-59,0,0.086601704
+76448,8,Blood Elf,Paladin,1-59,0,0.099209175
+76449,8,Blood Elf,Hunter,1-59,1,0.75598204
+76456,8,Orc,Hunter,1-59,0,0.0320407
+76485,8,Orc,Warrior,1-59,1,0.47441968
+76508,8,Undead,Warlock,1-59,1,0.2102399
+76529,8,Orc,Rogue,1-59,0,0.792969
+76530,8,Tauren,Hunter,1-59,1,0.7588949
+76532,8,Tauren,Warrior,1-59,1,0.91094863
+76533,8,Blood Elf,Paladin,1-59,1,0.6258938
+76537,8,Blood Elf,Mage,70 (max pre-WotLK),0,0.007908619
+76538,8,Tauren,Druid,1-59,0,0.031689126
+76549,8,Orc,Warrior,1-59,1,0.6236918
+76551,8,Troll,Hunter,1-59,0,0.07076674
+76553,8,Troll,Hunter,1-59,0,0.1959503
+76554,8,Tauren,Warrior,1-59,1,0.88514155
+76563,8,Blood Elf,Paladin,1-59,1,0.7905963
+76564,8,Tauren,Shaman,1-59,1,0.75153106
+76565,8,Tauren,Shaman,1-59,1,0.79413456
+76572,8,Orc,Warrior,1-59,0,0.012938054
+76573,8,Blood Elf,Rogue,1-59,0,0.03136867
+76578,8,Blood Elf,Rogue,1-59,0,0.5672425
+76589,8,Blood Elf,Warlock,1-59,1,0.7807345
+76590,8,Blood Elf,Priest,1-59,0,0.04917361
+76598,8,Blood Elf,Mage,1-59,1,0.8807752
+76600,8,Tauren,Shaman,1-59,0,0.7548891
+76602,8,Tauren,Hunter,1-59,0,0.18166678
+76604,8,Tauren,Druid,1-59,0,0.6494714
+76605,8,Undead,Rogue,1-59,0,0.7321227
+76611,8,Tauren,Warrior,1-59,0,0.008536655
+76613,8,Blood Elf,Mage,1-59,0,0.017607268
+76615,8,Undead,Rogue,1-59,0,0.7980051
+76619,8,Blood Elf,Hunter,1-59,0,0.419119
+76620,8,Tauren,Druid,1-59,0,0.099635094
+76622,8,Orc,Hunter,1-59,0,0.40981147
+76624,8,Blood Elf,Mage,1-59,0,0.01959134
+76633,8,Tauren,Hunter,1-59,1,0.587547
+76639,8,Tauren,Hunter,1-59,0,0.17381877
+76641,8,Tauren,Shaman,1-59,0,0.12785636
+76642,8,Troll,Shaman,1-59,0,0.49084398
+76651,8,Undead,Warrior,1-59,1,0.54157275
+76664,8,Blood Elf,Warlock,1-59,0,0.19320102
+76665,8,Orc,Hunter,1-59,0,0.020668708
+76668,8,Blood Elf,Hunter,1-59,1,0.9170341
+76669,8,Tauren,Hunter,60-69,0,0.039322846
+76678,8,Orc,Hunter,1-59,0,0.031910785
+76680,8,Blood Elf,Mage,1-59,1,0.9210443
+76681,8,Blood Elf,Warlock,1-59,0,0.00377025
+76686,8,Troll,Shaman,1-59,0,0.02682458
+76689,8,Blood Elf,Paladin,1-59,0,0.69208807
+76695,8,Blood Elf,Warlock,1-59,1,0.6941786
+76703,8,Tauren,Druid,1-59,0,0.017203923
+76704,8,Tauren,Hunter,1-59,0,0.02675649
+76709,8,Tauren,Druid,1-59,1,0.57782215
+76715,8,Blood Elf,Paladin,1-59,1,0.6324435
+76716,8,Undead,Rogue,1-59,1,0.62332636
+76719,8,Blood Elf,Warlock,1-59,1,0.86499596
+76721,8,Blood Elf,Hunter,1-59,0,0.0030961551
+76724,8,Blood Elf,Warlock,1-59,1,0.91720206
+76727,8,Blood Elf,Mage,1-59,0,0.08631896
+76728,8,Blood Elf,Priest,1-59,0,0.04211921
+76729,8,Tauren,Hunter,1-59,0,0.22865915
+76737,8,Troll,Hunter,1-59,0,0.15827513
+76739,8,Undead,Warlock,1-59,1,0.8519312
+76742,8,Blood Elf,Mage,1-59,0,0.8790107
+76743,8,Blood Elf,Warlock,1-59,1,0.9146407
+76744,8,Troll,Warrior,1-59,1,0.6781877
+76749,8,Blood Elf,Paladin,1-59,0,0.03103481
+76750,8,Blood Elf,Mage,1-59,1,0.9217154
+76751,8,Blood Elf,Mage,1-59,1,0.20348264
+76757,8,Blood Elf,Paladin,1-59,1,0.7147585
+76764,8,Undead,Mage,70 (max pre-WotLK),0,0.007665726
+76766,8,Tauren,Warrior,1-59,0,0.017678838
+76769,8,Blood Elf,Rogue,60-69,0,0.003164112
+76772,8,Tauren,Warrior,1-59,0,0.13571486
+76778,8,Blood Elf,Paladin,1-59,0,0.58474475
+76787,8,Orc,Warlock,1-59,1,0.9245298
+76790,8,Blood Elf,Warlock,1-59,1,0.89764124
+76794,8,Blood Elf,Warlock,1-59,1,0.3047454
+76800,8,Blood Elf,Warlock,1-59,0,0.018024335
+76803,8,Blood Elf,Mage,1-59,0,0.38056
+76805,8,Undead,Warlock,1-59,0,0.032476336
+76813,8,Blood Elf,Rogue,1-59,0,0.022206731
+76814,8,Undead,Warlock,1-59,1,0.72391546
+76816,8,Orc,Warrior,1-59,0,0.12966561
+76837,8,Tauren,Druid,1-59,1,0.7615978
+76848,8,Undead,Warlock,1-59,0,0.032725334
+76857,8,Blood Elf,Hunter,1-59,1,0.83597845
+76870,8,Blood Elf,Warlock,1-59,1,0.9063642
+76881,8,Blood Elf,Hunter,1-59,1,0.033893682
+76883,8,Blood Elf,Warlock,1-59,0,0.043913644
+76887,8,Undead,Rogue,70 (max pre-WotLK),0,0.04528107
+76889,8,Undead,Rogue,1-59,0,0.0428289
+76891,8,Orc,Warrior,1-59,1,0.9439985
+76892,8,Tauren,Warrior,1-59,0,0.14845183
+76899,8,Orc,Warrior,1-59,0,0.45089483
+76911,8,Blood Elf,Priest,1-59,1,0.62218267
+76947,8,Blood Elf,Mage,1-59,0,0.6186056
+76956,8,Blood Elf,Hunter,1-59,0,0.75649536
+76965,8,Blood Elf,Warlock,1-59,1,0.17264163
+76966,8,Tauren,Druid,1-59,1,0.90734434
+76968,8,Tauren,Druid,1-59,0,0.3138118
+76970,8,Tauren,Hunter,1-59,1,0.32313138
+76975,8,Blood Elf,Paladin,1-59,0,0.062369857
+76976,8,Blood Elf,Hunter,1-59,0,0.6100834
+76977,8,Undead,Mage,1-59,0,0.053687625
+76983,8,Tauren,Druid,1-59,1,0.23445228
+76989,8,Tauren,Warrior,1-59,0,0.045986935
+76991,8,Troll,Shaman,1-59,0,0.12640443
+76996,8,Undead,Mage,1-59,0,0.14454918
+77004,8,Blood Elf,Hunter,1-59,1,0.3724992
+77030,8,Blood Elf,Rogue,1-59,1,0.7851928
+77032,8,Blood Elf,Paladin,1-59,0,0.105724506
+77041,8,Orc,Hunter,1-59,0,0.02560402
+77052,8,Blood Elf,Hunter,1-59,0,0.031110805
+77057,8,Undead,Warlock,1-59,0,0.03019971
+77063,8,Undead,Warlock,1-59,1,0.14806326
+77064,8,Blood Elf,Warlock,1-59,0,0.04889313
+77067,8,Blood Elf,Paladin,1-59,0,0.043711007
+77072,8,Blood Elf,Priest,1-59,0,0.09669153
+77073,8,Blood Elf,Hunter,1-59,0,0.085634
+77080,8,Blood Elf,Paladin,1-59,0,0.032395158
+77084,8,Orc,Shaman,1-59,0,0.34554136
+77086,8,Orc,Warrior,1-59,0,0.26043162
+77098,8,Blood Elf,Paladin,1-59,0,0.208064
+77104,8,Blood Elf,Warlock,1-59,1,0.38332045
+77107,8,Blood Elf,Paladin,1-59,0,0.042338006
+77119,8,Troll,Hunter,70 (max pre-WotLK),0,0.008111535
+77126,8,Blood Elf,Warlock,1-59,1,0.26203564
+77128,8,Blood Elf,Paladin,1-59,0,0.021926273
+77130,8,Blood Elf,Paladin,1-59,0,0.27985492
+77131,8,Blood Elf,Warlock,1-59,1,0.31142464
+77132,8,Blood Elf,Priest,1-59,0,0.0249165
+77155,8,Tauren,Warrior,1-59,0,0.14019716
+77159,8,Tauren,Druid,1-59,0,0.10691253
+77179,8,Blood Elf,Hunter,1-59,0,0.08718572
+77184,8,Blood Elf,Paladin,1-59,0,0.08512725
+77200,8,Tauren,Warrior,1-59,0,0.11149719
+77209,8,Undead,Warlock,1-59,1,0.9249803
+77212,8,Tauren,Shaman,1-59,1,0.6279013
+77216,8,Blood Elf,Warlock,1-59,0,0.047885884
+77224,8,Blood Elf,Hunter,1-59,0,0.041665457
+77226,8,Undead,Warlock,1-59,0,0.08950058
+77232,8,Blood Elf,Warlock,1-59,0,0.1458594
+77253,8,Undead,Rogue,1-59,1,0.4832203
+77264,8,Blood Elf,Priest,1-59,0,0.037685808
+77280,8,Tauren,Warrior,1-59,1,0.41608986
+77283,8,Troll,Shaman,1-59,0,0.09381213
+77284,8,Blood Elf,Paladin,1-59,0,0.107313834
+77285,8,Tauren,Shaman,1-59,0,0.23534778
+77286,8,Blood Elf,Rogue,1-59,1,0.41842884
+77293,8,Tauren,Druid,1-59,0,0.10232407
+77318,8,Undead,Warlock,1-59,0,0.04139572
+77320,8,Blood Elf,Priest,1-59,0,0.060749475
+77325,8,Tauren,Druid,1-59,0,0.09186668
+77332,8,Tauren,Druid,1-59,0,0.09410095
+77352,8,Blood Elf,Rogue,1-59,0,0.030730715
+77362,8,Tauren,Warrior,1-59,0,0.08413898
+77367,8,Orc,Hunter,1-59,0,0.07689569
+77368,8,Orc,Hunter,1-59,0,0.10875853
+77376,8,Tauren,Druid,1-59,0,0.063609585
+77377,8,Blood Elf,Paladin,1-59,0,0.113482274
+77378,8,Orc,Hunter,1-59,0,0.0832317
+77379,8,Blood Elf,Mage,1-59,0,0.25625208
+77393,8,Tauren,Warrior,1-59,0,0.09027267
