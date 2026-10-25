@@ -1,0 +1,5 @@
+endpoint,concurrency,requests,requests_per_sec,players_per_sec,p50_ms,p95_ms,p99_ms,error_rate
+/predict,10,200,32.1,32.1,290.4,460.3,656.7,0.0
+/predict,50,1000,151.8,151.8,290.4,512.8,606.9,0.0
+/predict,100,2000,53.4,53.4,1312.6,5293.2,6021.4,0.0
+/predict/batch,20,200,33.8,3380.0,496.6,733.2,893.5,0.0

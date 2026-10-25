@@ -2,7 +2,7 @@
 
 **A churn model for an online game, built end to end: raw activity logs → features → imbalanced classification → fairness check → tested API on the web.**
 
-**API:** _link after deploy_ · **Docs:** _link after deploy_/docs
+**Live API:** https://playerpulse-api.vercel.app · **Docs:** https://playerpulse-api.vercel.app/docs
 
 The data is the **World of Warcraft Avatar History** dataset: real activity logs from one WoW server in 2008. Every 10 minutes the server recorded which characters were online, their level, class, race, guild and zone. That gives **10.8 million snapshots for 37,354 characters**.
 
@@ -18,7 +18,8 @@ The data is the **World of Warcraft Avatar History** dataset: real activity logs
 | **At the chosen threshold** | Catches **73% of churners** at **48% precision** |
 | **Top 10% riskiest players** | Contain **45% of all churners** |
 | **Imbalance** | At the default 0.5 threshold recall was only 34–38%; class weights, undersampling or a tuned threshold raised it to 65–81% |
-| **Tests** | 14 pytest tests, including one that checks the API matches the trained model to 0.001 |
+| **Load test (live API)** | **3,380 players scored per second** with batch requests, 0 errors in 3,400 requests |
+| **Tests** | 14 pytest tests, including one that checks the API matches the trained model to 0.001; run by GitHub Actions on every push |
 
 ---
 
@@ -73,6 +74,17 @@ The big gaps are **level 71–80** and **Death Knights**. Both only exist after 
 | `GET /fairness` | recall / false-positive rate by group |
 | `GET /health` | status |
 
+**5. Load test** (`src/step5_load_test.py`, run from India against the live Vercel API)
+
+| Endpoint | Requests in flight | Requests | Requests / s | Players / s | p50 | p95 | Errors |
+|---|---|---|---|---|---|---|---|
+| `/predict` | 10 | 200 | 32 | 32 | 290 ms | 460 ms | 0 |
+| `/predict` | 50 | 1,000 | 152 | 152 | 290 ms | 513 ms | 0 |
+| `/predict` | 100 | 2,000 | 53 | 53 | 1,313 ms | 5,293 ms | 0 |
+| `/predict/batch` (100 players each) | 20 | 200 | 34 | **3,380** | 497 ms | 733 ms | 0 |
+
+Most of the ~290 ms is the network round trip from India to the server; scoring itself takes a few milliseconds. Single requests top out around 150 per second on the free Vercel plan and slow down at 100 in flight, so **batching is how to reach thousands of predictions per second**. No request failed.
+
 The API loads the exported XGBoost trees (`models/booster.json`) with plain NumPy scaling, so it does not need scikit-learn or pandas. `tests/test_api.py` checks input validation, warnings, batch limits, and that its probabilities match the full training pipeline.
 
 ---
@@ -90,6 +102,7 @@ python src/step4_export.py
 pip install -r requirements-dev.txt
 python -m pytest -q
 uvicorn api.main:app --reload      # http://127.0.0.1:8000/docs
+python src/step5_load_test.py https://playerpulse-api.vercel.app
 ```
 
 ## Limitations
@@ -97,7 +110,7 @@ uvicorn api.main:app --reload      # http://127.0.0.1:8000/docs
 - **One server, one year (2008).** Behaviour on a modern game would differ.
 - **"Not seen next month" is a proxy for churn.** Some players come back later.
 - **New content breaks the model** (see fairness): it needs retraining after big updates.
-- **No load test or cloud monitoring yet** (planned next).
+- **Free-tier hosting:** Vercel's free plan limits single-request throughput; drift monitoring and an Azure deployment are planned next.
 
 ---
 
