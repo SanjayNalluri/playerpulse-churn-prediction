@@ -99,11 +99,14 @@ fill(PRESETS.risky);
 document.querySelectorAll("[data-preset]").forEach(b=>b.onclick=()=>{fill(PRESETS[b.dataset.preset]);predict()});
 let T=0.2;
 const css=v=>getComputedStyle(document.documentElement).getPropertyValue(v);
+let reqId=0;  // only the latest request may update the result (an older reply can arrive later)
 async function predict(){
+ const my=++reqId;
  const body={};FIELDS.forEach(([k,,t])=>body[k]=t?f.elements[k].value:Number(f.elements[k].value));
  const res=document.getElementById("res");
  const r=await fetch("/predict",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
  const j=await r.json();
+ if(my!==reqId)return;
  if(!r.ok){res.innerHTML=`<h2>Result</h2><p class="small">Input rejected: ${(j.detail||[]).map(d=>d.loc.slice(-1)[0]+" "+d.msg).join("; ")}</p>`;return}
  const col=css("--"+(j.risk==="medium"?"med":j.risk)),pc=(j.churn_probability*100).toFixed(1);
  res.innerHTML=`<h2>Result</h2><div class="p">${pc}%</div><div class="small">chance this player does not return next month</div>
