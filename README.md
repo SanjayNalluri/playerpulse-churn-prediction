@@ -3,6 +3,7 @@
 **A churn model for an online game, built end to end: raw activity logs → features → imbalanced classification → subgroup performance audit → tested API and dashboard on the web → drift monitoring and retraining check.**
 
 **Live dashboard:** https://playerpulse-api.vercel.app (score a player in the browser) · **API docs:** https://playerpulse-api.vercel.app/docs
+**Also on Azure App Service:** https://playerpulse-sanjay.azurewebsites.net (free F1 tier, India South Central; the first request after idle takes ~30 s to wake up)
 
 The data is the **World of Warcraft Avatar History** dataset: real activity logs from one WoW server in 2008. Every 10 minutes the server recorded which characters were online, their level, class, race, guild and zone. That gives **10.8 million snapshots for 37,354 characters**.
 
@@ -158,17 +159,19 @@ uvicorn api.main:app --reload      # http://127.0.0.1:8000/docs
 python src/step5_load_test.py https://playerpulse-api.vercel.app
 ```
 
+**Deploy:** Vercel builds from `main` on every push (`vercel.json`). For Azure, run `az login`, then `./deploy_azure.ps1`: it copies only the API and model files and deploys them to App Service with uvicorn.
+
 ## Limitations
 
 - **One server, one year (2008).** Behaviour on a modern game would differ.
 - **"Not seen next month" is a proxy for churn.** Some players come back later.
 - **New content breaks the model** (see subgroup audit): it needs retraining after big updates.
 - **Monitoring is a replay**, not a scheduled job on live traffic, and the API does not store requests, so `POST /drift` needs the batch sent to it.
-- **Free-tier hosting:** Vercel's free plan limits single-request throughput; batching is the way around it.
+- **Free-tier hosting:** Vercel's free plan limits single-request throughput (batching is the way around it), and Azure's F1 tier sleeps when idle and has a daily CPU quota. The load test was run on Vercel only.
 
 ---
 
-**Tech:** Python · pandas · scikit-learn · XGBoost · FastAPI · pytest · GitHub Actions · Vercel
+**Tech:** Python · pandas · scikit-learn · XGBoost · FastAPI · pytest · GitHub Actions · Vercel · Azure App Service
 
 **Data:** [World of Warcraft Avatar History](https://www.kaggle.com/datasets/mylesoneill/warcraft-avatar-history), Kaggle (Lee et al., 2011)
 

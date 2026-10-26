@@ -1,3 +1,4 @@
 fastapi==0.161.0
 numpy==2.3.4
 xgboost-cpu==3.1.1
+uvicorn==0.35.0
